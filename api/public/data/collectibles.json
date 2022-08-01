@@ -1,0 +1,1145 @@
+[ {
+  "id" : "62e7fd13ef4a6a5cfb666616",
+  "name" : {
+    "es" : "Parietal de Lasser, el Inquisidor",
+    "en" : "Parietal bone of Lasser, the Inquisitor",
+    "fr" : "Os pariétal de Lasser, l'Inquisiteur",
+    "de" : "Scheitelbein von Lasser, dem Inquisitor",
+    "it" : "Osso parietale di Lasser l'Inquisitore",
+    "zh" : "裁判官拉瑟的头盖骨",
+    "ru" : "Теменная кость инквизитора Лассера",
+    "ja" : "宗教裁判官ラッセルの頭頂骨",
+    "pt-BR" : "Osso parietal de Lasser, o Inquisidor",
+    "ko" : "이단심문관 라세르의 정수리뼈"
+  },
+  "description" : {
+    "es" : "A diferencia de otros inquisidores, Lasser mostró una inusitada indulgencia hacia los acusados, llegando incluso a detener ejecuciones. Su debilidad le llevó a la excomulgación y al destierro.",
+    "en" : "Unlike other inquisitors, Lasser showed an unusual amount of indulgence towards the accused, even to the point of stopping executions. His weakness led him to excommunication and exile.",
+    "fr" : "Contrairement à d'autres inquisiteurs, Lasser faisait preuve d'une indulgence inhabituelle envers les accusés, jusqu'à parfois suspendre des exécutions. Pour sa faiblesse, il fut excommunié et exilé.",
+    "de" : "Im Gegensatz zu anderen Inquisitoren ließ Lasse den Delinquenten gegenüber große Milde walten, er ging sogar so weit, Exekutionen zu verhindern. Diese Schwäche führte zu seiner Exkommunikation und Verbannung.",
+    "it" : "A differenza di altri inquisitori, Lasser mostrava un'inconsueta indulgenza verso gli accusati, tanto da interromperne le esecuzioni. La sua debolezza lo portò alla scomunica prima e all'esilio poi.",
+    "zh" : "拉瑟与其他裁判官不同，他对被控告之人心怀同情，甚至想要废除极刑。此人软弱不堪，已被革籍流放",
+    "ru" : "В отличие от прочих инквизиторов, Лассер часто проявлял к осужденным снисходительность – вплоть до прерывания экзекуции. Слабость привела его к отлучению от церкви и к изгнанию.",
+    "ja" : "ラッセルはほかの裁判官とは異\nなり、被告人に対して多大なる\n寛容さを持っており、時には処\n刑をやめさせることすらあっ\nた。その心の弱さが原因となっ\nて彼は破門され、追放を命じら\nれた。",
+    "pt-BR" : "Ao contrário de outros inquisidores, Lasser demonstrava uma indulgência incomum para com o acusado, chegando até a interromper execuções. Essa fraqueza causou sua excomunhão e exílio.",
+    "ko" : "라세르는 다른 이단심문관과 달리 죄인의 사형을 멈추게 할 만큼 남다른 관용을 베풀었다. 그 약점은 결국 자신을 파문과 유배자라는 운명으로 이끌었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666617",
+  "name" : {
+    "es" : "Mandíbula de Ashgan, el Inquisidor",
+    "en" : "Jaw of Ashgan, the Inquisitor",
+    "fr" : "Mandibule d'Ashgan, l'Inquisiteur",
+    "de" : "Kieferknochen von Ashgan, dem Inquisitor",
+    "it" : "Mascella di Ashgan l'Inquisitore",
+    "zh" : "裁判官艾仕甘的下巴",
+    "ru" : "Челюсть инквизитора Ашгана",
+    "ja" : "宗教裁判官アシュガンの顎骨",
+    "pt-BR" : "Mandíbula de Ashgan, o Inquisidor",
+    "ko" : "이단심문관 애쉬건의 턱뼈"
+  },
+  "description" : {
+    "es" : "Ashgan buscó desesperado respuestas a su credo a través de la tortura, condenando para ello incluso a miembros del sacerdocio. No halló más que arrepentimiento en sus actos.",
+    "en" : "Ashgan desperately sought answers for his creed through torture, even condemning members of the priesthood. He found nothing but regret in his actions.",
+    "fr" : "Ashgan cherchait désespérément des réponses à sa foi par la torture, et envisageait même parfois des membres de la prêtrise. Il ne trouva que du regret dans ses actions.",
+    "de" : "Ashgan suchte verzweifelt nach Antworten für seinen Glauben, indem er wahllos folterte. Nicht einmal Mitglieder der Priesterschaft blieben verschont. Seine Taten bescherten ihm nichts als Reue.",
+    "it" : "Ashgan cercava disperatamente risposte alla sua fede attraverso la tortura, persino condannando i membri del sacerdozio. Non trovò che rimorso nelle sue azioni.",
+    "zh" : "艾仕甘拼尽一切严刑拷打，企图以此寻求自己信条的真相，他甚至对祭司们也痛下黑手。但是此举只能让他陷入无尽的悔恨",
+    "ru" : "Ашган отчаянно искал ответов на вопросы своей веры через пытки и приговаривал даже представителей духовенства. Он ничего не узнал, но ему пришлось пожалеть о своих действиях.",
+    "ja" : "アシュガンは教義における答え\nを、拷問を通して探し求めてい\nた。司祭にすら有罪を宣告する\nこともあった彼に残ったのは、\n強い後悔の念のみであった。",
+    "pt-BR" : "Ashgan buscou desesperadamente respostas para sua crença por meio da tortura, condenando até membros do sacerdócio. Suas ações não renderam nada além de arrependimento.",
+    "ko" : "애쉬건은 무자비한 고문과 사제단을 비난함으로써 자신의 신조에 대한 해답을 찾으려 노력했다. 그럴수록 자신의 행동이 후회만 남는다는 걸 알게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666618",
+  "name" : {
+    "es" : "Cervical de Zicher, el Cervecero",
+    "en" : "Cervical vertebra of Zicher, the Brewmaster",
+    "fr" : "Vertèbre cervicale de Zicher, le Brasseur",
+    "de" : "Halswirbel von Zicher, dem Braumeister",
+    "it" : "Vertebra cervicale di Zicher il Mastro birraio",
+    "zh" : "酒师齐赫的颈椎",
+    "ru" : "Шейный позвонок пивовара Зихера",
+    "ja" : "醸造人ジッチャーの頸椎",
+    "pt-BR" : "Vertebra cervical de Zicher, o Cervejeiro",
+    "ko" : "양조기술자 지커의 경추골"
+  },
+  "description" : {
+    "es" : "Zicher, el \"Maestro Cervecero\", dio innoble fama a su monasterio elaborando la cerveza más famosa del reino. Una noche, las llamas de un incendio elevaron su leyenda a los cielos.",
+    "en" : "Zicher, the Brewmaster, gave ignoble fame to his monastery by brewing the most famous beer in the kingdom. One night, the flames of a fire raised his legend to the heavens.",
+    "fr" : "Zicher, le Brasseur, attira une triste notoriété à son monastère en brassant la bière la plus célèbre du royaume. Un soir, les flammes d'un incendie firent monter sa légende jusqu'aux cieux.",
+    "de" : "Zicher, der Braumeister, verhalf seiner Abtei zu Ruhm, indem er das beste Bier des Königreichs braute. Eines Nachts kam er bei einem Feuer um und wurde bald zur Legende.",
+    "it" : "Zicher il Mastro birraio diede una fama ignobile al suo monastero preparando la più famosa birra del regno. Una notte, le fiamme di un incendio innalzarono in cielo la sua leggenda.",
+    "zh" : "酒师齐赫酿造的酒闻名海内，但这也使他所在的修道院臭名昭著。他在夜间被处以火刑，他的传奇也随烈焰升入天堂",
+    "ru" : "Пивовар Зихер принес дурную славу своему монастырю, потому что варил самое знаменитое в королевстве пиво. Однажды ночью его легендарная пивоварня вознеслась в небо с языками пламени.",
+    "ja" : "醸造人のジッチャーが所属する\n修道院は、王国で最高の麦酒を\n作るとして、不名誉な名声を得\nていた。ある日の夜、修道院か\nら燃え上がる炎がその伝説を天\n国に導いたという。",
+    "pt-BR" : "Zicher, o Cervejeiro, conquistou uma fama desonrosa para seu mosteiro ao produzir a cerveja mais famosa do reino. Certa noite, as chamas de um incêndio elevaram sua lenda aos céus.",
+    "ko" : "양조기술자 지커는 왕국에서 가장 유명한 맥주를 양조하여 수도원에 수치스러운 명성을 안겨주었다. 어느 날 밤, 갑자기 솟아오른 불길로 그 전설은 하늘과 함께 사라졌다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666619",
+  "name" : {
+    "es" : "Clavícula de Dalhuisen, el Pupilo",
+    "en" : "Clavicle of Dalhuisen, the Schoolchild",
+    "fr" : "Clavicule de Dalhuisen, l'Écolier",
+    "de" : "Schüsselbein von Dalhuisen, dem Knaben",
+    "it" : "Clavicola di Dalhuisen il Pupillo",
+    "zh" : "学童道海森的锁骨",
+    "ru" : "Ключичная кость школьника Дальхуэйзена",
+    "ja" : "生徒ダリュイセンの鎖骨",
+    "pt-BR" : "Clavícula de Dalhuisen, o Pupilo",
+    "ko" : "학생 달휘센의 쇄골"
+  },
+  "description" : {
+    "es" : "Lo buscaron durante días hasta que dieron con los restos de Mark en el bosque. Desde entonces circulan rumores sobre demonios a lomos de cabras voladoras, venidas de otras tierras.",
+    "en" : "They searched for him for days, until they found Mark's remains in the woods. Since then, rumours tell of demons riding on the backs of flying goats, coming from faraway lands.",
+    "fr" : "On le chercha pendant des jours, jusqu'à trouver la dépouille de Mark dans la forêt. Depuis, les rumeurs parlent de démons juchés sur des boucs volants, venus de terres lointaines.",
+    "de" : "Man suchte tagelang nach ihm, bevor man Marks Überreste in den Wäldern fand. Seither kursieren Gerüchte über Dämonen aus fernen Ländern, die auf geflügelten Ziegenböcken reiten.",
+    "it" : "Cercarono per giorni interi prima di ritrovare le spoglie di Mark nella foresta. Da allora, le leggende narrano di demoni a cavallo di capre volanti, giunte da lande distanti.",
+    "zh" : "人们找他找了好几天，结果在森林里发现了马克的遗骸。自此之后，坊间就有传言说恶魔会骑着会飞的山羊从天边而来",
+    "ru" : "Марка искали много дней, а потом нашли в лесу его останки. С тех пор ходят слухи о демонах, прискакавших из дальних стран на летучих козлах.",
+    "ja" : "数日に渡って続けられたマーク\nの捜索活動は、森で遺体が発見\nされたことで打ち切られた。そ\nれ以来というもの、空飛ぶ山羊\nに跨る遠来の悪魔の噂が語り継\nがれている。",
+    "pt-BR" : "Procuraram por ele durante dias, até que encontraram os restos de Mark nas florestas. Desde então, há boatos de demônios cavalgando nas costas de cabras voadoras, vindas de terras distantes.",
+    "ko" : "며칠 동안 돌아다닌 끝에, 수색조는 마크의 유골을 발견했다. 그 이후, 먼 곳에서 악마가 하늘을 나는 염소를 타고 찾아온다는 소문이 나돌았다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66661a",
+  "name" : {
+    "es" : "Esternón de Vitas, el Actor",
+    "en" : "Sternum of Vitas, the Performer",
+    "fr" : "Sternum de Vitas, le Comédien",
+    "de" : "Brustbein von Vitas, dem Schauspieler",
+    "it" : "Sterno di Vitas l'Attore",
+    "zh" : "演员维塔斯的胸骨",
+    "ru" : "Грудина актера Витаса",
+    "ja" : "大演者ヴィタスの胸骨",
+    "pt-BR" : "Esterno de Vitas, o Ator",
+    "ko" : "곡예사 비타스의 흉골"
+  },
+  "description" : {
+    "es" : "Cvstodia recuerda con admiración la figura de Vitas Varnas. No sólo inspiró la vida de sus gentes a través de sus altruistas acciones, sino también gracias a sus inspiradoras palabras.",
+    "en" : "Cvstodia remembers with admiration the name of Vitas Varnas. He inspired the lives of his people through his altruistic actions as well as his inspirational words.",
+    "fr" : "Cvstodia se souvient avec admiration du nom de Vitas Varnas. Il inspira la vie de son peuple par ses actes altruistes et ses paroles pleines de ferveur.",
+    "de" : "Cvstodia erinnert sich voller Bewunderung an den Namen Vitas Varnas. Durch seine selbstlosen Taten und weisen Worte inspirierte er zahllose Menschen.",
+    "it" : "Cvstodia ricorda con ammirazione il nome di Vitas Varnas. Guidò la vita della sua gente non solo grazie alle tante azioni altruiste, ma anche con le sue parole motivanti.",
+    "zh" : "古斯托迪亚还记得自己对维塔斯·瓦纳斯钦慕有加。他会用自己无私的行动和振奋人心的话语来激励百姓",
+    "ru" : "Кастодия с восхищением вспоминает имя Витаса Варнаса. Он вдохновлял людей альтруистичными делами и воодушевляющими словами.",
+    "ja" : "ヴィタス・ヴァルナスはクヴス\nトディアにおいて、称賛の的と\n言うべき存在である。彼は利他\n的な行動と感動的な言葉をもっ\nて人々を鼓舞し、彼らの人生を\n変えたのだ。",
+    "pt-BR" : "Cvstodia se recorda com admiração do nome de Vitas Varnas. Ele inspirou a vida das pessoas por meio de suas ações altruístas e de suas palavras de estímulo.",
+    "ko" : "쿠스토디아는 지금도 비타스 바르나스의 이름을 기리고 있다. 비타스는 이타적인 행동과 영감을 주는 언행으로 사람들의 인생에 영향을 준 사람이었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66661b",
+  "name" : {
+    "es" : "Costillas de Sabnock, el Guardián",
+    "en" : "Ribs of Sabnock, the Guardian",
+    "fr" : "Côtes de Sabnock, le Gardien",
+    "de" : "Rippenknochen von Sabnock, dem Wächter",
+    "it" : "Costole di Sabnock il Guardiano",
+    "zh" : "卫兵萨诺克的肋骨",
+    "ru" : "Ребра стражника Сабнока",
+    "ja" : "守護者サブノックの肋骨",
+    "pt-BR" : "Costelas de Sabnock, o Guardião",
+    "ko" : "수호자 사브녹의 갈비뼈"
+  },
+  "description" : {
+    "es" : "La Legión Ungida contó entre sus filas con Sabnock, guardián y portador del Sello del Retorcido. Protegió con fiereza las puertas de la ciudad, incluso tras alzarse el caos.",
+    "en" : "The Anointed Legion included Sabnock among its ranks, guardian and bearer of the Sigil of the Twisted. He fiercely protected the gates of town, even after chaos had arisen.",
+    "fr" : "Sabnock, gardien et porteur du Sceau du sinueux, était membre de la Légion ointe. Il protégea férocement les portes de la ville, même lorsque le chaos éclata.",
+    "de" : "Sabnock diente in den Reihen der Gesalbten Legion, er war Wächter und Träger des Siegels des Verdrehten. Er verteidigte die Stadttore entschlossen, selbst, nachdem das Chaos ausgebrochen war.",
+    "it" : "Tra le fila della Legione unta c'era anche Sabnock, guardiano e custode del Sigillo del Ritorto. Proteggeva fiero le porte della città, anche dopo che si era seminato il caos.",
+    "zh" : "萨诺克是圣膏军中的一员，他守卫着奇异魔印。即便是混乱降临，他已然坚守着城镇的大门",
+    "ru" : "Стражник Сабнок был одним из воинов Миропомазанного легиона и нес на себе Печать Скрученного. Он яростно защищал городские ворота, даже когда вокруг разверзся хаос.",
+    "ja" : "歪んだ者の印章を所持するサブ\nノックは、聖別軍において守護\n者という階級を得ていた。混沌\nが世の中に広がった後も、彼は\n街の門扉を懸命に守り続けたと\nいう。",
+    "pt-BR" : "Sabnock, guardião e portador do Selo do Retorcido, fazia parte da Legião Ungida. Ele protegeu com bravura os portões da cidade, mesmo após o caos tomar conta de tudo.",
+    "ko" : "기름 부은 자들의 군단은 계급과 수호자, 그리고 뒤틀린 인장 운반자로 사브녹을 지명했다. 사브녹은 혼돈이 세계를 뒤덮었을 때에도 마을 정문을 굳건히 지켰다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66661c",
+  "name" : {
+    "es" : "Vértebra de John, el Jugador",
+    "en" : "Vertebra of John, the Gambler",
+    "fr" : "Vertèbre de Jean, le Joueur",
+    "de" : "Wirbelknochen von John, dem Spieler",
+    "it" : "Vertebra di John il Giocatore d'azzardo",
+    "zh" : "赌鬼约翰的脊椎",
+    "ru" : "Позвонок картежника Иоанна",
+    "ja" : "賭博師ジョンの椎骨",
+    "pt-BR" : "Vértebra de John, o Apostador",
+    "ko" : "도박사 존의 척추뼈"
+  },
+  "description" : {
+    "es" : "Conocido por sus habilidades en el juego, muchos creían que la suerte de John Von Gammeramindz fue guiada por las Altas Voluntades. El día que terminó su suerte, su vida hizo lo mismo.",
+    "en" : "Known for his gambling skills, many believed that John Von Gammeramindz's fate was guided by the High Wills. The day his luck ran out, so did his life.",
+    "fr" : "Connu pour son adresse au jeu, on pensait souvent que les Volontés supérieures guidaient le destin de John Von Gammeramindz. Le jour où la chance l'abandonna, sa vie en fit autant.",
+    "de" : "John Von Gammeramindz war ein begnadeter Spieler, viele glaubten, sein Schicksal werde vom Höheren Willen bestimmt. Der Tag, an dem ihn sein Glück verließ, war auch der letzte Tag seines Lebens.",
+    "it" : "Noto per la sua abilità al gioco, molti credevano che il destino di John Von Gammeramindz fosse guidato dalla Volontà Suprema. Quando si esaurì la sua fortuna, così si spense anche la sua esistenza.",
+    "zh" : "约翰·冯·加默兰明兹赌术高超，大家都觉得他的命运定是由至高意志指引。等到他的好运到头了，他的生命也就到头了",
+    "ru" : "Многие считали, что судьбу известного картежника Иоанна фон Гаммераминдза направляет Высшая Воля. В тот день, когда закончилась его удача, оборвалась и его жизнь.",
+    "ja" : "ジョン・フォン・ガメラミンズ\nは有名な賭博師であり、その運\n命は天の意志による導きを受け\nていると多くの者が信じてい\nた。しかしその幸運と命運はあ\nる日、突然終わりを告げたので\nあった。",
+    "pt-BR" : "Conhecido por suas habilidades com jogo, muitos acreditavam que o destino de John Von Gammeramindz era guiado pela Vontade Suprema. No dia em que a sorte o abandonou, sua vida também acabou.",
+    "ko" : "많은 사람들은 뛰어난 도박 실력으로 유명한 존 폰 감메라마인츠의 운명이 신의 의지에 인도를 받았다고 믿고 있다. 실제로 존의 운이 다했던 날, 인생도 그렇게 끝났다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66661d",
+  "name" : {
+    "es" : "Omóplato de Carlos, el Ejecutor",
+    "en" : "Scapula of Carlos, the Executioner",
+    "fr" : "Omoplate de Carlos, le Bourreau",
+    "de" : "Schulterblatt von Carlos, dem Henker",
+    "it" : "Scapola di Carlos l'Esecutore",
+    "zh" : "刽子手卡洛斯的肩胛骨",
+    "ru" : "Лопаточная кость палача Карлоса",
+    "ja" : "処刑人カルロスの肩甲骨",
+    "pt-BR" : "Escápula de Carlos, o Executor",
+    "ko" : "사형집행인 카를로스의 어깨뼈"
+  },
+  "description" : {
+    "es" : "Su odio por las personas fue tan grande como su amor por los animales. Cuando le ordenaron ejecutar a un perro que había mordido a un obispo, Carlos se negó por primera y última vez.",
+    "en" : "His hatred for people was as great as his love for animals. When he was ordered to execute a dog that had bitten a bishop, Carlos refused for the first and last time.",
+    "fr" : "Sa haine des humains le disputait à son amour des animaux. Lorsqu'on lui ordonna d'exécuter un chien qui avait mordu un évêque, Carlos refusa, pour la première et dernière fois.",
+    "de" : "Seine Abneigung gegen Menschen war so groß wie seine Tierliebe. Als man ihm auftrug, einen Hund hinzurichten, der einen Bischof gebissen hatte, weigerte sich Carlos zum ersten und letzten Mal, seine Pflicht zu erfüllen.",
+    "it" : "Il suo odio per le persone era tanto grande quanto il suo amore per gli animali. Quando gli venne ordinato di uccidere un cane che aveva morso un vescovo, Carlos si rifiutò per la prima e ultima volta.",
+    "zh" : "此人有多讨厌人类，就有多喜欢动物。有一次一只狗咬了主教，他被勒令处死这只狗，他拒绝了，这是卡洛斯第一次拒绝，也是最后一次",
+    "ru" : "Его ненависть к людям была так же велика, как любовь к животным. Когда ему приказали казнить собаку, которая покусала епископа, Карлос в первый и в последний раз в своей жизни отказался.",
+    "ja" : "彼の持つ人間への憎しみは、動\n物への愛情と同等に強いもの\nだった。司教に噛みついた犬の\n処刑を命じられた際、カルロス\nは初めて命令を拒んだ。彼が命\n令に従わなかったのはこの一度\n限りであった。",
+    "pt-BR" : "O ódio que ele sentia pelas pessoas era tão grande quanto o amor pelos animais. Quando recebeu a ordem de executar um cão que havia mordido um bispo, Carlos se recusou pela primeira e última vez.",
+    "ko" : "카를로스의 인간에 대한 증오는 동물을 향한 사랑만큼 거대했다. 주교를 문 개를 처형하라는 명령을 들었을 때, 카를로스는 처음이자 마지막으로 그 명령을 거절했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66661e",
+  "name" : {
+    "es" : "Húmero de McMittens, el Enfermero",
+    "en" : "Humerus of McMittens, the Nurse",
+    "fr" : "Humérus de McMittens, l'Infirmier",
+    "de" : "Oberarmknochen von McMittens, dem Heiler",
+    "it" : "Omero di McMittens l'Infermiere",
+    "zh" : "护士麦克米腾斯的肱骨",
+    "ru" : "Плечевая кость брата милосердия МакМиттенса",
+    "ja" : "看護師マクミトンの上腕骨",
+    "pt-BR" : "Úmero de McMittens, o Enfermeiro",
+    "ko" : "간호사 맥미튼의 상완골"
+  },
+  "description" : {
+    "es" : "Enfermero y amante de los gatos, McMittens salvó incontables vidas, fuesen humanas o no. Por no soportar salvar a quienes no mostraban respeto por la vida, dio fin a la suya propia.",
+    "en" : "A nurse and cat lover, McMittens saved countless lives, human and others. Unable to bear saving those who showed no respect for life, he put an end to his own.",
+    "fr" : "Infirmier et grand amateur de chats, McMittens sauva un nombre incalculable de vies, humaines ou autres. Écœuré de devoir sauver ceux qui n'avaient aucun respect pour la vie, il préféra mettre un terme à la sienne.",
+    "de" : "Der Heiler und Katzenliebhaber McMittens rettete zahllose Leben. Da er es nicht ertrug, jenen zu helfen, die keinen Respekt vor dem Leben zeigten, brachte er sich schließlich um.",
+    "it" : "Un infermiere e amante dei gatti, McMittens salvò innumerevoli vite, umane e non. Incapace di soccorrere chiunque non mostrasse rispetto per la vita, mise fine alla propria.",
+    "zh" : "麦克米腾斯是一名护士，同时也喜爱小猫，他救下的生命不计其数，其中有人，也有其他生物。他受不了去救治那些杀人狂魔，他们对生命没有丝毫尊重，于是他选择了自裁",
+    "ru" : "Брат милосердия и любитель кошек МакМиттенс спас бессчетное количество жизней – человеческих и не только. Но он не мог спасать тех, кто не уважал чужую жизнь, а потому и сам лишился спасения.",
+    "ja" : "看護師マクミトンは無類のネコ\n好きで、人間に限らず多くの命\nを救ってきた。しかし命を粗末\nにする者たちを救うことに耐え\nきれず、彼は自ら命を絶った。",
+    "pt-BR" : "Enfermeiro e adorador de gatos, McMittens salvou inúmeras vidas, humanas e outras. Incapaz de suportar salvar pessoas que não mostravam respeito pela vida, ele pôs um fim na própria.",
+    "ko" : "간호사이자 고양이 애호가인 맥미튼은 수많은 사람들과 다른 생명을 구했다. 생명을 존중하지 않는 사람을 구하는 것을 견디지 못했던 맥미튼은 스스로의 인생에 종지부를 찍어야 했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66661f",
+  "name" : {
+    "es" : "Cúbito de Koke, el Trovador",
+    "en" : "Ulna of Koke, the Troubadour",
+    "fr" : "Cubitus de Koke, le Troubadour",
+    "de" : "Elle von Koke, dem Troubadour",
+    "it" : "Ulna di Koke il Trovatore",
+    "zh" : "游吟诗人柯克的尺骨",
+    "ru" : "Трубадур Ульна Коке",
+    "ja" : "吟遊詩人コクの尺骨",
+    "pt-BR" : "Cúbito de Koke, o Trovador",
+    "ko" : "음유시인 코케의 척골"
+  },
+  "description" : {
+    "es" : "Los inquisidores detestaban la música ya que inducía a la euforia. Koke creyó oportuno dedicar una satírica tonada a estos presbíteros en público. Su ejecución precedió a la prohibición total de la música.",
+    "en" : "The inquisitors despised music because it induced euphoria. Koke thought it appropriate to dedicate a toned satire to these presbyters in public. His execution preceded the complete ban on music.",
+    "fr" : "Les inquisiteurs haïssaient la musique car elle suscitait l'euphorie. Koke trouvait légitime de dédier une satire musicale à ces presbytres, en public. Son exécution précéda l'interdiction totale de la musique.",
+    "de" : "Den Inquisitoren war Musik ein Gräuel, da sie Euphorie auslöste. Koke hielt es daher für angemessen, die Sittenwächter mit einer musikalischen Satire zu verhöhnen. Seiner Hinrichtung folgte alsbald das Verbot jeglicher Musik.",
+    "it" : "Gli inquisitori detestavano la musica poiché portava euforia. Koke ritenne appropriato dedicare in pubblico una satira a tono a questi presbiteri. La sua esecuzione precedette la messa al bando assoluto della musica.",
+    "zh" : "裁判官对音乐十分鄙视，因为这会令人耽于欢愉，柯克觉得写首讽刺小曲儿在公共场合下嘲弄一下这些老官僚没什么不妥。随着他被处以极刑，音乐禁令算是完全落实了",
+    "ru" : "Инквизиторы терпеть не могли музыку, потому что она вызывает у людей чувство эйфории. Коке решил посвятить попам насмешливую балладу и исполнял ее публично. После его казни музыка была запрещена полностью.",
+    "ja" : "宗教裁判官にとって、高揚感を\n生み出す音楽は軽蔑の対象で\nあった。コクは公の場で、聖職\n者への風刺を込めた音楽を演奏\nしていた。やがて彼の処刑が引\nき金となり、音楽は全面禁止と\nなったのであった。",
+    "pt-BR" : "Os inquisidores detestavam música, pois gerava euforia. Koke achou que era apropriado dedicar uma sátira a esses presbíteros em público. Sua execução precedeu o banimento total de músicas.",
+    "ko" : "이단심문관은 행복을 가져다 준다는 이유로 음악을 경멸해 왔다. 코케는 이들을 주제로 한 짧은 풍자를 이야기하는 것이 적절한 방법이라 생각했다. 코케의 처형은 음악 금지가 법문화되기 전에 이루어졌다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666620",
+  "name" : {
+    "es" : "Radio de Helzer, el Poeta",
+    "en" : "Radius of Helzer, the Poet",
+    "fr" : "Radius d'Helzer, le Poète",
+    "de" : "Speiche von Helzer, dem Dichter",
+    "it" : "Radio di Helzer il Poeta",
+    "zh" : "诗人黑尔泽的桡骨",
+    "ru" : "Лучевая кость поэта Хельзера",
+    "ja" : "詩人ヘルザーの橈骨",
+    "pt-BR" : "Rádio de Helzer, o Poeta",
+    "ko" : "시인 엘저의 요골"
+  },
+  "description" : {
+    "es" : "La obra del poeta John Clark Helzer tuvo un triste éxito póstumo, especialmente su \"Poema a la Hoja Roja\". Dicho poema fue encontrado junto a su cadáver, seccionado por un árbol caído.",
+    "en" : "The work of the poet John Clark Helzer had a sadly posthumous success, especially his \"Poem to the Red Leaf\". The poem was found next to his corpse, severed by a fallen tree.",
+    "fr" : "Les œuvres du poète John Clark Helzer eurent un triste succès posthume, surtout son «Poème à la Feuille rouge». On retrouva ce texte près de son cadavre disloqué sous un arbre abattu.",
+    "de" : "Das Werk des Dichters John Clark Helzer erlangte posthum traurige Berühmtheit, vor allem sein „Poem an das Rote Laub“. Man fand den Text neben seinem leblosen, von einem umgestürzten Baum zerschmetterten Körper.",
+    "it" : "Le opere del poeta John Clark Helzer ebbero successo solo dopo la sua morte, soprattutto la sua \"Ode alla foglia rossa\". La poesia venne trovata vicino al suo cadavere, mozzato da un albero caduto.",
+    "zh" : "诗人约翰·克拉克·黑尔泽的作品生前无人问津，死后举世文明，尤其是他的「红叶诗」。人们发现这首诗时，是在他的尸体旁，而他则被一棵倒下的树砸死",
+    "ru" : "Труды поэта Джона Кларка Хельззера – особенно «Поэма красному листу» – имели печальный посмертный успех. Эту поэму нашли рядом с его телом, придавленным упавшим деревом.",
+    "ja" : "詩人ジョン・クラーク・ヘル\nザーの作品が有名になったのは\n悲しくも、彼の死後のことで\nあった。名作として知られる\n『赤葉の詩』は、倒れた木の下\n敷きになった、彼の遺体の隣で\n発見された。",
+    "pt-BR" : "Infelizmente, a obra do poeta John Clark Helzer só teve sucesso póstumo, especialmente o \"Poema para a Folha Vermelha\". O poema foi encontrado ao lado de seu cadáver, cortado por uma árvore caída.",
+    "ko" : "시인 존 클라크 엘저의 작품은 안타깝게도 그가 죽은 뒤에 성공을 거두었으며, \"붉은 잎에 바치는 시\"가 가장 큰 인기를 얻었다. 이 시는 쓰러진 나무에 두 동강이 난 엘저의 시체 곁에서 발견되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666621",
+  "name" : {
+    "es" : "Frontal de Martinus, el Cordelero",
+    "en" : "Frontal of Martinus, the Ropemaker",
+    "fr" : "Frontal de Martinus, le Cordelier",
+    "de" : "Stirnbein von Martinus, dem Seilmacher",
+    "it" : "Osso frontale di Martinus il Cordaio",
+    "zh" : "绳匠马丁努斯的额骨",
+    "ru" : "Лобная кость канатчика Мартинуса",
+    "ja" : "縄職人マルティヌスの前頭骨",
+    "pt-BR" : "Frontal de Martinus, o Cordoeiro",
+    "ko" : "밧줄 장인 마티우스의 두골"
+  },
+  "description" : {
+    "es" : "El artesano Martinus Hafnia fue injustamente acusado de vender cuerdas quebradizas y sentenciado a ser ahorcado con una de sus propias creaciones. Ese triste día recuperó su honor.",
+    "en" : "Artisan Martinus Hafnia was unjustly accused of selling brittle strings, and sentenced to be hanged with one of his creations. That very sad day he regained his honour.",
+    "fr" : "L'artisan Martinus Hafnia fut à tort accusé de vendre des ficelles trop fragiles, et condamné à être pendu avec l'une de ses créations. En ce même triste jour, il retrouva son honneur.",
+    "de" : "Der Handwerker Martinus Hafnia wurde zu Unrecht beschuldigt, brüchige Seile herzustellen. Zur Strafe hängte man ihn an einem seiner Produkte auf. So bewies er seine Unschuld.",
+    "it" : "L'artigiano Martinus Hafnia fu ingiustamente accusato di vendere corde poco robuste e fu condannato a un'impiccagione con le sue stesse funi. Proprio in quel triste giorno riguadagnò il suo onore.",
+    "zh" : "有人诬陷匠人马丁努斯·哈弗尼亚贩卖劣质绳索，他被处以绞刑，用的则是他亲手制造的绳子。那天，他用一死向世人证明自己的绳子没毛病",
+    "ru" : "Ремесленник Мартинус Хафния был несправедливо осужден за продажу недостаточно прочных веревок к повешению на одном из своих изделий. В тот печальный день он и обрел свою славу.",
+    "ja" : "脆い縄を売った罪で不当に告発\nされた職人マルティヌス・ハフ\nニアは、その縄を使って首吊り\nの刑に処されることとなった。\n処刑の日、マルティヌスの腕の\n素晴らしさはその命をもって証\n明された。",
+    "pt-BR" : "O artesão Martinus Hafnia foi injustamente acusado de vender cordas quebradiças e sentenciado ao enforcamento com uma de suas criações. Naquele dia triste, ele recuperou sua honra.",
+    "ko" : "장인 마티우스 하프니아는 끊어지기 쉬운 줄을 팔았다는 누명을 받아 붙잡혔고, 자신이 만든 밧줄로 교수형을 선고받았다. 슬픔만이 가득했던 날, 마티우스는 자신의 명예를 되찾았다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666622",
+  "name" : {
+    "es" : "Metacarpo de Hodges, el Herrero",
+    "en" : "Metacarpus of Hodges, the Blacksmith",
+    "fr" : "Métacarpe de Hodges, le Forgeron",
+    "de" : "Mittelhandknochen von Hodges, dem Schmied",
+    "it" : "Metacarpo di Hodges il Fabbro",
+    "zh" : "铁匠霍奇斯的掌骨",
+    "ru" : "Пястная кость кузнеца Ходжса",
+    "ja" : "鍛冶工ホッジスの中手骨",
+    "pt-BR" : "Metacarpo de Hodges, o Ferreiro",
+    "ko" : "대장장이 호지스의 장골"
+  },
+  "description" : {
+    "es" : "El herrero Brendan Hodges forjó algunas de las armas más bellas de Cvstodia, portadas por la mismísima Legión Ungida. El destino quiso que fuese una de sus armas la que le diese muerte.",
+    "en" : "Blacksmith Brendan Hodges forged some of Cvstodia's most beautiful weapons, wielded by the Anointed Legion themselves. Destiny wanted it to be one of his weapons that killed him.",
+    "fr" : "Le forgeron Brendan Hodges forgea parmi les plus belles armes de Cvstodia, confiées à la Légion ointe elle-même. Le destin voulut qu'il fut également tué par l'une de ses armes.",
+    "de" : "Der Schmied Brendan Hodges stellte die edelsten Waffen von Cvstodia her, sie wurden selbst von der Gesalbten Legion getragen. Das Schicksal wollte es, das er durch eine seiner eigenen Waffen zu Tode kam.",
+    "it" : "Il fabbro Brendan Hodges forgiò alcune delle più maestose armi di Cvstodia, brandite dai soldati della Legione unta. Il destino volle che incontrasse la morte per mano di un'arma realizzata proprio da lui.",
+    "zh" : "铁匠布伦丹·霍奇斯为古斯托迪亚铸造了许多精美绝伦的武器，圣膏军使用的武器就出自他的手中。他命中注定要死于自己铸造的刀剑之下，这一切都是命运的安排",
+    "ru" : "Кузнец Брендон Ходжс ковал одни из самых прекрасных доспехов в Кастодии, которые носили даже бойцы Миропомазанного легиона. Судьбой было предначертано, что убили оружием его же собственного изготовления.",
+    "ja" : "クヴストディアにおける最高の\n武器のいくつかは、鍛冶工ブレ\nンダン・ホッジスの手によるも\nのであり、聖別軍によって愛用\nされていた。運命の悪戯か、彼\nを殺したのは他ならぬ、彼本人\nが作った武器であった。",
+    "pt-BR" : "O Ferreiro Brendan Hodges forjou algumas das mais belas armas de Cvstodia, empunhadas pela própria Legião Ungida. Quis o destino que ele fosse morto por uma de suas armas.",
+    "ko" : "대장장이인 브랜든 호지스는 쿠스토디아에서 가장 아름다운 무기 중 몇몇을 직접 만들었으며, 이 무기는 기름 부은 자들의 군단이 주로 사용했다. 운명은 호지스에게 그가 만든 무기로 죽기를 원했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666623",
+  "name" : {
+    "es" : "Falange de Arthur, el Marinero",
+    "en" : "Phalanx of Arthur, the Sailor",
+    "fr" : "Phalange d'Arthur, le Marin",
+    "de" : "Fingerglied von Arthur, dem Seemann",
+    "it" : "Falange di Arthur il Navigatore",
+    "zh" : "水手亚瑟的指骨",
+    "ru" : "Фаланга пальца моряка Артура",
+    "ja" : "船乗りアーサーの指骨",
+    "pt-BR" : "Falange de Arthur, o Marinheiro",
+    "ko" : "항해사 아서의 지골"
+  },
+  "description" : {
+    "es" : "Dedicó toda su vida a buscar un misterioso totem. Este testimonio probaría la existencia de un castillo imposible construido bajo el mar, protegido por sus incesantes olas.",
+    "en" : "He spent his whole life looking after a mysterious totem. This evidence would prove the existence of an impossible castle built under the sea, protected by its incessant waves.",
+    "fr" : "Il passa toute sa vie à chercher un mystérieux totem. Les preuves indiquent l'existence d'un château impossible construit sous les mers, protégé par ses vagues incessantes.",
+    "de" : "Er verbrachte sein ganzes Leben mit der Suche nach einem mysteriösen Totem. Dieses sollte den Beweis für die Existenz eines Schlosses unter den Wogen des Meeres liefern.",
+    "it" : "Trascorse l'intera vita alla ricerca di un misterioso totem. Questa testimonianza avrebbe dimostrato l'esistenza di un castello inverosimile, costruito sotto il mare e protetto dalle onde infinite.",
+    "zh" : "此人一生都在寻找神秘的图腾，这可以证明世上真的存在海底城堡，而保卫城堡的，则是汹涌的浪涛",
+    "ru" : "Он всю жизнь потратил на поиски таинственного идола. Этот идол доказал бы существование невероятного замка, построенного на дне морском и защищенного бесконечно бушующими волнами.",
+    "ja" : "アーサーはその一生を、謎の\nトーテムを探すことに費やし\nた。彼の手により、絶え間なき\n波によって守られた不可侵の城\nが海中に存在することが証明さ\nれた。",
+    "pt-BR" : "Ele passou a vida toda procurando um totem misterioso. Esta evidência provaria a existência de um castelo impossível construído no fundo do mar, protegido por ondas incessantes.",
+    "ko" : "아서는 신비한 토템을 돌보며 평생을 보냈다. 이 증거물은 끝없는 파도로부터 보호를 받으며 바다 밑에 세워졌다는 불가사의한 성의 존재를 증명하는 물건이었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666624",
+  "name" : {
+    "es" : "Falange de Miriam, la Consejera",
+    "en" : "Phalanx of Miriam, the Counsellor",
+    "fr" : "Phalange de Miriam, la Conseillère",
+    "de" : "Fingerglied von Miriam, der Rätin",
+    "it" : "Falange di Miriam la Consigliera",
+    "zh" : "参赞米里亚姆的指骨",
+    "ru" : "Фаланга пальца советницы Мириам",
+    "ja" : "助言者ミリアムの指骨",
+    "pt-BR" : "Falange de Miriam, a Conselheira",
+    "ko" : "지도사 미리암의 지골"
+  },
+  "description" : {
+    "es" : "Miriam Barto sabía qué era necesario para alcanzar el éxito, pero el destino es impredecible. Pese a que una terrible enfermedad acortó su vida, su legado fue eterno para quienes la amaron.",
+    "en" : "Miriam Barto knew what it took to succeed, but fate is unpredictable. Though a terrible illness shortened her life, her legacy was eternal to those who loved her.",
+    "fr" : "Miriam Barto savait ce qu'il fallait faire pour réussir, mais le destin est imprévisible. Bien qu'une terrible et courte maladie ait abrégé sa vie, son héritage fut éternel pour ceux qui l'aimaient.",
+    "de" : "Miriam Barto war klug und ehrgeizig, aber das Schicksal ist unvorhersehbar, und sie starb jung an einer schrecklichen Krankheit. Ihr Erbe wurde jedoch gehütet wie ein Schatz.",
+    "it" : "Miriam Barto sapeva cosa le serviva per vincere, ma il destino è imprevedibile. Sebbene una grave malattia le accorciò la vita, il suo ricordo visse per sempre nel cuore di chi la amava.",
+    "zh" : "米里亚姆·巴尔托深谙成功之道，但命运却难以预知。虽然她身染重疾死于非命，但深爱她的人们都将她的遗产视作不朽奇迹",
+    "ru" : "Мириам Барто знала, что нужно, чтобы добиться успеха, но судьба так непредсказуема. Хоть болезнь и сократила ее жизнь, наследие ее стало вечным для тех, кто ее любил.",
+    "ja" : "ミリアム・バルトは成功に必要\nなものを知っていたが、運命に\n逆らう術は知らなかった。短命\nでこそあったが、彼女の遺産は\n今でもなお、彼女を愛した者た\nちの中に残り続けている。",
+    "pt-BR" : "Miriam Barto conhecia o caminho das pedras, mas o destino é imprevisível. Apesar de uma doença terrível encurtar a vida dela, seu legado foi eterno para aqueles que a amaram.",
+    "ko" : "미리암 바르토는 성공에 필요한 게 무엇인지 알고 있었지만 운명은 예측하지 못했다. 끔찍한 병으로 짧은 여생을 보냈지만 미리암이 남긴 유산은 그녀를 따르는 사람들에게 영원히 남아 있다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666625",
+  "name" : {
+    "es" : "Falange de Brannon, el Sepulturero",
+    "en" : "Phalanx of Brannon, the Gravedigger",
+    "fr" : "Phalange de Brannon, le Fossoyeur",
+    "de" : "Fingerglied von Brannon, dem Totengräber",
+    "it" : "Falange di Brannon il Becchino",
+    "zh" : "掘墓人布兰农的指骨",
+    "ru" : "Фаланга пальца могильщика Бреннона",
+    "ja" : "墓掘人ブラノンの指骨",
+    "pt-BR" : "Falange de Brannon, o Coveiro",
+    "ko" : "무덤지기 브란논의 지골"
+  },
+  "description" : {
+    "es" : "Brannon Joshua Mullins cavó las tumbas de cientos a lo largo de su vida, ya fuesen amigos, familiares o enemigos... pero cuando comenzó el caos, no quedó nadie para devolverle el favor.",
+    "en" : "Brannon Joshua Mullins dug the graves of hundreds throughout his life, whether friend, family or foe... But when the chaos arose, there was no one left to return the favour.",
+    "fr" : "Brannon Joshua Mullins creusa des centaines de tombes de son vivant, pour des amis, des ennemis ou des parents... mais lorsque le chaos éclata, il ne restait personne pour lui rendre la pareille.",
+    "de" : "Brannon Joshua Mullins hob im Laufe seines Lebens für Freund und Feind Hunderte von Gräbern aus ... Aber als das Chaos losbrach, war niemand mehr da, um ihn zu begraben.",
+    "it" : "Brannon Joshua Mullins scavò buche per centinaia di tombe: amici, familiari, nemici... Ma quando insorse il caos, nessuno gli restituì il favore.",
+    "zh" : "布兰农·约书亚·穆伦斯一生掘墓无数，朋友、家人、敌人都葬于他挖的墓中…但当混沌降临时，却没有人来为他掘墓",
+    "ru" : "Бреннон Джошуа Маллинз за свою жизнь выкопал сотни могил – для друзей, родных и врагов... Но когда начался хаос, оказать такую же услугу ему оказалось некому.",
+    "ja" : "ブラノン・ジョシュア・ミュリ\nンズはその一生の中で、友人、\n家族、そして敵のため、何百も\nの墓の穴を掘った……しかし混\n沌が広がり、彼の墓の穴を掘っ\nてくれる者はいなくなった。",
+    "pt-BR" : "Durante sua vida, Brannon Joshua Mullins cavou a sepultura de centenas de pessoas, amigos, familiares ou inimigos... Mas quando o caos surgiu, não havia ninguém para retribuir o favor.",
+    "ko" : "브란논 죠슈아 멀린스는 친구와 가족, 적을 가리지 않고 수백 개의 무덤을 만들어 주었다... 하지만 혼돈이 창궐하면서 이제는 이들은 안식에 들게 해줄 사람은 아무도 남지 않게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666626",
+  "name" : {
+    "es" : "Coxal de June, la Prostituta",
+    "en" : "Coxal of June, the Prostitute",
+    "fr" : "Os iliaque de June, la Prostituée",
+    "de" : "Hüftknochen von June, der Prostituierten",
+    "it" : "Coxale di June la Prostituta",
+    "zh" : "妓女琼恩的髋骨",
+    "ru" : "Тазовая кость проститутки Джуны",
+    "ja" : "売春婦ジューンの寛骨",
+    "pt-BR" : "Coxal de June, a Prostituta",
+    "ko" : "매춘부 준의 고관절"
+  },
+  "description" : {
+    "es" : "Popular entre el obispado, June Sayers sedujo y corrompió la voluntad y el voto de castidad de gran parte del sacerdocio, pero su inmunidad terminó cuando cayeron las primeras cenizas.",
+    "en" : "Popular among the bishopric, June Sayers seduced and corrupted the will and vow of chastity of many in the priesthood, but her immunity ended when the first ashes fell to the ground.",
+    "fr" : "Populaire auprès des membres du diocèse, June Sayers séduisit et corrompit la volonté et le vœu de chasteté de bon nombre de prêtres. Mais son immunité prit fin lorsque les premières cendres tombèrent à terre.",
+    "de" : "June Sayers verführte zahllose Mitglieder der Priesterschaft dazu, ihr Keuschheitsgelübde zu brechen. Als die erste Asche den Boden berührte, fiel sie jedoch in Ungnade.",
+    "it" : "Famosa nel vescovado, June Sayers era solita sedurre molti sacerdoti per corromperne la volontà e il voto di castità, ma la sua immunità finì quando le prime ceneri si posarono a terra.",
+    "zh" : "琼恩·莎夜斯在教区可谓人尽皆知，她勾引许多祭司，使他们贞纯的意志与誓言堕落，不过当第一缕灰落到地上时，她的好日子就到头了",
+    "ru" : "Джуна Сэйерс, которая пользовалась в епархии большой популярностью, соблазнила и развратила многих священнослужителей, но ее неприкосновенности пришел конец, когда упали на землю первые хлопья пепла.",
+    "ja" : "聖職者の間において人気であっ\nたジューン・セイヤーズは、そ\nの美貌をもって多くの司祭を誑\nかし、純潔の誓いを破らせた。\nしかし、大地に灰が降り注いだ\nその日、彼女の特権は終わりを\n迎えた。",
+    "pt-BR" : "Popular entre o bispado, June Sayers seduziu e corrompeu a vontade e o voto de castidade de muitos no sacerdócio, mas sua imunidade terminou quando as primeiras cinzas caíram no chão.",
+    "ko" : "주교들 사이에서 많은 인기를 얻었던 준 세이어스는 수많은 사제를 유혹해 이들이 맹세한 순결의 서약과 맹세를 땅에 떨어뜨렸지만, 그녀의 면죄부는 첫 번째 재가 땅에 떨어지는 순간 끝나고 말았다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666627",
+  "name" : {
+    "es" : "Sacro de \"el Hechicero Oscuro\"",
+    "en" : "Sacrum of the Dark Warlock",
+    "fr" : "Sacrum du Sorcier noir",
+    "de" : "Kreuzbein des Dunklen Hexenmeisters",
+    "it" : "Osso sacro dello Stregone oscuro",
+    "zh" : "暗黑术士的骶骨",
+    "ru" : "Крестцовая кость чернокнижника",
+    "ja" : "黒魔術師の仙骨",
+    "pt-BR" : "Sacro do Bruxo Negro",
+    "ko" : "암흑 마법사의 엉치뼈"
+  },
+  "description" : {
+    "es" : "Fundador de la \"Biblioteca de las Palabras Negadas\", este sacerdote fue conocido con el sobrenombre de \"el Oscuro\". Fue sorprendido practicando la hechicería, rodeado de escritos paganos.",
+    "en" : "Founder of the \"Library of the Negated Words,\" this priest was known by the sobriquet of \"the Dark One\". He was caught practicing sorcery, surrounded by pagan writings.",
+    "fr" : "Fondateur de la «Bibliothèque des Mots niés», ce prêtre était surnommé «l'Obscur». On le prit à pratiquer la sorcellerie, au milieu d'écrits païens.",
+    "de" : "Ein Priester, den man auch den „Dunklen“ nannte und der Begründer der „Bibliothek der Verneinten Worte“. Man ertappte ihn, umgeben von heidnischen Schriften, bei der Ausübung von Hexerei.",
+    "it" : "Fondatore della Biblioteca delle Parole bandite, questo sacerdote venne soprannominato \"l'Oscuro\". Fu sorpreso mentre praticava la stregoneria, circondato da scritti pagani.",
+    "zh" : "这名祭司人称「暗黑之人」，是「无言图书馆」的创立者。当他被抓捕时，他正在修炼巫术，身边全是异教书文",
+    "ru" : "Этот священник, основатель Библиотеки опровергнутых слов, был известен под прозвищем «Темный». Его поймали за занятиями колдовством в окружении языческих писаний.",
+    "ja" : "『禁書の図書館』の創設者であ\nるこの司祭は、『暗黒の者』と\nいうあだ名で広く知られてい\nた。妖術を実践していたところ\nを捕まった彼は、異教の書に囲\nまれていたという。",
+    "pt-BR" : "Fundador da \"Biblioteca das Palavras Proibidas\", esse padre era conhecido pela alcunha de \"O Sombrio\". Ele foi pego praticando bruxaria, cercado por escritas pagãs.",
+    "ko" : "부정한 언어의 도서관을 건립한 이 성직자는 \"어둠에 휩싸인 자\"라는 별명으로 더욱 유명했다. 이 성직자는 이교도가 쓴 저서에 파묻혀 어떤 마법을 부리는 중에 체포되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666628",
+  "name" : {
+    "es" : "Coxis de Daniel, el Poseído",
+    "en" : "Coccyx of Daniel, the Possessed",
+    "fr" : "Coccyx de Daniel, le Possédé",
+    "de" : "Steißbein von Daniel, dem Besessenen",
+    "it" : "Coccige di Daniel il Posseduto",
+    "zh" : "狂人丹尼尔尾椎",
+    "ru" : "Копчиковая кость одержимого Даниила",
+    "ja" : "悪霊憑きダニエルの尾骨",
+    "pt-BR" : "Cóccix de Daniel, o Possuído",
+    "ko" : "광인 다니엘의 꼬리뼈"
+  },
+  "description" : {
+    "es" : "Se cuenta que Daniel apareció dentro de un castillo. Vociferaba estar poseído por una sombra cuando dormía y también haber mantenido relaciones carnales con engendros del subsuelo.",
+    "en" : "It is said that Daniel appeared inside a castle. He cried that he had been possessed by a shadow as he slept, and also claimed to have maintained carnal relations with underground creatures.",
+    "fr" : "On raconte que Daniel apparut dans un château. Il criait qu'une ombre l'avait possédé dans son sommeil, et qu'il avait fait commerce de chair avec des créatures abyssales.",
+    "de" : "Daniel tauchte einst in einem Schloss auf und behauptete, ein Schatten habe im Schlaf Besitz von ihm ergriffen. Außerdem habe er fleischlichen Verkehr mit Kreaturen der Unterwelt gehabt.",
+    "it" : "Si racconta che Daniel apparve in un castello. Gridava di essere stato posseduto da un'ombra mentre dormiva; affermava anche di avere avuto relazioni carnali con le creature degli inferi.",
+    "zh" : "据说丹尼尔在城堡中出现，他宣称自己在睡觉时被一个黑影占据，并且自称一直在与地下的邪恶生物维持着联系",
+    "ru" : "Говорят, что Даниил объявился в каком-то замке. Он рассказывал, что пока он спал, в него вселилась тень, а еще утверждал, будто бы состоял в плотских отношениях с подземными тварями.",
+    "ja" : "ダニエルは城の中に姿を現すと\n言われていた。彼は夜寝ている\n間、影に憑りつかれたと主張し\nており、また地下に潜む怪物と\nは性的な関係を持っていたとも\n主張している。",
+    "pt-BR" : "Dizem que Daniel apareceu dentro de um castelo. Ele alegou ter sido possuído por uma sombra enquanto dormia, e também afirmou ter mantido relações carnais com criaturas subterrâneas.",
+    "ko" : "어느 날 갑자기 다니엘이 성 안에 나타났다. 그는 잠을 자는 동안 그림자에게 씌었다며 울거나, 지하의 생명체와 육체적인 관계를 했다는 주장을 펼치기도 했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666629",
+  "name" : {
+    "es" : "Fémur de Karpow, el Cazarrecompensas",
+    "en" : "Femur of Karpow, the Bounty Hunter",
+    "fr" : "Fémur de Karpow, le Chasseur de primes",
+    "de" : "Oberschenkelknochen von Karpow, dem Kopfgeldjäger",
+    "it" : "Femore di Karpow il Cacciatore di taglie",
+    "zh" : "赏金猎人卡尔波的股骨",
+    "ru" : "Бедренная кость охотника за головами Карпоу",
+    "ja" : "賞金稼ぎカルポウの大腿骨",
+    "pt-BR" : "Fêmur de Karpow, o Caçador de Recompensas",
+    "ko" : "현상금 사냥꾼 카르포의 대퇴골"
+  },
+  "description" : {
+    "es" : "Karpow, apodado \"el Osado\", fue un temido cazarrecompensas al servicio del obispado de Cvstodia. Karpow tenía un apreciado lema: \"despréndete de todo y no tendrás nada que perder\".",
+    "en" : "Karpow, nicknamed \"the Daring,\" was a feared bounty hunter at the service of the bishopric of Cvstodia. Karpow had a cherished motto: \"Get rid of everything and you'll have nothing to lose\".",
+    "fr" : "Karpow, surnommé «l'Audacieux» était un chasseur de primes redouté au service du diocèse de Cvstodia. Karpow avait une devise qui lui tenait particulièrement à cœur : «Faites votre deuil de tout, et vous n'aurez rien à perdre.»",
+    "de" : "Karpow, den man auch „den Kühnen“ nannte, war ein gefürchteter Kopfgeldjäger im Dienste des Bistums von Cvstodia. Karpows Motto lautete: „Mach dich frei von allem und du hast nichts zu verlieren.“",
+    "it" : "Karpow, detto anche \"l'Audace\", era un temuto cacciatore di taglie al servizio del vescovado di Cvstodia. Il suo motto era: \"Liberati di ogni cosa e non avrai niente da perdere\".",
+    "zh" : "赏金猎人卡尔波诨名「猛汉」，在古斯托迪亚教区令人闻风丧胆。他秉持着这么一条座右铭：「一无所有，则一无所惧」",
+    "ru" : "Карпоу по кличке Храбрец был охотником за головами на службе епископов Кастодии. У Карпоу был девиз: «Избавься от всего – и тебе будет нечего терять».",
+    "ja" : "カルポウはクヴストディアの司\n教に仕える賞金稼ぎであり、\n『大胆不敵』の二つ名で恐れら\nれていた。カルポウは「すべて\nを捨て去れば、失うものなど一\nつも無くなる」という信条を大\n切にしていた。",
+    "pt-BR" : "Karpow, apelidado de \"o Audacioso\", era um caçador de recompensas temido a serviço do bispado de Cvstodia. Karpow tinha um lema apreciado: \"Livre-se de tudo e não terá nada a perder\".",
+    "ko" : "대담한 자라는 별명을 지닌 카르포는 쿠스토디아 주교단의 비호를 받는 공포의 현상금 사냥꾼이었다. 카르포는 \"전부 제거하면 잃을 것도 없다\"는 자신만의 좌우명을 지니고 있었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66662a",
+  "name" : {
+    "es" : "Rótula de Sébastien, el Titiritero",
+    "en" : "Kneecap of Sebastien, the Puppeteer",
+    "fr" : "Rotule de Sébastien, le Marionnettiste",
+    "de" : "Kniescheibe von Sebastien, dem Puppenspieler",
+    "it" : "Rotula di Sebastien il Burattinaio",
+    "zh" : "木偶艺人塞巴斯蒂安的膝盖骨",
+    "ru" : "Коленная чашечка кукольника Себастьяна",
+    "ja" : "傀儡師セバスチアンの膝蓋骨",
+    "pt-BR" : "Patela de Sebastien, o Titereiro",
+    "ko" : "인형사 세바스티앙의 슬개골"
+  },
+  "description" : {
+    "es" : "Sébastien Wodja vivió rodeado de marionetas. Para él eran como su familia. Sus gritos marcaron la noche en la que desapareció entre las llamas de su teatro, exclamando: \"¡Os prohíbo que os mováis!\"",
+    "en" : "Sebastien Wodja lived surrounded by puppets. To him they were his family. His cries marked the night he disappeared into the flames of his theatre, exclaiming: \"I forbid you to move!\"",
+    "fr" : "Sébastien Wojda vivait entouré de marionnettes. Pour lui, c'était comme une famille. Ses cris marquèrent la nuit de sa disparition, dévoré parmi les flammes de son théâtre : «Je vous interdis de bouger!»",
+    "de" : "Sebastien Wodja lebte umgeben von seinen Puppen. Für ihn waren sie seine Familie. In der Nacht, in der er in den Flammen seines Theaters umkam, soll er geschrien haben: „Ihr dürft euch nicht bewegen!“",
+    "it" : "Sebastien Wodja viveva circondato dai burattini: per lui erano come la sua famiglia. Le sue terribili urla solcarono la notte in cui scomparve tra le fiamme del suo teatro mentre gridava: \"Vi proibisco di muovervi!\"",
+    "zh" : "塞巴斯蒂安·沃迪亚身边全是木偶，对他来说这就是他的家人。一天夜里他的剧院燃起了大火，他高呼：「我看哪个敢动！」呼声响彻黑夜，之后他也消失在了火海中",
+    "ru" : "Себастьян Водья жил в окружении кукол. Они стали ему семьей. В ту ночь, когда он погиб на пожаре в своем театре, оттуда доносились крики: «Я запрещаю тебе двигаться!»",
+    "ja" : "セバスチアン・ウォジャは傀儡\nに囲まれて暮らしていた。彼に\nとって、傀儡は家族同然であっ\nた。とある日の夜、彼はこう叫\nびながら燃え盛る劇場の中へと\n姿を消した。「動くな、動くこ\nとを禁じる！」",
+    "pt-BR" : "Sebastien Wodja vivia cercado por marionetes. Para ele, elas eram da família. Suas lamúrias marcaram a noite na qual ele desapareceu nas chamas que engoliram seu teatro, gritando: \"Eu te proíbo de se mexer!\"",
+    "ko" : "세바스티앙 우다는 인형에 둘러싸여 살아왔다. 인형은 세바스티앙에게 있어 가족이나 마찬가지였다. 세바스티앙이 극장과 함께 화염 속으로 사라졌던 날, 그는 밤을 향해 \"움직이지 마!\"라고 외쳤다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66662b",
+  "name" : {
+    "es" : "Tibia de Alsahli, el Místico",
+    "en" : "Tibia of Alsahli, the Mystic",
+    "fr" : "Tibia d'Alsahli, le Mystique",
+    "de" : "Schienbein von Alsahli, dem Mystiker",
+    "it" : "Tibia di Alsahli il Mistico",
+    "zh" : "神秘人奥萨利的胫骨",
+    "ru" : "Большеберцовая кость мистика Альсали",
+    "ja" : "神秘主義者アルサーリの脛骨",
+    "pt-BR" : "Tíbia de Alsahli, o Místico",
+    "ko" : "신비주의자 알사리의 정강이뼈"
+  },
+  "description" : {
+    "es" : "Alsahli nunca creyó en la autoridad de la Santa Sede de Cvstodia. Aseguraba incluso haber conseguido contactar con las Altas Voluntades por cuenta propia: \"Ser fervoroso. Ese es el secreto\".",
+    "en" : "Alsahli never believed in the authority of the Holy See of Cvstodia. He even claimed to have been able to contact the High Wills on his own: \"Be fervent. That is the secret.\"",
+    "fr" : "Alsahli ne crut jamais à l'autorité du Saint-Siège de Cvstodia. Il affirmait même pouvoir contacter les Volontés supérieures sans aide : «Soyez fervents. Voilà le secret.»",
+    "de" : "Alsahli glaubte nie an die Autorität des Heiligen Bistums von Cvstodia. Er behauptete gar, den Höheren Willen selbst kontaktieren zu können: „Handelt mit Inbrunst. Das ist das Geheimnis.“",
+    "it" : "Alsahli mai credette nell'autorità della Santa Sede di Cvstodia. Affermava persino di essere entrato in contatto diretto con la Volontà Suprema: \"Siate ferventi: ecco il segreto\".",
+    "zh" : "奥萨利从不相信古斯托迪亚教区的权威，他甚至宣称自己能直接与至高意志相交通：「保持热情，这就是秘密所在」",
+    "ru" : "Альсали никогда не верил во власть Святейшего престола Кастодии. Он даже говорил, будто бы сам может связаться с Высшей Волей: «Нужно быть пылким. В этом весь секрет».",
+    "ja" : "クヴストディア聖座の権威を\nまったく信じていないアルサー\nリは、自身の力で天の意志に接\n触したことがあると主張してい\nる。「熱情を抱け、それこそが\n秘訣だ」",
+    "pt-BR" : "Alsahli nunca acreditou na autoridade da Santa Sé de Cvstodia. Ele chegou até a dizer que conseguiu falar com a Vontade Suprema por conta própria: \"Seja fervoroso. Esse é o segredo\".",
+    "ko" : "알사리는 쿠스토디아 교황청의 권위를 믿지 않았다. 알사리는 \"열정을 지니게, 그게 비결이지.\"라고 말하며 자신이 신의 의지와 직접 만날 수 있다고 주장하기까지 했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66662c",
+  "name" : {
+    "es" : "Peroné de Rysp, el Guardabosques",
+    "en" : "Fibula of Rysp, the Ranger",
+    "fr" : "Fibule de Rysp, le Rôdeur",
+    "de" : "Wadenbein von Rysp, dem Waldläufer",
+    "it" : "Perone di Rysp il Guardaboschi",
+    "zh" : "巡林客莱斯普的腓骨",
+    "ru" : "Малоберцовая кость охотника Риспа",
+    "ja" : "森林官リスプの腓骨",
+    "pt-BR" : "Fíbula de Rysp, o Caminhante",
+    "ko" : "정찰대 라이스프의 종아리뼈"
+  },
+  "description" : {
+    "es" : "Rysp Scrimshaw era conocido por sus temerarios paseos nocturnos por el bosque. Él decía que le ayudaban a pensar en lo que había \"más allá\", más allá incluso que las Altas Voluntades.",
+    "en" : "Rysp Scrimshaw was known for his reckless nightly walks in the woods. He said they helped him think about what was \"beyond,\" beyond even the High Wills.",
+    "fr" : "Rysp l'Écume était connu pour ses randonnées nocturnes dans les bois. Il affirmait que cela l'aidait à réfléchir à ce qui était «au-delà», au-delà même des Volontés supérieures.",
+    "de" : "Rysp Scrimshaw war berüchtigt für seine waghalsigen Streifzüge durch den nächtlichen Wald. Er sagte, dies würde ihm helfen zu ergründen, „was jenseits der Dinge liegt“, vielleicht sogar jenseits des Höheren Willens.",
+    "it" : "Rysp Scrimshaw era noto per le sue sconsiderate passeggiate notturne nella foresta. Sosteneva che lo aiutassero a riflettere su quanto ci attende \"oltre\", persino oltre la Volontà Suprema.",
+    "zh" : "莱斯普·斯克林肖敢于夜闯深林，可谓无人不晓。在他看来，深林可以帮助他思考何谓「超然」，超出至高意志的「超然」",
+    "ru" : "Рисп Скримшоу был знаменит своими безрассудными ночными прогулками в лесах. Он говорил, они помогают ему думать о том, что лежит «по ту сторону» – даже по ту сторону Высшей Воли.",
+    "ja" : "リスプ・スクリムショウは無謀\nにも毎晩、森へと散歩に行くこ\nとで有名であった。彼によれば\n森の木々は、天の意志を『超\n越』した考えを授けてくれるの\nだという。",
+    "pt-BR" : "Rysp Scrimshaw era conhecido por suas ousadas caminhadas noturnas na floresta. Ele dizia que isso o ajudava a pensar no \"além\", além até da Vontade Suprema.",
+    "ko" : "라이스프 스크림스하우는 야간에 숲 속을 정찰하는 무모한 행동으로 유명했다. 라이스프는 이 행동이 신의 의지를 넘는 \"이상\"에 관해 생각하도록 도왔다고 말하곤 했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66662d",
+  "name" : {
+    "es" : "Temporal de Joel, el Ladrón",
+    "en" : "Temporal of Joel, the Thief",
+    "fr" : "Temporal de Joel, le Voleur",
+    "de" : "Schläfenknochen von Joel, dem Dieb",
+    "it" : "Osso temporale di Joel il Ladro",
+    "zh" : "盗贼约尔的颞骨",
+    "ru" : "Височная кость вора Джоэля",
+    "ja" : "盗賊ジョエルの側頭骨",
+    "pt-BR" : "Temporal de Joel, o Ladrão",
+    "ko" : "도둑 조엘의 관자놀이뼈"
+  },
+  "description" : {
+    "es" : "Joel siempre robaba para ayudar al prójimo. Un día arriesgó demasiado y fue sorprendido robando la estola enjoyada del mismísimo Pontífice. Nadie jamás sufrió una tortura mayor en Cvstodia.",
+    "en" : "Joel always stole to help others. One day he risked too much, and was caught stealing the Pontiff's bejewelled stole. No one in Cvstodia has ever endured greater torture.",
+    "fr" : "Joel volait toujours pour aider autrui. Un jour, il prit trop de risques, et on le surprit à vendre l'étole parée de pierreries du pontife. Nul en Cvstodia ne subit jamais pires tortures.",
+    "de" : "Joel stahl immer nur, um anderen zu helfen. Eines Tages riskierte er zu viel und wurde dabei erwischt, wie er sich an der juwelenbesetzten Stola des Papstes vergriff. Niemand in Cvstodia erlitt je größere Folterqualen.",
+    "it" : "Joel era solito rubare per donare ai bisognosi. Un giorno osò troppo e venne acciuffato mentre rubava la stola ingioiellata del Pontefice. Mai nessuno subì tortura peggiore a Cvstodia.",
+    "zh" : "约尔劫富济贫，可谓侠盗。有一天他太过大胆，在窃取主教的圣衣时被当场擒获。之后他便被处以古斯托迪亚最为严酷的刑罚",
+    "ru" : "Джоэль всегда крал, чтобы помогать другим. Однажды он рискнул слишком сильно, и его поймали за кражей епископской епитрахили, украшенной драгоценными камнями. Никто и никогда во всей Кастодии не подвергался более страшным и изощренным мучениям.",
+    "ja" : "ジョエルが盗みを働くのは、民\n衆を助けるためであった。しか\nしある日、教皇の宝石を盗んで\nいるところを捕まってしまった\n彼は、クヴストディア史上最悪\nの拷問を受けたという。",
+    "pt-BR" : "Joel sempre roubou para ajudar os outros. Certo dia ele arriscou demais e foi pego roubando o xale adornado do Pontífice. Ninguém em Cvstodia sofreu tanta tortura.",
+    "ko" : "조엘은 도둑질을 하며 다른 이들을 도왔다. 어느 날 조엘은 교황이 두르는 장식을 훔치려는 무모한 행동을 하다 붙잡히고 말았다. 조엘에게 가한 고문은 쿠스토디아의 그 누구도 견딜 수 없는 것이었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66662e",
+  "name" : {
+    "es" : "Metatarso de Rikusyo, el Viajero",
+    "en" : "Metatarsus of Rikusyo, the Traveller",
+    "fr" : "Métatarse de Rikusyo, le Voyageur",
+    "de" : "Mittelfuß von Rikusyo, dem Reisenden",
+    "it" : "Metatarso di Rikusyo il Viandante",
+    "zh" : "旅人陆书的跖骨",
+    "ru" : "Плюсневая кость путешественника Рикусё",
+    "ja" : "旅客リクショの中足骨",
+    "pt-BR" : "Metatarso de Rikusyo, o Viajante",
+    "ko" : "여행자 리쿠쇼의 척골"
+  },
+  "description" : {
+    "es" : "Apenas se conocen detalles de su origen, pero quienes se cruzaron en su camino luego aseguraban que Rikusyo portaba un pequeño y extraño plato luminoso que emitía una débil voz.",
+    "en" : "Almost no details of his background are known, but those who crossed his path claimed later that Rikusyo carried a small, strange, luminous plate that emitted a faint voice.",
+    "fr" : "On ignore presque tout de son passé, mais ceux qui le croisèrent affirmèrent ensuite que Rikusyo transportait une étrange petite assiette lumineuse, d'où émanait une voix distante.",
+    "de" : "Über seinen Hintergrund ist fast nichts bekannt, aber jene, die seinen Weg kreuzten, behaupteten später, er habe eine seltsame leuchtende Platte bei sich getragen, aus der eine schwache Stimme drang.",
+    "it" : "Non si sa quasi nulla del suo passato, ma chiunque s'imbatté nel suo cammino sostiene che Rikusyo aveva sempre con sé uno strano piattino luminoso, che emanava una fievole voce.",
+    "zh" : "人们对陆书的身世一无所知，但是见过他的人都表示陆书有一个亮闪闪的奇异小盘子，可以发出微小的声音",
+    "ru" : "О его прошлом почти ничего не известно, но те, кто с ним встречался, позже рассказывали, будто бы он носил с собой маленькое светящееся блюдце, от которого доносился глухой голос.",
+    "ja" : "リクショの素性について知られ\nていることは無きに等しい。し\nかし彼と出会ったことがある者\nによれば、彼は微かな声と光を\n放つ、奇妙な小さい皿を持ち運\nんでいたという。",
+    "pt-BR" : "Sabe-se muito pouco sobre a história dele, mas quem cruzou seu caminho disse mais tarde que Rikusyo levava um prato pequeno, estranho e luminoso que emitia uma voz débil.",
+    "ko" : "리쿠쇼의 배경에 대해 자세히 아는 이들은 거의 없지만, 그가 간 길을 따라온 자들은 리쿠쇼가 희미한 목소리를 내며 빛을 발하는 작고 기이한 판을 하나 들고 다녔다고 했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66662f",
+  "name" : {
+    "es" : "Falange de Zeth, el Prisionero",
+    "en" : "Phalanx of Zeth, the Prisoner",
+    "fr" : "Phalange de Zeth, le Prisonnier",
+    "de" : "Fingerglied von Zeth, dem Gefangenen",
+    "it" : "Falange di Zeth il Prigioniero",
+    "zh" : "囚犯泽斯的指骨",
+    "ru" : "Фаланга пальца заключенного Зета",
+    "ja" : "囚人ゼスの指骨",
+    "pt-BR" : "Falange de Zeth, o Prisioneiro",
+    "ko" : "죄수 제스의 지골"
+  },
+  "description" : {
+    "es" : "Zeth Corsica fue sentenciado a cadena perpetua en régimen de aislamiento absoluto. Murmuraba constantemente algo sobre unas voces en su cabeza. ¿Fue una de ellas la que le empujó al suicidio?",
+    "en" : "Zeth Corsica was sentenced to life in absolute solitary confinement. He was constantly muttering something about voices in his head. Was it maybe one of them that pushed him to suicide?",
+    "fr" : "Zeth Corsica fut condamné à la réclusion à perpétuité, dans l'isolement le plus absolu. Il maronnait sans cesse que des voix lui parlaient dans sa tête. Fut-ce l'une d'elles qui le poussa au suicide?",
+    "de" : "Zeth Corsica wurde zu lebenslanger Einzelhaft verurteilt. Er murmelte unablässig von Stimmen, die er in seinem Kopf höre. Vielleicht war es eine jener Stimmen, die ihn in den Freitod trieb?",
+    "it" : "Zeth Corsica fu condannato al completo isolamento a vita. Non passava giorno in cui non mormorasse delle voci che udiva nella sua testa... Fu forse una di queste a spingerlo al suicidio?",
+    "zh" : "泽斯·科西嘉被判处终身禁闭，他逐渐自言自语说起了一些话语，这莫非就是他自杀的原因？",
+    "ru" : "Зета Корсику приговорили к пожизненному заключению в одиночной камере. Он постоянно что-то бормотал про голоса в голове. Может быть, один из этих голосов и толкнул его на самоубийство?",
+    "ja" : "罪人ゼス・コルシカに下された\n判決は、独房での終身刑であっ\nた。ゼスは頭の中から聞こえる\nという声について、四六時中ブ\nツブツと呟き続けていた。彼を\n自殺に追いやったのは、その声\nだったのだろうか？",
+    "pt-BR" : "Zeth Corsica foi sentenciado à prisão perpétua em total confinamento solitário. Ele reclamava constantemente sobre vozes em sua cabeça. Será que foi uma delas que o incitou ao suicídio?",
+    "ko" : "제스 코르시카는 독방에서 종신형을 선고받았다. 제스는 항상 중얼거리며 머릿속에 울리는 목소리에게 말을 걸고 있었다. 그 목소리 중 하나가 제스를 자살로 내몬 게 아닐까?"
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666630",
+  "name" : {
+    "es" : "Falange de William, el Escéptico",
+    "en" : "Phalanx of William, the Sceptic",
+    "fr" : "Phalange de William, le Sceptique",
+    "de" : "Fingerglied von William, dem Skeptiker",
+    "it" : "Falange di William lo Scettico",
+    "zh" : "打假能手威廉的指骨",
+    "ru" : "Фаланга пальца маловера Уильяма",
+    "ja" : "懐疑論者ウィリアムの指骨",
+    "pt-BR" : "Falange de William, o Cético",
+    "ko" : "회의론자 윌리엄의 지골"
+  },
+  "description" : {
+    "es" : "William Grahf dedicó su vida a exponer a charlatanes y evangelistas embusteros. Incluso puso en duda la santidad de ciertos miembros de la iglesia de Cvstodia. Su herejía no obtuvo perdón.",
+    "en" : "William Grahf devoted his life to exposing charlatans and deceitful evangelists. He even questioned the sanctity of certain members of the Cvstodian church. His heresy was not forgiven.",
+    "fr" : "William Grahf œuvra toute sa vie à démasquer les charlatans et les faux évangélistes. Il douta même de la sainteté de certains membres de l'église cvstodienne. On ne lui pardonna pas cette hérésie.",
+    "de" : "William Grahf widmete sein Leben der Enttarnung von Scharlatanen und betrügerischen Predigern. Er stellte gar die Integrität gewisser Mitglieder der Kirche von Cvstodia in Frage. Seine Häresie erfuhr keine Gnade.",
+    "it" : "William Grahf dedicò l'intera vita a smascherare subdoli ciarlatani evangelisti. Mise persino in dubbio la santità di alcuni membri della Chiesa di Cvstodia. La sua eresia non rimase impunita.",
+    "zh" : "威廉·古拉夫倾尽毕生经历揭露江湖骗子和卫道士的丑恶嘴脸。他甚至对古斯托迪亚教会的一些成员发出了质疑。教会对这种异端邪说定是不能轻饶",
+    "ru" : "Уильям Граф посвятил свою жизнь тому, что выводил на чистую воду шарлатанов и лживых проповедников. Он даже смел сомневаться в святости некоторых членов кастодианской церкви. Такую ересь ему не простили.",
+    "ja" : "ウィリアム・グラフは、宗教家\nが働く詐欺を暴露することにそ\nの人生を捧げた。クヴストディ\nア教会の聖職者ですら、彼に\nとっては疑いの的であった。彼\nの異端的思想が許されることは\nなかった。",
+    "pt-BR" : "William Grahf dedicou sua vida à exposição de charlatões e falsos pregadores. Ele questionou até mesmo a santidade de certos membros da igreja de Cvstodia. Essa heresia não foi perdoada.",
+    "ko" : "윌리엄 그라프는 사기꾼과 부정한 전도사를 고발하는 데 일생을 다 바쳤다. 그 화살은 쿠스토디아 교단의 일부 신도가 지닌 신성함에 의문을 제기하는 데까지 이르렀다. 교단은 윌러엄의 이단 행위를 용서치 않았다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666631",
+  "name" : {
+    "es" : "Falange de Aralcarim, el Archivista",
+    "en" : "Phalanx of Aralcarim, the Archivist",
+    "fr" : "Phalange d'Aralcarim, l'Archiviste",
+    "de" : "Fingerglied von Aralcarim, dem Archivar",
+    "it" : "Falange di Aralcarim l'Archivista",
+    "zh" : "档案员阿拉卡林的指骨",
+    "ru" : "Фаланга пальца архивариуса Аралькарима",
+    "ja" : "文書保管人アラルカリムの指骨",
+    "pt-BR" : "Falange de Aralcarim, o Arquivista",
+    "ko" : "기록 보관자 아랄카림의 지골"
+  },
+  "description" : {
+    "es" : "Aralcarim trabajó de archivista en la \"Biblioteca de las Palabras Negadas\". Su elevado interés por los escritos de Cvstodia antes de la aparición del Retorcido le costó el destierro.",
+    "en" : "Aralcarim worked as an archivist in the \"Library of the Negated Words\". His heightened interest in the writings of Cvstodia prior to the appearance of the Twisted cost him his exile.",
+    "fr" : "Aralcarim travaillait comme archiviste dans la «Bibliothèque des Mots niés». Son intérêt prononcé pour les écrits de Cvstodia avant l'apparition du Sinueux lui valut son exil.",
+    "de" : "Aralcarim arbeitete als Archivar in der „Bibliothek der Verneinten Worte“. Sein gesteigertes Interesse an den Schriften Cvstodias aus der Zeit vor dem Erscheinen des Verdrehten brachte ihn ins Exil.",
+    "it" : "Aralcarim lavorava come archivista alla Biblioteca delle Parole bandite. Il suo spiccato interesse per le scritture di Cvstodia prima della comparsa del Ritorto gli costò l'esilio.",
+    "zh" : "阿拉卡林是「无言图书馆」的档案员，相较于扭曲者，他对古斯托迪亚的著作更感兴趣，这也使得他惨遭流放",
+    "ru" : "Аралькарим работал архивариусом в Библиотеке опровергнутых слов. За повышенный интерес к кастодийским письменным трудам, созданным до появления Скрученного, он был изгнан.",
+    "ja" : "アラルカリムは『禁書の図書\n館』にて文書保管人をしてい\nた。クヴストディアの書物、特\nに歪んだ者が現れる以前の書物\nに対して行き過ぎた興味を示し\nた彼は、その罪から追放処分と\nされた。",
+    "pt-BR" : "Aralcarim trabalhava como arquivista na \"Biblioteca das Palavras Proibidas\". Seu interesse aguçado nas escrituras de Cvstodia anteriores ao aparecimento do Retorcido lhe custaram o exílio.",
+    "ko" : "아랄카림은 \"부정한 언어의 도서관\"에서 기록 보관사로 일했다. 뒤틀린 자들이 등장하기 전, 쿠스토디아의 저술서에 관한 호기심을 키운 아랄카림은 결국 유배자의 길을 걸었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666632",
+  "name" : {
+    "es" : "Occipital de Tequila, el Orfebre",
+    "en" : "Occipital of Tequila, the Metalsmith",
+    "fr" : "Occiput de Tequila, l'Orfèvre",
+    "de" : "Hinterhauptbein von Tequila, dem Schmied",
+    "it" : "Osso occipitale di Tequila l'orefice",
+    "zh" : "金匠特基拉的枕骨",
+    "ru" : "Затылочная кость кузнеца Текилы",
+    "ja" : "金属細工師テキーラの後頭骨",
+    "pt-BR" : "Occipital de Tequila, o Artesão de metais",
+    "ko" : "금속 세공사 데킬라의 후두골"
+  },
+  "description" : {
+    "es" : "Tequila no era un orfebre común: las osamentas eran la base de sus creaciones y los cráneos enjoyados su especialidad. Su última voluntad fue convertirse en la pieza más bella de su colección.",
+    "en" : "Tequila was not your everyday metalsmith: skulls were the basis of his creations, with jewelled skulls his specialty. His last wish was to become the most beautiful piece in his collection.",
+    "fr" : "Tequila n'était pas un orfèvre ordinaire: il produisait surtout des crânes, notamment des crânes incrustés de pierres précieuses. Son dernier souhait fut de devenir la pièce maîtresse de sa collection.",
+    "de" : "Tequila war kein gewöhnlicher Schmied: Ausgangsobjekt seiner Schöpfungen waren Schädel, die er gern mit Juwelen besetzte. Sein letzter Wunsch war es, zum schönsten Stück seiner Sammlung zu werden.",
+    "it" : "Tequila non era certo un orefice comune: i teschi erano alla base delle sue creazioni e quelli abbelliti da gemme preziose la sua specialità. L'ultimo desiderio che lo animò fu diventare egli stesso il più bel pezzo della sua collezione.",
+    "zh" : "特基拉不是一般的金匠，他主要是做头骨加工工作，专门在上面镶宝石。他的遗愿便是成为自己藏品之中最华美的一颗。",
+    "ru" : "Текила не был обычным кузнецом: он создавал металлические черепа, в том числе и украшенные драгоценными камнями. Его последним желанием было самому стать самым ценным экспонатом собственной коллекции.",
+    "ja" : "テキーラは凡俗な金属細工師で\nはない。彼の作品はすべて頭蓋\n骨を土台としており、中でも宝\n石で飾り付けた頭蓋骨が彼の真\n骨頂であった。彼の最後の望み\nは、至高の作品そのものになる\nことだった。",
+    "pt-BR" : "Tequila não era um artesão comum: ele usava crânios como a base de suas criações, e crânios adornados com joias eram sua especialidade. Seu último desejo era se tornar a obra mais bela da própria coleção.",
+    "ko" : "데킬라는 흔히 볼 수 있는 금속 세공사는 아니었다. 특기인 보석 두개골에서 볼 수 있듯, 두개골은 데킬라가 만드는 작품의 기본이었다. 데킬라의 마지막 소원은 자신이 가장 아름다운 작품이 되는 것이었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666633",
+  "name" : {
+    "es" : "Maxilar de Tarradax, el Clérigo",
+    "en" : "Maxilla of Tarradax, the Cleric",
+    "fr" : "Maxillaire de Tarradax, le Clerc",
+    "de" : "Oberkiefer von Tarradax, dem Kleriker",
+    "it" : "Mascella di Tarradax il Chierico",
+    "zh" : "教士塔拉达克斯的上颌",
+    "ru" : "Верхняя челюсть священника Таррадакса",
+    "ja" : "聖職者テラダックスの上顎骨",
+    "pt-BR" : "Maxila de Tarradax, o Clérigo",
+    "ko" : "성직자 타라닥스의 상악골"
+  },
+  "description" : {
+    "es" : "Con su ancha sonrisa y agradables maneras, Nicodemus Tarradax nunca negó refugio a nadie en su iglesia. El hallazgo de una pila de huesos en la sacristía reveló sus verdaderas intenciones.",
+    "en" : "With his broad smile and good manners, Nicodemus Tarradax never denied anyone refuge in his church. The discovery of a pile of bones in the sacristy revealed his true intentions.",
+    "fr" : "Avec son sourire généreux et ses bonnes manières, Nicodemus Tarradax ne refusa jamais l'asile à quiconque dans son église. La découverte d'un tas d'ossements dans sa sacristie révéla au grand jour ses véritables intentions.",
+    "de" : "Nicodemus Tarradax hatte ein breites Lächeln, gute Manieren und verweigerte niemals jemandem die Zuflucht in seiner Kirche. Als man in der Sakristei einen Haufen Knochen entdeckte, wurden seine wahren Motive offenbar.",
+    "it" : "Col suo sorriso affabile e la sua gentilezza, Nicodemus Tarradax mai negò accoglienza nella sua chiesa. La scoperta di un mucchio di ossa nella sacrestia rivelò le sue vere intenzioni.",
+    "zh" : "尼哥德慕·塔拉达克斯包容和蔼，举止优雅，谁都可以去他的教堂避难。人们在圣器室发现了一堆骨头后，他的真实意图才公之于众",
+    "ru" : "Никодемус Таррадакс с широкой улыбкой и хорошими манерами никогда не отказывал желающим укрыться в его церкви. После обнаружения в ризнице кучи костей стали понятны его истинные намерения.",
+    "ja" : "ニコデムス・テラダックスはあ\nらゆる人々を教会に迎え入れ、\n慈悲と礼節をもって彼らを保護\nしていた。しかし聖具室に山積\nみになっていた骨が発見され、\n彼の本性が知れ渡ったのであっ\nた。",
+    "pt-BR" : "Com seu largo sorriso e boas maneiras, Nicodemus Tarradax nunca negou refúgio a qualquer pessoa em sua igreja. A descoberta de uma pilha de ossos na sacristia revelou as verdadeiras intenções dele.",
+    "ko" : "선량한 미소와 훌륭한 인품을 지닌 니코데무스 타라닥스는 자기 교회로 피난을 온 자들을 기꺼이 받아들였다. 그런 타라닥스의 진의는 성구 보관함에서 발견된 무수한 뼈로 인해 만천하에 드러나게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666634",
+  "name" : {
+    "es" : "Nasal de Charles, el Artista",
+    "en" : "Nasal bone of Charles, the Artist",
+    "fr" : "Os nasal de Charles, l'Artiste",
+    "de" : "Nasenbein von Charles, dem Künstler",
+    "it" : "Osso nasale di Charles l'Artista",
+    "zh" : "艺术大师查尔斯的鼻骨",
+    "ru" : "Носовая кость художника Чарльза",
+    "ja" : "芸術家チャールズの鼻骨",
+    "pt-BR" : "Osso nasal de Charles, o Artista",
+    "ko" : "예술가 찰스의 코뼈"
+  },
+  "description" : {
+    "es" : "La belleza de su obra inició un fuerte debate en el seno de la iglesia. Se ordenó que ninguna representación podía ser más bella que la vida misma. La colección de Dryden fue requisada y él, olvidado.",
+    "en" : "The beauty of his work sparked a strong debate within the church. It was commanded that no representation could be more beautiful than life itself. Dryden's collection was confiscated, and he was forgotten.",
+    "fr" : "La beauté de son travail suscita un vif débat dans l'Église. On décida qu'aucune représentation ne pouvait être plus belle que la vie elle-même. On confisqua la collection de Dryden, et il tomba dans l'oubli.",
+    "de" : "Die Schönheit seiner Werke entfachte heftige Debatten innerhalb der Kirche. Man ordnete schließlich an, dass kein Kunstwerk schöner sein dürfe als das Leben selbst. Charles Drydens Sammlung wurde beschlagnahmt, er selbst war bald vergessen.",
+    "it" : "La bellezza delle sue opere animò un acceso dibattito nelle sfere ecclesiastiche. Venne infatti ordinato che nessuna rappresentazione potesse essere più bella della vita stessa. La collezione di Dryden fu confiscata e lui cadde nell'oblio.",
+    "zh" : "此人的作品极为华美，在教会中引起了极大的争论。有人认为，生命才是世界上最美的东西，不应该有东西比生命更美。屈莱顿的藏品被悉数查抄，他从此也被世人遗忘",
+    "ru" : "Красота его работ вызвала в церкви жаркие споры. Было принято решение, что ни одно изображение не должно быть прекраснее самой жизни. Коллекция Драйдена была конфискована, а сам он – подвергнут забвению.",
+    "ja" : "彼が生み出す作品はあまりにも\n美しく、教会では激しい議論が\n巻き起こった。最終的に、命そ\nのものに勝る芸術はないという\n結論が下された。こうしてドラ\nイデンの作品は押収され、彼と\nいう芸術家は忘れ去られた。",
+    "pt-BR" : "A beleza de sua obra despertou um intenso debate na igreja. Ordenou-se que nenhuma representação poderia ser mais bela do que a vida real. A coleção de Dryden foi confiscada e ele foi esquecido.",
+    "ko" : "찰스가 만든 아름다운 작품은 교단 내에서 강한 논쟁거리가 되었다. 결국 사람의 목숨보다 더 아름다운 표현은 있어서는 안된다는 명령이 내려졌다. 드라이든의 수집품은 모조리 압수당했고, 그의 존재는 잊혀지게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666635",
+  "name" : {
+    "es" : "Hioides de Senex, el Pordiosero",
+    "en" : "Hyoid bone of Senex, the Beggar",
+    "fr" : "Os hyoïde de Senex, le Mendiant",
+    "de" : "Zungenbein von Senex, dem Bettler",
+    "it" : "Osso ioide di Senex il Mendicante",
+    "zh" : "乞丐森纳士的舌骨",
+    "ru" : "Подъязычная кость попрошайки Сенекса",
+    "ja" : "乞食セネキスの舌骨",
+    "pt-BR" : "Osso hioide de Senex, o Pedinte",
+    "ko" : "거렁뱅이 세넥스의 설골"
+  },
+  "description" : {
+    "es" : "Senex pasó toda una vida huyendo del dolor, provocando más y más sufrimiento a su atormentada alma. Sólo cuando aceptó el dolor como parte de su vida encontró sentido en ella.",
+    "en" : "Senex spent a lifetime fleeing pain, which caused more and more suffering to his tormented soul. Only when he accepted pain as part of his life did he find a meaning to it.",
+    "fr" : "Senex s'efforça toute sa vie de fuir la douleur, ce qui ne fit qu'aggraver les souffrances de son âme tourmentée. Ce ne fut qu'en acceptant la douleur comme un élément de sa vie qu'il lui trouva enfin un sens.",
+    "de" : "Senex floh sein Leben lang den Schmerz, was seiner gequälten Seele mehr und mehr Leid verursachte. Erst, als er den Schmerz als Teil des Lebens akzeptierte, fand er einen Sinn darin.",
+    "it" : "Senex visse sempre nel dolore, il che causò sempre più sofferenze al suo animo tormentato. Solo quando accettò il dolore come parte della sua vita, vi trovò finalmente un senso.",
+    "zh" : "森纳士终其一生都在痛苦中度过，使得他的灵魂更为煎熬。只有当他将痛苦视为生命的一部分时，他才真正找到了痛苦的意义",
+    "ru" : "Сенекс всю жизнь пытался избавиться от боли, которая все сильнее и сильнее терзала его измученную душу. Лишь когда он принял боль как часть своей жизни, он нашел в ней смысл.",
+    "ja" : "セネキスは苦痛から逃れること\nだけを求めていたが、逃げれば\n逃げるほどその魂は苦痛に苛ま\nれていった。苦痛は人生の一部\nなのだと受け入れた時、彼は苦\n痛の意味を見出した。",
+    "pt-BR" : "Senex passou a vida fugindo da dor, o que causou cada vez mais angústia à sua alma atormentada. Só quando aceitou a dor como parte da vida, ele encontrou um sentido para ela.",
+    "ko" : "세넥스는 평생을 고통에서 벗어나기 위해 몸부림쳤다. 그럴수록 그의 영혼은 더욱 고통받게 되었다. 고통을 삶의 일부로 받아들이게 되자, 세넥스는 비로소 고통이 어떤 의미를 주는지 알게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666636",
+  "name" : {
+    "es" : "Vértebra de Lindquist, el Forjador",
+    "en" : "Vertebra of Lindquist, the Forger",
+    "fr" : "Vertèbre de Lindquist, le Forgeron",
+    "de" : "Rückenwirbel von Lindquist, dem Glockengießer",
+    "it" : "Vertebra di Lindquist il Maniscalco",
+    "zh" : "锻工林奎斯特的椎骨",
+    "ru" : "Позвонок литейщика Линдквиста",
+    "ja" : "鍛冶工リンドキストの椎骨",
+    "pt-BR" : "Vértebra de Lindquist, o Forjador",
+    "ko" : "단조공 린드퀴스트의 척추뼈"
+  },
+  "description" : {
+    "es" : "Allá donde tañe una campana en Cvstodia, su sonido debe su existencia a Lindquist. Este forjador nunca llegó a ver su esperpéntica obra magna concluida, la cual recibe el nombre de \"Jondo\".",
+    "en" : "Wherever a bell rings in Cvstodia, its sound owes its existence to Lindquist. This forger never saw his bizarre magnum opus, called \"Jondo,\" completed.",
+    "fr" : "Chaque fois qu'une cloche sonne à Cvstodia, c'est à Lindquist qu'on doit sa note. Le forgeron ne vit jamais le terme de son magnum opus, appelé «Jondo».",
+    "de" : "Wo auch immer eine Glocke in Cvstodia erklingt, hat sie ihre Existenz Lindquist zu verdanken. Dieser Glockengießer hat die Vollendung seines exzentrischen Hauptwerkes, der „Jondo“, nie erlebt.",
+    "it" : "Ogni volta che suona una campana a Cvstodia, il suo rintocco deve l'esistenza a Lindquist. Questo maniscalco non vide mai la sua opera magna conclusa, battezzata \"Jondo\".",
+    "zh" : "都是托林奎斯特的福，古斯托迪亚才有杳杳钟声。这名锻工恐怕永远也无法见到他的杰作「洪多」完工了",
+    "ru" : "Когда в Кастодии звонит колокол, его звук обязан своим происхождением Линдквисту. Этот литейщик так и не увидел завершения труда всей своей жизни – колокола Хондо.",
+    "ja" : "鐘の音がクヴストディアに鳴り\n響くのは、他ならぬリンドキス\nトのお陰である。しかしリンド\nキストが、最高傑作である『ホ\nンド』の完成を目の当たりにす\nることはなかった。",
+    "pt-BR" : "Sempre que um sino tocar em Cvstodia, terá sido graças a Lindquist. Este forjador nunca viu sua obra-prima bizarra, chamada de \"Jondo\", completa.",
+    "ko" : "쿠스토디아에서 울리는 종소리는 모두 린드퀴스트의 존재 덕분이다. 이 단조공은 \"혼도\"로 불리게 될 자신의 기괴하고 거대한 작품이 완성되는 광경을 보지 못했다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666637",
+  "name" : {
+    "es" : "Trapecio de Jeremiah, el Verdugo",
+    "en" : "Trapezium of Jeremiah, the Hangman",
+    "fr" : "Trapèze de Jeremiah, le Bourreau",
+    "de" : "Großes Vieleckbein von Jeremiah, dem Henker",
+    "it" : "Trapezio di Jeremiah il Boia",
+    "zh" : "绞刑官耶利米的大多角骨",
+    "ru" : "Трапециевидная кость палача Иеремии",
+    "ja" : "絞首刑執行人ジェレマイアの大菱形骨",
+    "pt-BR" : "Trapézio de Jeremiah, o Carrasco",
+    "ko" : "교수형 집행인 제레미아의 대능형골"
+  },
+  "description" : {
+    "es" : "Jeremiah Schweiger acabó con la vida de miles de reos durante décadas, confiando en que su labor era sagrada. Cuando la duda invadió su mente, el arrepentimiento lo devastó.",
+    "en" : "Jeremiah Schweiger took the lives of thousands of prisoners for decades, trusting that his work was sacred. When doubt invaded his mind, remorse ravaged him.",
+    "fr" : "Jeremiah Schweiger pendit des milliers de prisonniers sur plusieurs décennies, certain que son œuvre était sacrée. Lorsque le doute envahit son esprit, le remords l'emporta.",
+    "de" : "Jeremiah Schweiger nahm Tausenden von Gefangenen das Leben, immer im festen Glauben, dass sein Werk geheiligt sei. Als ihn Zweifel beschlichen, zerfraßen ihn seine Gewissenbisse.",
+    "it" : "Jeremiah Schweiger pose fine alla vita di migliaia di prigionieri per decenni, convinto che il suo lavoro fosse sacro. Quando il dubbio s'insinuò nella sua mente, il rimorso ebbe però il sopravvento.",
+    "zh" : "数十年来，耶利米·施威格吊死的囚犯数以千计，他坚信，自己的事业崇高神圣。而当他的脑中产生疑惑时，他的一生也被这份懊悔所毁了",
+    "ru" : "Иеремия Швайгер за несколько десятилетий службы отнял жизни у тысяч заключенных и считал, что эта работа священна. Когда же в его душе поселились сомнения, раскаяние опустошило его.",
+    "ja" : "ジェレマイア・シュヴァイガー\nは数十年もの間、神聖なる仕事\nと信じて何千人もの囚人を葬っ\nてきた。やがて疑いに飲まれた\n彼は、良心の呵責から正気を失\nってしまった。",
+    "pt-BR" : "Jeremiah Schweiger tirou a vida de milhares de prisioneiros durante décadas, acreditando que seu trabalho era sagrado. Quando a dúvida invadiu sua mente, o remorso o corroeu.",
+    "ko" : "제레미아 슈바이거는 자신이 하는 일이 신성한 것이라는 믿음 하에 수십 년 동안 죄수 수천 명의 목숨을 빼앗았다. 마음에 의심이 스며들자, 회한이 그를 괴롭혔다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666638",
+  "name" : {
+    "es" : "Trapezoide de Yeager, el Joyero",
+    "en" : "Trapezoid of Yeager, the Jeweller",
+    "fr" : "Trapézoïde de Yeager, le Joaillier",
+    "de" : "Kleines Vieleckbein von Yeager, dem Juwelier",
+    "it" : "Trapezoide di Yeager il Gioielliere",
+    "zh" : "珠宝匠耶格的小多角骨",
+    "ru" : "Трапециевидная кость ювелира Йигера",
+    "ja" : "宝石商イェーガーの小菱形骨",
+    "pt-BR" : "Trapezoide de Yeager, o Joalheiro",
+    "ko" : "보석 세공사 예거의 소능형골"
+  },
+  "description" : {
+    "es" : "Injustamente sentenciados a la hoguera por orden del Inquisidor Ashgan, la familia de Tyrant Yeager se convirtió en ceniza. Cegado por la venganza, forjó un anillo con dichos restos que se cree maldito.",
+    "en" : "Unjustly sentenced to the stake by order of Ashgan the Inquisitor, Tyrant Yeager's family became ashes. Blinded by revenge, he forged a ring with their remains, a ring that is now believed to be cursed.",
+    "fr" : "Condamnée à tort au bûcher par la volonté d'Ashgan l'Inquisiteur, la famille de Tyrant Yeager fut réduite en cendres. Aveuglé par la vengeance, il forgea un anneau à partir de ces cendres. Anneau que l'on considère aujourd'hui comme maudit.",
+    "de" : "Tyrant Yeagers Familie wurde von Ashgan, dem Inquisitor, zu Unrecht zum Tod auf dem Scheiterhaufen verurteilt. Blind vor Rachedurst soll er aus ihrer Asche einen verfluchten Ring geschmiedet haben.",
+    "it" : "Ingiustamente condannata al rogo su ordine di Ashgan l'Inquisitore, la famiglia di Tyrant Yeager fu ridotta in cenere. Accecato dalla sete di vendetta, forgiò un anello con le loro spoglie, un anello che oggi si dice sia maledetto.",
+    "zh" : "泰兰特·耶格的家人惨遭冤枉，裁判官艾仕甘下令将他们烧死。耶格被仇恨蒙蔽了双眼，他用家人的遗骸铸造了一枚戒指，据说至今仍被诅咒",
+    "ru" : "Семью Тайрана Йигера несправедливо приговорил к костру инквизитор Ашган. Ослепленный местью, Йигер изготовил кольцо с останками родным, которое теперь считается проклятым.",
+    "ja" : "暴君イェーガーが愛した家族\nは、宗教裁判官アシュガンに\nよって不当にも火刑を宣告さ\nれ灰と化した。復讐に支配され\nた彼がその灰から作り出した指\n輪は、呪いの指輪として今なお\n残っている。",
+    "pt-BR" : "Condenada injustamente à fogueira por ordem de Ashgan, o Inquisidor, a família de Tyrant Yeager virou pó. Cego de vingança, ele forjou um anel com os restos deles, um anel que acreditam estar amaldiçoado.",
+    "ko" : "이단심문관 애쉬건의 명령으로 부당한 형을 받은 폭군 예거의 집안은 잿더미로 변하고 말았다. 복수심에 눈이 먼 그는 가족의 유해로 반지를 만들었으며, 지금은 저주받은 물건으로 알려져 있다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666639",
+  "name" : {
+    "es" : "Grande de Barock, el Pregonero",
+    "en" : "Capitate of Barock, the Herald",
+    "fr" : "Capitatum de Barock, le Héraut",
+    "de" : "Kopfbein von Barock, dem Herold",
+    "it" : "Osso capitato di Barock l'Araldo",
+    "zh" : "令官巴罗克的头状骨",
+    "ru" : "Головчатая кость глашатая Барока",
+    "ja" : "布告者バロックの有頭骨",
+    "pt-BR" : "Capitato de Barock, o Arauto",
+    "ko" : "전령 바록의 알머리뼈"
+  },
+  "description" : {
+    "es" : "Fuesen ejecuciones o azotamientos, Barock siempre estuvo ahí para pregonarlos a viva voz, pero su voz se fue rompiendo cuando día tras día tuvo que anunciar las sentencias de toda su familia.",
+    "en" : "Whether executions or lashings, Barock was always there to proclaim them loudly, but his voice broke down gradually as, day by day, he had to announce the sentences of his entire family.",
+    "fr" : "Que ce soit une exécution ou une flagellation, Barock était toujours là pour les annoncer à grand-voix, mais son souffle se tarit jour après jour quand il dut annoncer les condamnations de sa famille entière.",
+    "de" : "Ob Hinrichtung oder Auspeitschung, Barock war stets zur Stelle, um das Ereignis anzukündigen. Als er die Urteile seiner eigenen Familie verlesen musste, brach ihm jedoch die Stimme.",
+    "it" : "Che fossero esecuzioni o fustigazioni, Barock era sempre in prima linea ad annunciarle solennemente; tuttavia, la sua voce si fece sempre più fievole nel tempo, poiché dovette annunciare sentenze di morte per tutta la sua famiglia.",
+    "zh" : "无论是极刑还是鞭刑，巴罗克都会高声宣令，后来他渐渐地不再高声宣令，因为他要念的是他全家的判决令",
+    "ru" : "Что бы ни происходило на главной площади – казни или телесные наказания – Барок всегда громко объявлял о них народу. Но его голос слабел по мере того, как ему пришлось снова и снова объявлять приговоры членам своей семьи.",
+    "ja" : "その通達が処刑であれ批判であ\nれ、バロックは常に大声を張り\n上げて人々に知らせていた。し\nかしある時、愛する家族に下さ\nれた判決文を読み上げることと\nなった彼の声は、日に日に力を\n失っていった。",
+    "pt-BR" : "Não importava se fosse uma execução ou açoitamento, Barock estava sempre presente para anunciá-los em alto e bom som. Mas ele foi perdendo a voz quando, dia após dia, teve que anunciar as condenações de toda a sua família.",
+    "ko" : "처형이건, 장형이건 바록은 언제나 곁에서 우렁찬 목소리로 형벌을 선언했다. 하지만 시간이 지날수록 모든 가족을 대상으로 형량을 발표하게 되면서 바록의 목소리도 낮아지게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66663a",
+  "name" : {
+    "es" : "Ganchoso de Vukelich, el Copista",
+    "en" : "Hamate of Vukelich, the Copyist",
+    "fr" : "Os crochu de Vukelich, le Copiste",
+    "de" : "Hakenbein von Vukelich, dem Kopisten",
+    "it" : "Osso uncinato di Vukelich il Copista",
+    "zh" : "书吏伏柯里希的钩骨",
+    "ru" : "Крючковидная кость писца Вукелича",
+    "ja" : "模倣者ヴケリッヒの有鉤骨",
+    "pt-BR" : "Hamato de Vukelich, o Copista",
+    "ko" : "필경사 부켈리치의 유구골"
+  },
+  "description" : {
+    "es" : "Aprovechándose de una bula pontificia, Vukelich fue sorprendido sustrayendo un libro prohibido sobre conocimientos arcanos. Sus manos no volvieron a escribir desde ese día.",
+    "en" : "Taking advantage of a pontifical bull, Vukelich was caught stealing a forbidden book about arcane knowledge. His hands did not write again after that day.",
+    "fr" : "À l'occasion d'une bulle pontificale, Vukelich fut surpris à voler un livre interdit sur les arts arcanes. Après ce jour, ses mains n'écrivirent plus jamais une seule ligne.",
+    "de" : "Vukelich versuchte, Vorteil aus einer päpstlichen Bulle zu ziehen und wurde beim Diebstahl eines verbotenen Buches ertappt. Nach diesem Tag hatte er keine Hände mehr zum Schreiben.",
+    "it" : "Approfittando di una bolla pontificia, Vukelich fu sorpreso mentre rubava un tomo proibito sulle scienze arcane. Da quel giorno, le sue mani non furono più in grado di scrivere.",
+    "zh" : "伏柯里希掌管教印，他在以权谋私偷取奥术禁书的时候被人抓获。从那天之后，他就再也无法抄书了",
+    "ru" : "Прикрывшись папской буллой, Вукелич попытался украсть запретную книгу с тайным знанием, но был пойман. С того дня его руки уже не могли держать перо.",
+    "ja" : "ヴケリッヒは、難解な知識を記\nした禁書を盗用した罪で捕まっ\nてしまった。彼の手がその日以\n降、二度と筆を握ることはな\nかったという。",
+    "pt-BR" : "Aproveitando-se de uma bula pontifícia, Vukelich foi pego roubando um livro proibido sobre o conhecimento arcano. Suas mãos nunca mais escreveram daquele dia em diante.",
+    "ko" : "부켈리치는 교황의 칙령을 날조하여 불가사의한 지식이 적힌 금서를 빼돌리려다 붙잡혔다. 그날 이후, 부켈리치는 더 이상 손으로 글을 쓸 수 없게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66663b",
+  "name" : {
+    "es" : "Pisiforme de Hernández, el Explorador",
+    "en" : "Pisiform of Hernandez, the Explorer",
+    "fr" : "Pisiforme d'Hernandez, l'Explorateur",
+    "de" : "Erbsenbein von Hernandez, dem Forscher",
+    "it" : "Pisiforme di Hernandez l'Esploratore",
+    "zh" : "探险家赫南德斯的豌豆骨",
+    "ru" : "Гороховидная кость исследователя Эрнандеса",
+    "ja" : "探検家エルナンデスの豆状骨",
+    "pt-BR" : "Pisiforme de Hernandez, o Explorador",
+    "ko" : "탐험가 헤르난데즈의 두상골"
+  },
+  "description" : {
+    "es" : "Víctor Hernández fue elegido para liderar una expedición con el fin de \"civilizar\" pueblos bárbaros. Fue sentenciado por herejía cuando sugirió que Cvstodia era el más incívico de los lugares conocidos.",
+    "en" : "Victor Hernandez was chosen to lead an expedition meant to \"civilise\" barbaric tribes. He was sentenced for heresy when he suggested that Cvstodia was the most uncivilised of all known places.",
+    "fr" : "Victor Hernandez avait été choisi pour mener une expédition afin de «civiliser» les tribus barbares. On le condamna pour hérésie lorsqu'il suggéra que Cvstodia était le lieu le moins civilisé de tout le monde connu.",
+    "de" : "Victor Hernandez wurde auserwählt, eine Expedition zu leiten, die der „Zivilisierung“ der Barbaren dienen sollte. Er wurde wegen Häresie verurteilt, als er sagte, Cvstodia sei der unzivilisierteste Ort, den er kenne.",
+    "it" : "Victor Hernandez fu scelto per condurre una spedizione mirata a \"civilizzare\" le tribù barbare. Fu condannato per eresia quando suggerì che Cvstodia fosse il luogo meno civilizzato al mondo.",
+    "zh" : "维克托·赫南德斯被任命为探险队长前去教化蛮夷部落，但是他却宣称古斯托迪亚是世上最野蛮的地方，如此异教邪说使得他惹祸上身",
+    "ru" : "Виктора Эрнандеса выбрали возглавить экспедицию, призванную «цивилизовать» варварские племена. И осудили за ересь, когда он заявил, будто бы Кастодия – самый нецивилизованный из известных краев.",
+    "ja" : "ヴィクター・エルナンデスは野\n蛮な部族を『文明化』するため\nの遠征隊の隊長に選ばれたが、\n異端者として有罪を宣告され\nた。クヴストディアこそ最も野\n蛮な街であると、彼が進言した\nためであった。",
+    "pt-BR" : "Victor Hernandez foi escolhido para liderar uma expedição com o objetivo de \"civilizar\" tribos bárbaras. Foi condenado por heresia quando sugeriu que Cvstodia era o local menos civilizado de todos.",
+    "ko" : "빅터 헤르난데즈는 야만족을 \"문명화\"하는 탐험대를 이끄는 역할을 맡았다. 헤르난데즈는 자신이 겪은 모든 곳을 통틀어 가장 미개한 곳이 쿠스토디아라 제안했고, 그 결과 이단으로 찍혀 형을 선고받았다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66663c",
+  "name" : {
+    "es" : "Piramidal de Luca, el Sastre",
+    "en" : "Triquetral of Luca, the Tailor",
+    "fr" : "Triquetrum de Luca, le Tailleur",
+    "de" : "Dreiecksbein von Luca, dem Schneider",
+    "it" : "Osso piramidale di Luca il Sarto",
+    "zh" : "裁缝卢卡的三角骨",
+    "ru" : "Трехгранная кость портного Луки",
+    "ja" : "仕立屋ルカの三角骨",
+    "pt-BR" : "Piramidal de Luca, o Alfaiate",
+    "ko" : "재단사 루카의 세모뼈"
+  },
+  "description" : {
+    "es" : "Soñó durante toda su vida con confeccionar bellos ropajes para la nobleza, pero ya cercano el día de su muerte, lo único que había tenido la oportunidad de tejer fueron sambenitos.",
+    "en" : "He dreamed all his life of making beautiful clothes for the nobility, but nearing the day of his death, the only thing he had the opportunity to sew were sanbenitos.",
+    "fr" : "Il rêva toute sa vie de tailler de beaux habits pour la noblesse, mais à l'approche du jour de sa mort, il n'eut l'occasion que de coudre des sambenitos.",
+    "de" : "Er träumte sein Leben lang davon, schöne Kleider für den Adel zu schneidern, aber bis zum Tage seines Todes hatte er nur Gelegenheit, Armesündergewänder zu nähen.",
+    "it" : "Sognò per tutta la vita di creare abiti eleganti per la nobiltà ma, fino al giorno della sua morte, l'unica cosa che ebbe occasione di cucire furono i sanbenitos.",
+    "zh" : "他梦想着为贵族们缝制华美的服饰，但是他死到临头之际，只能为自己缝制火刑囚服",
+    "ru" : "Он всю свою жизнь мечтал о том, как будет шить прекрасную одежду для знати, но ко дню его смерти он только и мог что шить саваны для осужденных инквизицией.",
+    "ja" : "彼の夢は、貴族のために美しい\n衣服を仕立てることであった。\nしかし晩年の彼が作ることを許\nされたのは、ほかならぬ囚人服\nのみであった。",
+    "pt-BR" : "Ele sonhou a vida inteira em criar belas roupas para a nobreza, mas ao aproximar-se da morte, a única coisa que teve a oportunidade de costurar foram sambenitos.",
+    "ko" : "루카는 귀족을 위한 아름다운 옷을 만들기를 평생 꿈꿔왔지만, 처형되기 직전 루카가 만들 수 있던 옷은 오직 회개복뿐이었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66663d",
+  "name" : {
+    "es" : "Semilunar de Keiya, el Carnicero",
+    "en" : "Lunate of Keiya, the Butcher",
+    "fr" : "Lunatum de Kziya, le Boucher",
+    "de" : "Mondbein von Keiya, dem Metzger",
+    "it" : "Osso semilunare di Keiya il Macellaio",
+    "zh" : "屠夫凯亚的月骨",
+    "ru" : "Полулунная кость мясника Кейи",
+    "ja" : "解体者ケイヤの月状骨",
+    "pt-BR" : "Semilunar de Keiya, o Açougueiro",
+    "ko" : "도살자 케이야의 월상골"
+  },
+  "description" : {
+    "es" : "El sobrenombre de \"el Carnicero\" no se debía a su profesión, sino a sus sanguinarias aptitudes para el combate como soldado. Ni siquiera la corrupción pareció alterar su trastornada personalidad.",
+    "en" : "His nickname \"the Butcher\" was owed not to his occupation, but to his vicious combat skills as a soldier. Not even corruption seemed to alter his disturbed personality.",
+    "fr" : "Il devait son surnom de Boucher non à sa profession, mais à sa violence dans son métier de soldat. Même l'affliction ne parut pas altérer sa personnalité dérangée.",
+    "de" : "Seinen Spitznamen „der Metzger“ verdankte er nicht seinem Beruf, sondern seinen gefürchteten Fähigkeiten als Soldat. Nicht einmal das Verderben schien seinen gestörten Charakter ändern zu können.",
+    "it" : "Il soprannome di \"macellaio\" non era dovuto alla sua occupazione, quanto piuttosto alla sua ferocia in combattimento come soldato. Nemmeno la corruzione pareva alterarne la personalità disturbata.",
+    "zh" : "他之所以人送绰号「屠夫」，并非因为他是屠猪杀狗之辈，而是因为他在战场上杀敌斩将如砍瓜切菜。他这狂乱的性子即便是腐败之风也改变不了",
+    "ru" : "Прозвище «Мясник» он получил не за род занятий, а за свирепость в битве и боевые навыки. И даже поразившая его скверна, кажется, совсем не изменила его разрушительного нрава.",
+    "ja" : "彼の二つ名である『解体者』は\n彼の職業を指すものではなく、\n彼の戦士としての獰猛な強さに\nちなんだものである。彼の倒錯\nした人格は、堕落しても変化す\nることはなかった。",
+    "pt-BR" : "Ele não recebeu o apelido de \"o Açougueiro\" por sua ocupação, mas por suas habilidades perversas de combate como soldado. Nem mesmo a corrupção parecia alterar essa personalidade perturbada.",
+    "ko" : "도살자라는 별명은 직업이 아니라 군인 시절에 익힌 잔혹한 전투 능력 덕분이었다. 타락조차도 케이야의 불안정한 성격을 바꿀 수 없었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66663e",
+  "name" : {
+    "es" : "Escafoide de Fierce, el Leproso",
+    "en" : "Scaphoid of Fierce, the Leper",
+    "fr" : "Scaphoïde de Féroce, le Lépreux",
+    "de" : "Kahnbein von Fierce, dem Aussätzigen",
+    "it" : "Scafoide di Fierce il Lebbroso",
+    "zh" : "麻风患者菲尔斯的舟状骨",
+    "ru" : "Ладьевидная кость прокаженного Фирса",
+    "ja" : "病人フィアースの舟状骨",
+    "pt-BR" : "Escafoide de Fierce, o Leproso",
+    "ko" : "나병 환자 피어스의 주상골"
+  },
+  "description" : {
+    "es" : "Rechazado por su familia, por su pueblo e incluso por otros leprosos, Fierce sólo encontró consuelo en el eco que su voz le devolvía cuando se refugió en los túneles del Aljibe Profanado.",
+    "en" : "Rejected by his family, his village and even by other lepers, Fierce only found solace in the echo that his voice returned to him when he took refuge in the tunnels of the Desecrated Cistern.",
+    "fr" : "Rejeté par sa famille, son village et même les autres lépreux, Féroce ne trouva de consolation que dans l'écho de sa propre voix, une fois réfugié dans les tunnels de la Citerne profanée.",
+    "de" : "Verstoßen von seiner Familie, seinem Dorf und selbst von den anderen Aussätzigen, fand Fierce den einzigen Trost im Echo seiner Stimme, das die Wände der Entweihten Zisterne zurückwarfen, wo er Unterschlupf suchte.",
+    "it" : "Rinnegato dalla sua famiglia, dal suo villaggio e persino da altri lebbrosi, Fierce trovò conforto solo nell'eco che la sua voce gli restituiva quando si rifugiò nei tunnel della Cisterna sconsacrata.",
+    "zh" : "菲尔斯的家人、村庄甚至其他麻风病人都对其弃之如敝履，他在亵渎之池的坑道中暂避一时，此时他发现自己的声音会回应自己，于是便找到了慰藉",
+    "ru" : "От Фирса отказались его семья, его деревня и даже другие прокаженные. Единственной компанией, когда он поселился в туннелях Оскверненной цистерны, стало ему эхо собственного голоса.",
+    "ja" : "家族、村、そしてほかのハンセ\nン病患者からも拒絶されたフィ\nアースは、冒涜の貯水路に独り\n逃げ込んだ。貯水路にこだます\nる彼自身の声こそ、彼が安堵を\n得られる唯一のものであった。",
+    "pt-BR" : "Rejeitado por sua família, sua vila e até por outros leprosos, Fierce só encontrou consolo no eco da própria voz, quando buscou refúgio nos túneis do Poço Profanado.",
+    "ko" : "가족과 마을, 심지어 같은 나병 환자에게도 배척받으며 훼손된 수조에 있는 터널로 몸을 피한 피어스는 메아리로 돌아오는 자신의 목소리를 위안 삼아 지냈다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66663f",
+  "name" : {
+    "es" : "Astrágalo de Weston, el Peregrino",
+    "en" : "Anklebone of Weston, the Pilgrim",
+    "fr" : "Cheville de Weston, le Pèlerin",
+    "de" : "Sprungbein von Weston, dem Pilger",
+    "it" : "Caviglia di Weston il Pellegrino",
+    "zh" : "朝圣者韦斯顿的踝骨",
+    "ru" : "Лодыжка паломника Вестона",
+    "ja" : "巡礼者ウェストンの距骨",
+    "pt-BR" : "Tálus de Weston, o Peregrino",
+    "ko" : "순례자 웨스턴의 복사뼈"
+  },
+  "description" : {
+    "es" : "Su compañero de viaje le aseguró que le esperaría en el siguiente refugio, a tan sólo una jornada de distancia. Cuando Weston llegó al día siguiente, no hubo nadie allí. Al siguiente, tampoco.",
+    "en" : "His travelling companion assured him that he would wait for him at the next shelter, just a day away. When Weston arrived the next day, there was no one there. Nor the day after that.",
+    "fr" : "Son compagnon de voyage lui assura qu'il l'attendrait au prochain refuge, à un jour de route. Lorsque Weston y arriva le jour d'après, il n'y avait personne. Ni le lendemain ni jamais.",
+    "de" : "Sein Reisegefährte versprach ihm, an der nächsten Unterkunft auf ihn zu warten, nur einen Tagesmarsch entfernt. Als Weston dort ankam, war niemand dort. Auch am nächsten Tag nicht.",
+    "it" : "Il suo compagno di viaggio gli assicurò che l'avrebbe aspettato al rifugio successivo, a un giorno di distanza. Quando Weston arrivò a destinazione l'indomani, non trovò nessuno. E nemmeno il giorno seguente.",
+    "zh" : "韦斯顿的行侣向他保证说明天会在下一个避难所等他。但是当他第二天到了那里时，却没发现有人，就连第二天也没有什么人",
+    "ru" : "Товарищ по странствиям убеждал Вестона, что подождет его в следующем убежище всего в одном дне пути. Когда же на следующий день Вестон прибыл, там никого не оказалось. И через день тоже никто не пришел.",
+    "ja" : "ウェストンには旅仲間がいた。\nある日、その旅仲間は次の避難\n所で待っていると約束し、ウェ\nストンと別れた。明くる日、そ\nの次の日も、避難所に到着した\nウェストンが旅仲間と再会する\nことはなかった。",
+    "pt-BR" : "Seu companheiro de viagem garantiu que o esperaria no próximo abrigo, só a um dia de distância. Quando Weston chegou no dia seguinte, não havia ninguém lá. Nem no dia depois daquele.",
+    "ko" : "동료 순례자는 하루 먼저 다음 피난처에서 기다리겠다고 했다. 하지만 웨스턴이 다음 날 도착했을 때 그곳에는 아무도 없었다. 그 다음 날도 마찬가지였다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666640",
+  "name" : {
+    "es" : "Calcáneo de Persian, el Bandolero",
+    "en" : "Calcaneum of Persian, the Bandit",
+    "fr" : "Calcanéus de Perse, le Bandit",
+    "de" : "Fersenbein von Persian, dem Banditen",
+    "it" : "Calcagno di Persian il Bandito",
+    "zh" : "土匪珀希安的跟骨",
+    "ru" : "Пяточная кость разбойника Персиана",
+    "ja" : "盗賊ペルシアンの踵骨",
+    "pt-BR" : "Calcâneo de Persian, o Bandido",
+    "ko" : "도적 페르시안의 종골"
+  },
+  "description" : {
+    "es" : "Temido por sus paisanos, Persian asaltaba caminos sin distinguir entre ricos o pobres, y siempre en solitario. El día que llegó moribundo a Albero, absolutamente nadie se apiadó de él.",
+    "en" : "Feared by his countrymen, Persian attacked routes without distinction between rich or poor, and always alone. The day he dragged himself to Albero on the brink of death, no one took pity on him.",
+    "fr" : "Craint par ses compatriotes, Perse attaquait les voyageurs sans distinction entre riches et pauvres, et toujours seul. Le jour où il se traîna à Albero, au seuil de la mort, personne n'eut pitié de lui.",
+    "de" : "Persian wurde von seinen Landsleuten gefürchtet, er suchte Arm und Reich heim und beging seine Taten stets allein. Als er sich kurz vor seinem Tod nach Albero schleppte, hatte niemand Mitleid mit ihm.",
+    "it" : "Temuto dai suoi compaesani, Persian lanciava assalti lungo i sentieri senza fare distinzione fra ricchi e poveri, e sempre da solo. Il giorno che arrivò moribondo ad Albero, nessuno gli mostrò pietà.",
+    "zh" : "珀希安劫起道来可不论贫富，村民们对这个孤胆悍匪可谓闻风丧胆。某日他被杀死在了阿尔贝罗，谁也没有同情他。",
+    "ru" : "Персиан, которого боялись земляки, нападал на путников, не различая ни бедных, ни богатых – и всегда один. Когда он приполз в Альберо, будучи на грани смерти, никто над ним не сжалился.",
+    "ja" : "その者の貧富に関係なく通行人\nに襲い掛かるペルシアンは、\n人々から恐れられていた。傷を\n負い、最後の力を振り絞ってア\nルベロにたどり着いたペルシ\nアンに、人々が同情を示すこと\nはなかった。",
+    "pt-BR" : "Temido por seus conterrâneos, Persian atacava, sempre sozinho, rotas sem distinção entre ricos ou pobres. O dia que ele chegou se arrastando em Albero, à beira da morte, ninguém se importou.",
+    "ko" : "주변 사람들을 공포에 떨게 만든 도적 페르시안은 부자건 가난한 자건 관계 없이 홀로 습격을 감행했다. 그가 죽어가는 몸을 이끌고 알베로로 돌아왔을 때, 누구도 그를 가엾게 여기지 않았다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666641",
+  "name" : {
+    "es" : "Navicular de Kahnnyhoo, el Asesino",
+    "en" : "Navicular of Kahnnyhoo, the Murderer",
+    "fr" : "Naviculaire de Kahnnyhoo, le Meurtrier",
+    "de" : "Kahnbein von Kahnnyhoo, dem Mörder",
+    "it" : "Osso navicolare di Kahnnyhoo l'Assassino",
+    "zh" : "杀手坎尼忽的舟状骨",
+    "ru" : "Ладьевидная кость убийцы Каньиху",
+    "ja" : "殺人者カーニホーの舟状骨",
+    "pt-BR" : "Navicular de Kahnnyhoo, o Assassino",
+    "ko" : "살인자 칸니후의 주상골"
+  },
+  "description" : {
+    "es" : "Kahnnyhoo, aunque torpe, supo aprovechar su aspecto alegre y jovial para embaucar a mercaderes y clérigos con la intención de darles muerte y robarles sus pertenencias.",
+    "en" : "Kahnnyhoo, although clumsy, took advantage of his cheerful and jovial demeanour to trick merchants and clergymen, with the intention of killing them and stealing their belongings.",
+    "fr" : "Kahnnyhoo, bien que maladroit, profitait de sa personnalité joviale pour berner les marchands et les prêtres, dans l'intention de les tuer et de voler leurs biens.",
+    "de" : "Kahnnyhoo, obwohl etwas ungeschickt, wusste sein heiteres und gutmütiges Auftreten zu nutzen, um Kaufleute und Geistliche zu überlisten, die er dann tötete und ausraubte.",
+    "it" : "Kahnnyhoo, sebbene goffo, sfruttava il proprio aspetto allegro e gioviale per trarre in inganno mercanti ed ecclesiastici, con l'intenzione di ucciderli e rubarne gli averi.",
+    "zh" : "坎尼忽虽然不是很精明，但骗商人和教士上钩还是有两手的，他会杀掉他们，然后拿走他们的财物",
+    "ru" : "Каньиху был довольно неуклюжим, но обладал веселым и жизнерадостным характером, благодаря которому с легкостью обманывал купцов и священников. Потом он их убивал, а вещи забирал себе.",
+    "ja" : "カーニホーは不器用でこそあっ\nたが、その明るく朗らかな振る\n舞いを利用し、商人や聖職者を\n騙して殺し、彼らの所有物を盗\nんで暮らしていた。",
+    "pt-BR" : "Kahnnyhoo, apesar de desajeitado, aproveitou-se de sua conduta alegre e jovial para enganar mercadores e clérigos com a intenção de matá-los e roubar seus pertences.",
+    "ko" : "칸나후는 서툴지만 쾌활하고 유쾌한 성격을 이용해 상인과 성직자를 속이고 이들을 죽여 그 소지품을 빼앗을 생각이었다."
+  }
+} ]

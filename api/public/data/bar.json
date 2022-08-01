@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bar",
+    "id": "1",
+    "message": "Hello Bar!"
+  },
+  {
+    "name": "FanAPI",
+    "id": "2",
+    "message": "Hello World!"
+  }
+]

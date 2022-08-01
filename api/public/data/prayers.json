@@ -1,0 +1,647 @@
+[ {
+  "id" : "62e7fd13ef4a6a5cfb66664f",
+  "name" : {
+    "es" : "Següiriya a Tus Luceros",
+    "en" : "Següiriya to your Eyes like Stars",
+    "fr" : "Següiriya, à tes yeux comme des étoiles",
+    "de" : "Següiriya an deine sternengleichen Augen",
+    "it" : "Següiriya ai tuoi occhi come stelle",
+    "zh" : "星目颂歌",
+    "ru" : "Сигирийя твоим глазам, подобным звездам",
+    "ja" : "星の双眼に贈るシギリージャ",
+    "pt-BR" : "Següiriya para teus Olhos Brilhantes",
+    "ko" : "별빛 같은 눈동자에 바치는 세기리야"
+  },
+  "description" : {
+    "es" : "Breve canto a los cielos nocturnos. Embarga a Penitente con la furia de los justos, aumentando la velocidad de sus ataques por un tiempo.",
+    "en" : "Brief hymn to the night skies. Overwhelms The Penitent One with the fury of the righteous, increasing the speed of his attacks for some time. ",
+    "fr" : "Un hymne bref dédié aux cieux nocturnes. La furie des justes s'empare du Pénitent: sa vitesse d'attaque augmente temporairement.",
+    "de" : "Kurze Hymne an den Nachthimmel. Erfüllt den Büßer mit dem Zorn der Gerechten, erhöht vorübergehend das Tempo seiner Angriffe. ",
+    "it" : "Breve inno ai cieli notturni. Pervade il Penitente della furia dei virtuosi, aumentando temporaneamente la velocità dei suoi attacchi. ",
+    "zh" : "歌颂夜空的小诗。使忏悔者满怀义人之怒，在一段时间内提升其攻击速度 ",
+    "ru" : "Короткий гимн ночному небу. Наполняет Кающегося праведной яростью и на короткое время увеличивает скорость его атак. ",
+    "ja" : "夜空を讃える短い聖歌。高潔な\nる激怒が悔悟者を飲み込むこと\nで、攻撃速度が短い間上昇す\nる。",
+    "pt-BR" : "Breve hino ao céu noturno. Inunde o Penitente com a fúria da retidão, aumentando a velocidade de seus ataques por um tempo. ",
+    "ko" : "밤하늘에 바치는 짧은 구절의 찬송가. 참회자를 고결한 분노에 휩싸이게 하여 잠깐 동안 공격 속도를 올려 준다."
+  },
+  "lore" : {
+    "es" : "Hay una niña con dos luceros\nQue cuando me mira a su vera me quedo\n\n\nDicen que es santa, que bajó del cielo\nNo llores niña que por el camino me pierdo\n\n\n¿Qué es lo que suena?\nLas campanas a lo lejos\n\n\n¿Qué es lo que llora?\nEn su carita dos luceros",
+    "en" : "There is a small girl with two star-like eyes\nWho, when she looks at me, makes me stay by her side\n\n\nThey say she's a saint, came down from the sky\nDo not cry, my child, or I'll get lost on the way\n\n\nWhat is it that tolls?\nThe bells in the distance\n\n\nWhat is it that cries?\nOn her face, eyes star-like.",
+    "fr" : "Il est une petite fille aux yeux comme des étoiles\nQui, d'un seul regard, m'enchaîne à elle\n \nC'est une sainte, dit-on, descendue des cieux\nNe pleure pas, chère enfant, au risque que je m'égare\n \nQu'est-ce qui sonne?\nLes cloches au loin\n \nQu'est-ce qui pleure?\nSur son visage, ses yeux comme des étoiles",
+    "de" : "Da ist ein Mädchen mit zwei sternengleichen Augen\nWenn Sie mich ansieht, will ich ihr nie mehr von der Seite weichen\n\n\nMan sagt, sie sei eine Heilige, gesandt vom Himmel\nWeine nicht, mein Kind, oder ich verirre mich auf dem Weg\n\n\nWas da klingt?\nDie Glocken in der Ferne\n\n\nWas da weint?\nSternengleiche Augen, auf ihrem Antlitz",
+    "it" : "C'è una fanciulla dagli occhi come stelle\nche, con uno sguardo, mi fa stare al suo fianco.\n\n\nDicono sia una santa, discesa dal cielo.\nNon piangere, figlia mia, o smarrirò la strada.\n\n\nCosa sono quei rintocchi?\nCampane distanti.\n\n\nChi piange queste lacrime?\nQuegli occhi, come stelle sul suo viso.",
+    "zh" : "眸子双明星\n相邀少歇停\n\n\n天间夸婉娩\n尘世逞娉婷\n\n\n何处鸣钟振\n阿谁悲涕零\n\n\n劝君莫堕泪\n使我前途冥",
+    "ru" : "Есть маленькая девочка с глазами подобными звездам.\nЯ не хочу прощаться с ней, покуда смотрит на меня.\n\n\nМолва твердит, она святая, сошедшая с небес.\nНе плачь, дитя, иначе сбиться мне с пути.\n\n\nЧто за звон?\nКолокола вдалеке.\n\n\nЧто за плач?\nГлаза, как звезды, на ее лице.",
+    "ja" : "少女の双眼は　まるで星のよう\nその目は私を　見つめ離さない\n\n\n彼女は天よりの聖人　贈り物\n泣くな、我が子よ　道に迷ってしまうから\n\n\n響き渡るは　何の音\nはるか遠くの　鐘の音\n\n\n流れ落ちるは　誰の涙\n彼女の涙　星の双眼",
+    "pt-BR" : "Há uma garotinha com dois olhos brilhantes\nQue, quando me olham, me atraem num instante.\n\n\nDizem que é uma santa, que veio do paraíso\nNão chore, criança, senão vou ficar perdido.\n\n\nO que está tocando?\nOs sinos distantes.\n\n\nO que está chorando?\nNo rosto dela, dois olhos brilhantes.",
+    "ko" : "별과 같은 두 눈을 지닌 소녀 있으니\n누구든 나처럼 그 소녀의 눈동자에서 벗어날 수 없음이라\n\n\n그 소녀는 천상에서 보내신 성인이요\n그러니 울지 마라 아이야, 그리하면 내가 길을 잃을지니\n\n\n저 울려 퍼지는 소리는 무엇인가?\n아득히 먼 곳에서 종소리 울리네\n\n\n저 눈물은 어디서 흐르는가?\n별처럼 빛나는 소녀의 눈에서 흐르네."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666650",
+  "name" : {
+    "es" : "Debla de las Luces",
+    "en" : "Debla of the Lights",
+    "fr" : "Debla des lueurs",
+    "de" : "Debla des Lichts",
+    "it" : "Debla della luce",
+    "zh" : "神光天降",
+    "ru" : "Дебла Светa",
+    "ja" : "光のデブラ",
+    "pt-BR" : "Debla das Luzes",
+    "ko" : "빛의 성령 데브라"
+  },
+  "description" : {
+    "es" : "Invoca un haz de luz celestial en la posición de Penitente, que castiga con implacable fuerza a los enemigos cercanos.",
+    "en" : "Summons a beam of heavenly light to the position of The Penitent One; it punishes nearby enemies with merciless strength.",
+    "fr" : "Invoque un faisceau de lumière céleste à l'emplacement du Pénitent ; il châtie les ennemis proches avec une force implacable.",
+    "de" : "Beschwört einen Strahl himmlischen Lichts auf den Büßer herab; bestraft Feinde in der Nähe mit gnadenloser Härte.",
+    "it" : "Evoca un raggio di luce divina nel punto in cui si trova il Penitente; punisce i nemici nelle vicinanze con forza spietata.",
+    "zh" : "从天上召唤一道神光照射在忏悔者的位置，对附近的敌人造成猛烈的伤害",
+    "ru" : "Призывает луч божественного света туда, где стоит Кающийся. Свет немилосердно обжигает находящихся поблизости врагов.",
+    "ja" : "天よりの光の束が悔悟者の元へ\nと降り注ぐ。無慈悲なるその光\nは、周囲の敵に罰を下すことだ\nろう。",
+    "pt-BR" : "Lança um feixe de luz celestial na posição do Penitente; pune inimigos próximos com uma força impiedosa.",
+    "ko" : "참회자 주변에 한 줄기 천상의 빛을 보내 무자비한 힘으로 주변 적을 벌한다."
+  },
+  "lore" : {
+    "es" : "Tengo ojos y no puedo veros\nVuestras luces de fuego me ciegan adentro\n\n\nArriba en el cielo hay palomas de cera\nQue derriten sus alas sembrando la tierra\n\n\nSi me llamáis, dejad que me queme\nOjos y carne, manos y pelo\nQuiero veros y no puedo",
+    "en" : "Eyes I have, but thee I can't see\nYour lights of fire blind me inside\n\n\nUp in the sky there fly wax pigeons\nWhich melt their wings, sowing the land\n\n\nIf you call me, let me burn\nEyes and flesh, hands and hair\nI want to see thee, but I cannot.",
+    "fr" : "J'ai des yeux, mais je ne te vois point\nLa lueur de tes feux m'aveugle en dedans\n \nDans le ciel volent des pigeons de cire\nLeurs ailes fondent, pleuvent sur la terre\n \nSi tu m'appelles, laisse-moi brûler\nLes yeux et les chairs, les mains et les cheveux\nJe veux te voir, mais ne le puis",
+    "de" : "Augen habe ich, doch dich kann ich nicht sehen\nDein feuriges Licht blendet mein Innerstes\n\n\nHoch oben am Himmel fliegen wächserne Tauben\nIhre schmelzenden Schwingen bringen die Saat aus\n\n\nDein Ruf lässt mich brennen\nAugen und Fleisch, Hände und Haar\nIch will dich sehen, doch ich kann es nicht",
+    "it" : "Con i miei occhi non posso vederti.\nLa tua luce infuocata mi acceca nell'animo.\n\n\nIn alto nel cielo volano colombi di cera:\nle loro ali si sciolgono, cospargendo la terra.\n\n\nSe mi chiami, lascia ch'io bruci...\nOcchi e carne, mani e capelli.\nVoglio vederti, ma non posso.",
+    "zh" : "炽光耀眼\n明火灼心\n\n\n蜡鸽来翔\n熔羽成霖\n\n\n奉目献体\n披火为衾\n余恨至今",
+    "ru" : "Есть глаза, но я тебя не вижу.\nОтблеск твоего пламени жжет меня изнутри.\n\n\nВ небесах кружат восковые голуби,\nИ крылья их плавятся, поливая землю.\n\n\nЕсли призовешь меня, дай мне обжечь\nГлаза и плоть, и волосы, и руки.\nХочу узреть тебя, но не могу.",
+    "ja" : "私の眼では　あなたを見れない\nその炎の光が　眩しすぎるから\n\n\n空に飛ぶは　蝋の鳩\n溶けゆく翼が　大地に注ぐ\n\n\n焦がれる心ごと　私を燃やして\n眼と肉、手と髪\n私の眼では　あなたを見れない",
+    "pt-BR" : "Tenho olhos, mas a ti não vejo\nTua luz incandescente me cega por dentro\n\n\nLá no céu voam pombas de cera\nAs asas derretem, semeando toda terra\n\n\nSe me chamares, deixe-me queimar\nOlhos e carne, mãos e cabelo\nQuero te ver, mas não posso",
+    "ko" : "제 눈으로는 그대를 보지 못하리니,\n그대의 찬란한 휘광이 제 안에서 나를 눈멀게 하나이다.\n\n\n천상을 거니는 밀랍으로 된 비둘기가\n그 열기에 녹아 땅으로 스며드나니,\n\n\n그대가 나 부르시어\n눈과 살, 손과 머리카락 태워\n그대를 보려 해도 나 그러지 못하나이다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666651",
+  "name" : {
+    "es" : "Saeta Dolorosa",
+    "en" : "Saeta Dolorosa",
+    "fr" : "Saeta Dolorosa",
+    "de" : "Saeta Dolorosa",
+    "it" : "Saeta Dolorosa",
+    "zh" : "苦痛之箭",
+    "ru" : "Саэта Долороса",
+    "ja" : "サエタ・ドロローサ",
+    "pt-BR" : "Saeta Dolorosa",
+    "ko" : "사에타 돌로로사"
+  },
+  "description" : {
+    "es" : "El dolor de la carne representaba la penitencia definitiva, el desapego del ser en firme persecución de la virtud. Este triste y desesperado canto rebosa de convicción, y recompensa a quien lo implora con energía vital al golpear a sus enemigos.",
+    "en" : "The pain of the flesh embodied the definitive penance, total detachment of self in firm pursuit of virtue. This sorrowful and desperate chant overflows with conviction, and those who intone it will be rewarded with vital energy for every hit they land on their enemies.",
+    "fr" : "La douleur de la chair incarnée dans une pénitence définitive, une abnégation totale au service d'une quête de vertu. Ce chant désespéré et plein de chagrin déborde de conviction, et ceux qui l'entonnent seront récompensés par un regain d'énergie vitale à chaque coup qu'ils portent à leurs ennemis.",
+    "de" : "Der Schmerz des Fleisches verkörperte die endgültige Buße, die völlige Loslösung des Selbst im unbeirrten Streben nach Tugend. Dieser leidvolle und verzweifelte Gesang ist erfüllt von unerschütterlichem Glauben und jene, die ihn anstimmen, werden mit Lebenskraft für jeden Treffer gegen ihre Feinde belohnt.",
+    "it" : "Il dolore del corpo incarnava la penitenza finale, il totale distacco dell'animo alla ricerca imperterrita della virtù. Questo canto triste e disperato trabocca di fervore e chi lo intona verrà ricompensato con energia vitale a ogni colpo sferrato sui nemici.",
+    "zh" : "真正的忏悔只有通过肉体的痛苦才能表现出来，追求圣德才是彻底的超脱。这种痛苦绝望的圣歌通篇满是笃定之情，咏唱者对敌人造成伤害时，也将回复生命",
+    "ru" : "Боль плоти – воплощение окончательного раскаяния, полного отрешения от своего «я» в непреклонном стремлении к добродетели. Эта печальная и отчаянная песнь переполнена сознанием греховности. Тот, кто исполняет ее, будет вознагражден: за каждый удар, нанесенный противнику, жизненные силы его восстанавливаются.",
+    "ja" : "肉体の痛みは明確なる自己犠牲\nであり、美徳を追い求めるがゆ\nえの、自身に対する無関心であ\nる。悲しみと絶望を体現したよ\nうなこの聖歌には、確固たる信\n念が満ち溢れている。この歌を\n唱える者は、敵を攻撃するたび\nに生命力を得られるだろう。",
+    "pt-BR" : "A dor da carne representava a penitência final, desapego total do \"eu\" na busca inabalável pela virtude. Este cântico triste e desesperado transborda convicção, e quem o entoar será recompensado com energia vital por cada golpe desferido nos inimigos.",
+    "ko" : "육체에 전해지는 고통은 고행의 완벽한 형태이며 자아를 멀리 함으로서 고결함을 추구하려는 것이다. 확고한 신념을 담아 슬픔과 절망을 담은 이 성가를 읊조리는 자는 적을 강타할 때마다 생명력을 얻을 수 있다."
+  },
+  "lore" : {
+    "es" : "Déjame penar, déjame sufrir\nQue llaga mía es una menos en tí\n\n\nDéjame sangrar, déjame sentir\nQue un corte mío es caricia en tí\n\n\nDéjame llorar, déjame gemir\nQue todas mis lágrimas son solo para mí",
+    "en" : "Let me grieve, let me suffer\nFor one wound on me is one less on you\n\n\nLet me bleed, let me feel\nFor a cut on me is a caress for you\n\n\nLet me cry, let me moan\nAs all of my tears are only for me.",
+    "fr" : "Laisse-moi pleurer, laisse-moi souffrir\nUne blessure à mon corps t'en épargne le tourment\n \nLaisse-moi saigner, laisse-moi sentir\nCar une entaille pour moi est une caresse pour toi\n \nLaisse-moi pleurer, laisse-moi gémir\nCar mes larmes ne sont que pour moi",
+    "de" : "Lass mich klagen, lass mich leiden\nDenn jede meiner Wunden bleibt dir erspart\n\n\nLass mich bluten, lass mich erdulden\nDenn ein Hieb für mich ist eine Liebkosung für dich\n\n\nLass mich weinen, lass mich stöhnen\nDenn all meine Tränen sind mein allein",
+    "it" : "Lascia ch'io soffra, lascia ch'io provi dolore,\npoiché una ferita su di me è una ferita in meno per te.\n\n\nLascia ch'io sanguini, lascia ch'io patisca,\npoiché un taglio su di me è una carezza per te.\n\n\nLascia ch'io pianga, lascia ch'io gema,\npoiché tutte le mie lacrime sono soltanto mie.",
+    "zh" : "苦痛尽至\n以身代君\n\n\n热血皆涸\n奉君至勤\n\n\n恸哭悲戚\n不使君闻",
+    "ru" : "Дай мне скорбеть, позволь мне страдать,\nИбо с каждой раной моей исцеляются раны твои.\n\n\nДай мне истечь кровью, позволь терпеть боль,\nИбо каждый мой порез – ласка телу твоему.\n\n\nДай мне кричать, позволь мне стонать,\nИбо все мои слезы лишь обо мне.",
+    "ja" : "心を痛めよう　苦痛を受けよう\nあなたの代わりに　なれるのならば\n\n\n血なら流そう　悲痛も受けよう\nこの傷こそが　あなたへの抱擁\n\n\n涙も流そう　嘆き悲しもう\n私の涙は　ただ私のもの",
+    "pt-BR" : "Deixe-me lamentar, deixe-me sofrer\nPois uma ferida em mim é uma a menos em você\n\n\nDeixe-me sangrar, deixe-me sentir\nPois um corte em mim é um afago em você\n\n\nDeixe-me chorar, deixe-me gemer\nPois todas as lágrimas são só por mim",
+    "ko" : "나를 슬픔과 고통에 임하게 하소서.\n이로 그대의 고통을 덜 수 있다면.\n\n\n피를 흘리고, 비통에 임하게 하소서.\n이 상처로 그대를 감싸 안을 수 있도록.\n\n\n눈물 흘리고, 신음하게 하소서.\n내 모든 눈물이 오롯이 내 것이 될 수 있도록."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666652",
+  "name" : {
+    "es" : "Campanillero a los Hijos de la Aurora",
+    "en" : "Campanillero to the Sons of the Aurora",
+    "fr" : "Campanillero aux Fils de l'aurore",
+    "de" : "Campanillero an die Söhne der Aurora",
+    "it" : "Campanillero ai figli dell'aurora",
+    "zh" : "礼颂奥耀拉之子",
+    "ru" : "Кампанильеро Сынам Авроры",
+    "ja" : "オーロラの息子に贈るカンパニジェロ",
+    "pt-BR" : "Campanillero para os Filhos da Aurora",
+    "ko" : "오로라의 아들에게 바치는 캄파닐레로"
+  },
+  "description" : {
+    "es" : "Antiguo cante a la luna, que llama al auxilio de sus vástagos. Invoca una corte de querubines que acompañan a Penitente, atacando a enemigos cercanos. ",
+    "en" : "Ancient chant to the moon, that calls for the aid of her offspring. Summons a group of cherubs that fly by The Penitent One's side, attacking nearby enemies.",
+    "fr" : "Un antique chant pour la Lune, qui implore l'aide de ses enfants. Invoque un groupe de chérubins qui virevoltent aux côtés du Pénitent pour attaquer ses ennemis proches.",
+    "de" : "Alter Gesang an den Mond, um seine Abkömmlinge zu Hilfe zu rufen. Beschwört eine Gruppe von Cherubim, die den Büßer begleiten und nahe Feinde attackieren.",
+    "it" : "Un antico canto alla luna, che chiama in aiuto la sua progenie. Evoca un gruppo di cherubini che volano al fianco del Penitente, attaccando i nemici nelle vicinanze.",
+    "zh" : "远古时期赞美月神的圣歌，用以祈求她的后代显灵。可以召唤一群小天使围绕在忏悔者身边，攻击附近的敌人",
+    "ru" : "Древняя песнь Луне, взывающая к помощи ее потомков. Призывает группу херувимов, которые летят бок о бок с Кающимся и атакуют ближайших противников.",
+    "ja" : "月を称える太古の聖歌であり、\n月の子孫からの助けを求める\n歌。悔悟者の周囲の敵を攻撃す\nる、複数の智天使を召喚する。",
+    "pt-BR" : "Cântico antigo para a lua que clama a ajuda de sua prole. Convoca um grupo de querubins que voa ao lado do Penitente, atacando os inimigos próximos.",
+    "ko" : "달에게 바치는 고대의 성가이자 달의 자손에게 도움을 청하는 노래. 참회자 근처를 날며 근처 적을 공격하는 작은 천사를 소환한다."
+  },
+  "lore" : {
+    "es" : "Arrodillados estamos, al suelo miramos\nPero si nos nombráis en voz alta\nMarcharemos en procesión\nA vuestra aurora de castigo\nEsperando vuestro perdón\n\n\nArrodillados estamos, al suelo miramos\nPero si vuestra mano se alza\nMarcharemos en procesión\nA vuestra aurora de castigo\nEsperando vuestro perdón",
+    "en" : "We're on our knees, to the ground we look\nBut if you name us aloud\nWe'll march in procession\nTo your dawn of punishment\nHoping for your exculpation\n\n\nWe're on our knees, to the ground we look\nBut if your hand rises up\nWe'll march in procession\nTo your dawn of punishment\nHoping for your exculpation.",
+    "fr" : "Prostrés nous sommes, le regard bas\nMais si tu prononces notre nom\nNous marcherons en procession\nVers ton aube de châtiment\nEn attendant ta disculpation\n \nProstrés nous sommes, le regard bas\nMais que ta main se dresse\nEt nous marcherons en procession\nVers ton aube de châtiment\nEn attendant ta disculpation",
+    "de" : "Wir knien in Demut, den Blick zu Boden\nDoch wenn Ihr uns laut beim Namen ruft\nKommen wir in Legion\nZum Tag Eurer Bestrafung\nHoffend auf Eure Entsühnung\n\n\nWir knien in Demut, den Blick zu Boden\nDoch wenn Eure Hand sich hebt\nKommen wir in Legion\nZum Tag Eurer Bestrafung\nHoffend auf Eure Entsühnung",
+    "it" : "Siamo in ginocchio, il capo chino verso terra\nma, se ci invochi a gran voce,\nmarceremo in processione\nall'alba della nostra condanna,\nnella speranza del tuo perdono.\n\n\nSiamo in ginocchio, il capo chino verso terra\nma, a un tuo cenno,\nmarceremo in processione\nall'alba della nostra condanna,\nnella speranza del tuo perdono.",
+    "zh" : "屈膝俯首\n敬闻君命\n天罚将至\n万军偕行\n愿君赦证\n\n\n屈膝俯首\n敬候君令\n天罚将至\n万军偕行\n愿君赦证",
+    "ru" : "Мы на коленях, мы смотрим на землю.\nНо едва ты нас кликнешь,\nПримчимся на помощь\nК рассвету кары твоей,\nВ надежде на искупление твое.\n\n\nМы на коленях, мы смотрим на землю.\nНо если десница твоя вознесется,\nПримчимся на помощь\nК рассвету кары твоей,\nВ надежде на искупление твое.",
+    "ja" : "大地に我らは　膝をつく\n我らが威名を　大きく叫べ\nさすれば我らは　行軍しよう\n聖なる罰の　幕開けのために\n汝が無実を　証するために\n\n\n大地に我らは　膝をつく\n汝のかいなを　天に掲げよ\nさすれば我らは　行軍しよう\n聖なる罰の　幕開けのために\n汝が無実を　証するために",
+    "pt-BR" : "Ajoelhados, olhamos para o chão.\nMas se você pronunciar nossos nomes\nMarcharemos em procissão\nRumo ao alvorecer da sua punição\nTorcendo pela absolvição\n\n\nAjoelhados, olhamos para o chão.\nMas se você levantar a mão\nMarcharemos em procissão\nRumo ao alvorecer da sua punição\nTorcendo pela absolvição",
+    "ko" : "우리는 이 대지에 무릎 꿇는 자들이라\n그대 우리 위명을 크게 외치면\n우리는 행군하리라\n그대의 속죄를 바라는\n형벌의 서막을 알리리라\n\n\n우리는 이 대지에 무릎 꿇는 자들이라\n그대 손을 높이 치켜올리면\n우리는 행군하리라\n그대의 속죄를 바라는\n형벌의 서막을 알리리라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66665c",
+  "name" : {
+    "es" : "Alborada del Guardián Sin Nombre",
+    "en" : "Aubade of the Nameless Guardian",
+    "fr" : "Aubade du gardien anonyme",
+    "de" : "Aubade des Namenlosen Wächters",
+    "it" : "Mattinata del guardiano senza nome",
+    "zh" : "无名守卫歌",
+    "ru" : "Утренняя серенада безымянного стража",
+    "ja" : "名も無き守護者のオーバード",
+    "pt-BR" : "Matinada do Guardião sem Nome",
+    "ko" : "이름없는 수호자의 오바드"
+  },
+  "description" : {
+    "es" : "Canto a un sol extinto, nacido de cuatro voluntades hiladas en oro. Da forma al dolor de las Amanecidas, creando un espectro que acompaña a Penitente durante un tiempo, obedeciendo sus órdenes.\nLaudes trenzó su pasión en cuatro guerreras que combatieron junto a ella, resistiendo el embate de los siglos.",
+    "en" : "A song to an extinct sun, born of four wills spun in gold. It shapes the pain of the Amanecidas, creating a ghost that accompanies the Penitent One for a while, obeying his orders.\nLaudes wove her passion into four warriors who fought alongside her, resisting the onslaught of the centuries.",
+    "fr" : "Une chanson au soleil éteint, née de quatre volontés tissées d'or. Elle forme la douleur des Amanecidas, pour créer un fantôme qui accompagne le Pénitent un moment et obéit à ses ordres.\nLaudes tressa de sa passion quatre guerriers qui combattaient à ses côtés, pour résister à l'assaut des siècles.",
+    "de" : "Eine Ode an eine untergegangene Sonne, entsprungen aus vier von Gold umsponnenen Willen. Formt den Schmerz der Amanecidas, erschafft einen Geist, der den Büßer für eine Weile begleitet und ihm zu Diensten ist.\nLaudes wob ihre Hingabe ein in vier Krieger, die an ihrer Seite kämpften und dem Ansturm der Jahrhunderte widerstanden.",
+    "it" : "Un canto dedicato a un sole estinto, nato da quattro volontà intessute d'oro. Dà forma al dolore delle Amanecidas, generando uno spirito che accompagna il Penitente per un po' e obbedisce ai suoi ordini.\nLaudes intrecciò i fili della sua passione e creò quattro guerriere che avrebbero combattuto al suo fianco, resistendo alla furia dei secoli.",
+    "zh" : "一首赞颂落日的歌谣，由四位意志之魂所歌唱，用金线所纹绣。阿马内奇达因之而痛苦，它可以制造一个鬼魂陪伴忏悔者一段时间，并听从忏悔者的指令。\n罗拉德斯将自己的怒火化作四位猛士相伴左右，数百年间，他们一直在为她抵御外人的攻击。",
+    "ru" : "Песнь погасшему солнцу, рожденная четырьмя волями, увитыми золотом. Она воплощает боль Дев Зари и создает призрака, который некоторое время сопровождает Кающегося и выполняет его приказы.\nЛаудес выткала свою страсть в виде четырех воинов, которые сражались рядом с ней, сопротивляясь давлению веков.",
+    "ja" : "黄金で紡がれた四つの意志から\n生まれた、今は無き太陽に捧げ\nる歌。アマネシダの苦しみを具\n現化し、悔悟者に付き従う亡霊\nを生み出す。\nラウデスは自らの情熱を持って\n四人の戦士を生み出した。何世\n紀もの間、戦士たちはラウデス\nと共に戦い、猛撃に対抗し続け\nた。",
+    "pt-BR" : "Canção para um sol extinto, nascida de quatro vontades fiadas em ouro. Dá forma à dor das Amanecidas, criando um fantasma que acompanha o Penitente por um tempo, obedecendo às ordens dele.\nLaudes teceu a própria paixão em quatro guerreiras que lutaram ao lado dela, resistindo à violência dos séculos.",
+    "ko" : "사멸한 태양을 기리는 노래이자 금으로 얽힌 네 개의 의지에서 탄생한 노래. 잠시 동안 참회자의 명령을 따르는 아마네시다가 지닌 고통을 형상화한 유령을 만들어낸다.\n라우데스는 자신의 열정을 엮어 태어난 네 명의 전사와 함께 세기의 맹공에 저항했다."
+  },
+  "lore" : {
+    "es" : "Noche, que duermes a cuatro soles\nOlvida tus fríos y tus azules\n\n\nEs la luz de la aurora\nQue levanta tu velo con sus faroles\n\n\nEn los balcones ya canta\nEn los balcones  ya suena\n\n\nCon ella se van las estrellas\nCon ella se va mi condena\n\n\nEs la luz de la aurora\nEs la niña de gracias llena",
+    "en" : "Night, you sleep when the sun shines\nForget your cold and your gloom\n\n\nIt's the light of a sunrise\nWith lanterns clearing the brume\n\n\nOn the balconies, it calls\nOn the balconies, it sings\n\n\nGathering up all the stars\nLifting the weight of my sins\n\n\nThis new dawn that lights up the halls\nIs a girl with graceful wings",
+    "fr" : "Nuit, tu dors lorsque luit le soleil\nOublie ton froid, ton humeur sombre\n\n\nC'est la lumière de l'éveil\nOù les lanternes transpercent l'ombre\n\n\nSur les balcons, elle appelle\nSur les balcons, elle chante\n\n\nRassemblant les étoiles\nAllégeant mes péchés\n\n\nCette aube nouvelle qui éclaire de plus belle\nest une fille aux ailes puissantes",
+    "de" : "Nacht, du schläfst, wenn die Sonne scheint\nVergiss deine Kälte und deine Düsternis\n\n\nEs ist das Licht eines Sonnenaufgangs\nMit Laternen, die den Nebel lichten\n\n\nAuf den Balkonen ruft es\nAuf den Balkonen singt es\n\n\nAlle Sterne zusammentragend\nMich von der Last meiner Sünden befreiend\n\n\nDieser neue Morgen, der die Hallen erhellt\nIst ein Mädchen mit wunderschönen Schwingen.",
+    "it" : "Notte, tu dormi quando splende il sole\nDimentica il tuo gelo e la tua oscurità\n\n\nÈ la luce dell'aurora\nChe dissipa la tua foschia con le sue lanterne\n\n\nCanta dai balconi\nSuona dai balconi\n\n\nRadunando tutte le stelle\nE sgravandomi del peso dei miei peccati\n\n\nÈ la luce dell'aurora\nÈ una bambina alata piena di grazia",
+    "zh" : "旦升夜息\n不晦不寒\n\n\n夜中有日\n灯明雾残\n\n\n唤声高起\n雅歌绕栏\n\n\n消乎吾罪\n群星阑干\n\n\n知此新晓\n双翼婵娟",
+    "ru" : "Ночь, ты спишь, когда светит Солнце.\nЗабудь про хлад, забудь про мрак.\n\n\nЭто свет восхода.\nФонарики рассеют тьму.\n\n\nНа балконах он взывает,\nНа балконах он поет,\n\n\nСобирает все звезды,\nСнимает все мои прегрешения.\n\n\nЭтот новый восход осветит залы.\nОн – дева с прекрасными крыльями.",
+    "ja" : "夜よ、太陽が昇り輝く時\n寒さと闇を忘れ　そなたは眠る\n\n\nそれは黎明の光\n霧を晴らす灯火\n\n\nバルコニーの上で　それは呼ぶ\nバルコニーの上で　それは歌う\n\n\n星々を御許に集め\n我が罪業を取り除き給う\n\n\n広間を照らす　新しき夜明け\nそれは優雅な翼の少女",
+    "pt-BR" : "Noite, que dorme quando o sol brilha\nEsquece teu frio e escuridão\n\n\nVem a luz de uma aurora\nDissipando as brumas com teu clarão\n\n\nNas varandas, ela chama\nNas varandas, vocaliza\n\n\nRecolhendo as estrelas\nAmenizando o peso da minha sina\n\n\nEssa nova alvorada luminosa\nÉ uma garota com asas graciosas",
+    "ko" : "밤이여, 그대는 태양이 뜰 때 잠들리라\n그대의 냉정함과 어둠을 잠시 잊은 채로\n\n\n이는 안개를 몰아내는 등불처럼\n떠오르는 한 줄기 빛이리니\n\n\n발코니에서 밤을 부르리라\n발코니에서 밤을 노래하리라\n\n\n모든 별을 그러모아\n내가 진 죄를 짊어질 수 있도록\n\n\n홀을 밝히는 이 새로운 새벽은\n우아한 날개를 지닌 소녀일지니."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666653",
+  "name" : {
+    "es" : "Lorquiana",
+    "en" : "Lorquiana",
+    "fr" : "Lorquiana",
+    "de" : "Lorquiana",
+    "it" : "Lorquiana",
+    "zh" : "洛奇亚娜",
+    "ru" : "Лоркиана",
+    "ja" : "ロルキアナ",
+    "pt-BR" : "Lorquiana",
+    "ko" : "로르퀴아나"
+  },
+  "description" : {
+    "es" : "Rezo que convoca una andanada de rayos nacidos de la propia esencia del Milagro, atravesando a aquellos que se atreven a enfrentar a Mea Culpa.",
+    "en" : "A prayer that calls forth a barrage of fiery lightning from the very essence of the Miracle, piercing any foe that dares to stand before Mea Culpa.",
+    "fr" : "Une prière qui fait pleuvoir des éclairs de feu depuis l'essence même du Miracle, transperçant tout ennemi qui ose s'opposer à Mea Culpa.",
+    "de" : "Ein Gebet, das eine Barriere feuriger Blitze aus der Essenz des Mirakels heraufbeschwört. Diese trifft jeden Gegner, der es wagt, vor Mea Culpa zu stehen.",
+    "it" : "Una preghiera che invoca una raffica di fulmini ardenti dall'essenza stessa del Miracolo, trafiggendo qualsiasi nemico osi affrontare il Mea Culpa.",
+    "zh" : "这一祷文会从奇迹的本质中召唤出一连串炽热的闪电，穿透任何胆敢站在孽刃面前的敌人",
+    "ru" : "Эта молитва взывает к самой сущности Чуда и создает преграду из огненных молний, которые пронзят любого врага, осмелившегося встать перед Mea Culpa.",
+    "ja" : "奇蹟そのものから生み出された\n稲光を召喚する祈詞。懺悔の剣\nの行く手を遮る愚か者を貫き、\n罰を与える。",
+    "pt-BR" : "Uma oração que convoca uma enxurrada de raios violentos oriundos da própria essência do Milagre, perfurando qualquer inimigo que ouse ficar diante da Mea Culpa.",
+    "ko" : "기적의 힘으로 태어난 번광을 불러내 메아 쿨파 앞을 가로막는 모든 적을 관통하는 기도문이다."
+  },
+  "lore" : {
+    "es" : "Somos piedras de esta tierra\nSomos brotes de estas ramas\nSomos, en procesión, unidos\nLos que con fervor te claman\n\n\nOh, Milagro Doloroso\nSácanos de estas llamas.",
+    "en" : "We are stones of this earth\nWe are sprouts of these roots\nWe are, in procession, united\nThose who fervently cry out to you\n\n\nOh, Grievous Miracle\nGet us out of these flames.",
+    "fr" : "Nous sommes les pierres de cette terre\nLes rejetons de ces racines\nNous sommes, en procession, unis\nCeux qui t'implorent avec ferveur\n \nOh, Funeste Miracle\nArrache-nous à ces flammes",
+    "de" : "Wir sind Gebeine dieser Erde\nWir sind Sprosse dieser Wurzeln\nWir sind viele und doch eins\nUnser feuriger Ruf dringt an Euer Ohr\n\n\nOh, Schmerzvolles Mirakel\nErrette uns aus diesen Flammen.",
+    "it" : "Siamo pietre di questa Terra,\ngermogli di queste piante.\nSiamo in processione, uniti,\ne ti imploriamo con fervore.\n\n\nO Miracolo flagellante,\nliberaci da queste fiamme.",
+    "zh" : "于土为石\n在木为苗\n合力齐心\n呼号长啸\n\n\n苦痛奇迹\n焰中为桥",
+    "ru" : "Мы – камни земли сей.\nМы – побеги корней сих.\nМы в своей веренице едины\nИ ревностно к тебе взываем:\n\n\nО, Прескорбное Чудо,\nИзбавь нас от пламени сего.",
+    "ja" : "我らは　この地の石なり\n我らは　この根の芽なり\nひとつになりて　我らは叫ぶ\n心の底から　我らは叫ぶ\n\n\nああ、災厄なりし奇蹟よ\nこの炎から　我らを救いたまえ",
+    "pt-BR" : "Somos pedras da terra\nSomos brotos das raízes\nSomos, em procissão, um só\nAqueles que por você clamam fervorosamente\n\n\nOh, Milagre Penoso\nLiberte-nos dessas chamas.",
+    "ko" : "우리는 이 대지의 돌이요\n우리는 이 뿌리 위에 틜 싹이라.\n그렇게 우리는 하나 되어\n그대 향해 큰 목청을 울리리라\n\n\n아아, 통탄의 기적이여,\n우리를 이 업화에서 구원해 주소서."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666654",
+  "name" : {
+    "es" : "Zarabanda del Refugio Seguro",
+    "en" : "Zarabanda of the Safe Haven",
+    "fr" : "Zarabanda du Havre",
+    "de" : "Zarabanda des Sicheren Hafens",
+    "it" : "Zarabanda del rifugio sicuro",
+    "zh" : "庇护所舞曲",
+    "ru" : "Сарабанда тихой гавани",
+    "ja" : "安息の地のサラバンド",
+    "pt-BR" : "Zarabanda do Refúgio Seguro",
+    "ko" : "안전한 안식처의 자라반다"
+  },
+  "description" : {
+    "es" : "Cantar que bendecía los muros de lugares sagrados. Convoca un escudo incorpóreo que daña a los enemigos, y destruye algunos proyectiles.\n",
+    "en" : "Song that blessed the walls of sacred rooms. Convenes an incorporeal shield that damages enemies, and destroys some projectiles.",
+    "fr" : "Un chant qui bénissait les murs des pièces sacrées. Manifeste un bouclier intangible qui blesse les ennemis et détruit certains projectiles.",
+    "de" : "Lied, das die Mauern heiliger Räume segnete. Beschwört einen körperlosen Schild, der Feinden Schaden zufügt und manche Geschosse zerstört.",
+    "it" : "Un canto usato per benedire le mura delle sacre stanze. Evoca uno scudo incorporeo che danneggia i nemici e distrugge alcuni proiettili.",
+    "zh" : "这支曲子可以给圣所的墙壁赐福，能够召唤出虚幻盾墙，可以对进犯的敌人造成伤害，也能摧毁一些打进来的投射物",
+    "ru" : "Песня, в которой благословляются стены священных покоев. Призывает нематериальный щит, который наносит урон врагам и разрушает некоторые метательные снаряды.",
+    "ja" : "神聖な部屋の壁を清め、加護す\nるために使われた歌。敵にダ\nメージを与え、飛び道具を破壊\nする霊体の盾を喚び出す。",
+    "pt-BR" : "Canção que abençoou paredes de salas sagradas. Convoca um escudo etéreo que fere inimigos e destrói alguns projéteis.",
+    "ko" : "성스러운 기도실의 벽에 축복을 내리는 노래. 적에게 피해를 주고 일부 투사체를 파괴하는 영체로 이루어진 방패를 불러낸다."
+  },
+  "lore" : {
+    "es" : "Nuestro auxilio viene del dolor\nNuestro auxilio viene del castigo\n\n\nNuestro auxilio no tiene perdón\nNuestro auxilio no tiene salvación\n\n\nPor eso rezo este canto\nPor eso peno en el corazón",
+    "en" : "Our relief comes from pain\nOur relief comes from punishment\n\n\nOur relief has no forgiveness\nOur relief has no salvation\n\n\nHence I'm intoning this song\nThat's why I grieve in my heart.",
+    "fr" : "Notre soulagement émane de la douleur\nNotre soulagement émane du châtiment\n \nNotre soulagement n'a nul oubli\nNotre soulagement n'a nul salut\n \nLors, j'élève ma voix\nVoilà pourquoi en mon cœur, je pleure",
+    "de" : "Unser Trost erwächst aus Schmerz\nUnser Trost erwächst aus Strafe\n\n\nUnser Trost kennt keine Vergebung\nUnser Trost schenkt keine Erlösung\n\n\nDeshalb stimme ich dieses Lied an\nDarum ist mein Herz voller Trauer",
+    "it" : "Il nostro sollievo deriva dal dolore,\nil nostro sollievo deriva dalla punizione.\n\n\nIl nostro sollievo non conosce perdono,\nil nostro sollievo non conosce salvezza.\n\n\nEcco perché intono questo canto,\necco perché soffro in cuor mio.",
+    "zh" : "摧心天罚\n可以为慰\n\n\n前无可谅\n后不得追\n\n\n故吟此歌\n聊表心悲",
+    "ru" : "Наше утешение наступает от боли,\nНаше утешение наступает от кары.\n\n\nНаше утешение не знает прощения,\nНаше утешение не знает спасения.\n\n\nПоэтому я пою эту песню,\nПоэтому в душе я скорблю.",
+    "ja" : "我らが安息は　苦痛より出でる\n我らが安息は　天罰より出でる\n\n\n我らが安息に　寛容は無く\n我らが安息に　救済は無い\n\n\nならば私は　この詩を歌おう\n私の心は　悲しみに嘆く",
+    "pt-BR" : "Nosso alívio vem da dor\nNosso alívio vem da punição\n\n\nPara o nosso alívio não há perdão\nPara o nosso alívio não há salvação\n\n\nPor isso, canto esta canção\nPor isso, chora o meu coração",
+    "ko" : "우리의 안식은 고통에서 나오며,\n우리의 안식은 천벌에 있으리라\n\n\n우리의 안식은 용서받지 못하며\n우리의 안식에 구원은 없으리라\n\n\n이 노래 읊조리는 나는\n마음 속 비통함에 젖으리라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666655",
+  "name" : {
+    "es" : "Taranto a la Hermana Mía",
+    "en" : "Taranto to My Sister",
+    "fr" : "Taranto à ma sœur",
+    "de" : "Taranto an meine Schwester",
+    "it" : "Taranto a mia sorella",
+    "zh" : "祈姊篇",
+    "ru" : "Таранто моей сестре",
+    "ja" : "我が妹に贈るタラント",
+    "pt-BR" : "Taranto para Minha Irmã",
+    "ko" : "누이에게 보내는 타란토"
+  },
+  "description" : {
+    "es" : "Plegaria a las tormentas, entonada por gargantas secas y voces quebradas. Invoca rayos abrasadores que atraviesan las nubes, fulminando a los enemigos cercanos.",
+    "en" : "Plea to the storms, intoned by dry throats and shaking voices. Calls forth blazing rays that pierce the clouds, striking down nearby enemies.",
+    "fr" : "Supplique aux orages, poussée par les gorges sèches et les voix tremblantes. Invoque des rayons ardents qui crèvent les nuages et fauchent les ennemis proches.",
+    "de" : "Bittgebet an die Stürme, gesungen von bebenden Stimmen aus trockener Kehle. Beschwört lodernde Strahlen, die die Wolken durchstoßen und nahe Feinde niederstrecken.",
+    "it" : "Una supplica alla tempesta, intonata da gole arse e voci tremule. Evoca raggi infuocati che perforano le nubi, annientando i nemici nelle vicinanze.",
+    "zh" : "用干沙颤抖的声音向风暴祈求。从云中召唤强光，直刺下来，杀伤周围敌人",
+    "ru" : "Мольба к бурям, озвученная дрожащими голосами и с пересохшими глотками. Призывает четыре пламенеющих луча, которые пронзают облака и поражают находящихся поблизости врагов.",
+    "ja" : "渇ききった喉と震える声によっ\nて紡がれる、嵐への嘆願の歌。\n雲をも貫く、燃え上がる光線を\n召喚し、周囲の敵に攻撃する。",
+    "pt-BR" : "Súplica à tempestade, entoada por gargantas secas e vozes trêmulas. Convoca raios abrasadores que perfuram as nuvens, acertando os inimigos próximos.",
+    "ko" : "메마른 목청과 떨리는 목소리로 폭풍을 향해 간청하는 노래. 구름을 꿰뚫고 내려오는 불타는 광선이 근처 적을 내리친다."
+  },
+  "lore" : {
+    "es" : "\"Hermana Mía, no te alejes de mí\nQue te tengo presente en mi pecho y mi corazón\n\n\n\n\nHermana Mía, no me dejes herido de muerte\nQue te tengo presente en mi pecho y en mi sangre\n\n\n\n\nHermana Mía, no dejes de hablarme\nQue te tengo presente en mi pecho y en mi cante\"",
+    "en" : "Sister of mine, don't leave me,\nfor I carry you in my breast and in my heart\n\n\nSister of mine, don't leave me bleeding\nfor I carry you in my chest and in my blood\n\n\nSister of mine, don't leave me in silence,\nfor I carry you in my bosom and in my song.",
+    "fr" : "«Ma sœur, ne me laisse pas,\ncar je te porte en mon sein et en mon cœur.\n \nMa sœur, ne me laisse pas saigner,\ncar je te porte dans ma poitrine et dans mon sang.\n \nMa sœur, ne me laisse pas dans le silence,\ncar je te porte dans mon sein et dans mon chant.»",
+    "de" : "„Geliebte Schwester, verlass mich nicht,\ndenn ich trage dich in meiner Brust.\n\n\nGeliebte Schwester, lass mich nicht bluten,\ndenn dein Blut fließt durch meine Adern.\n\n\nGeliebte Schwester, überlass mich nicht der Stille,\ndenn ich trage dich in meinem Herzen und in meinem Gesang.“",
+    "it" : "Sorella mia, non abbandonarmi,\npoiché ti porto in seno e nel cuore.\n\n\nSorella mia, non lasciarmi qui a sanguinare,\npoiché ti porto in seno e nel sangue.\n\n\nSorella mia, non lasciarmi nel silenzio,\npoiché ti porto in grembo e nel canto.",
+    "zh" : "「烈风吾姊，莫离我身\n永怀在胸，常存在心\n\n\n烈风吾姊，速止我血\n永怀在胸，涌涌不绝\n\n\n烈风吾姊，莫收我声\n永怀在胸，常在歌鸣」",
+    "ru" : "«Сестра моя, не оставляй меня,\nИбо несу тебя в груди своей и в сердце своем.\n\n\nСестра моя, не бросай меня истекать кровью,\nИбо несу тебя в груди своей и крови своей.\n\n\nСестра моя, не оставляй меня в тишине,\nИбо несу тебя в душе своей и песне своей».",
+    "ja" : "「我が妹よ、私を見捨てるな\n　我が胸に、我が心には\n　お前が常に宿っている\n\n\n　我が妹よ、私の血を止めよ\n　我が胸に、我が血潮には\n　お前が常に宿っている\n\n\n　我が妹よ、無言で立ち去るな\n　我が胸に、我が歌には\n　お前が常に宿っている」",
+    "pt-BR" : "\"Minha irmã, não me deixe,\npois te levo no peito e no coração\n\n\nMinha irmã, não me deixe sangrando,\npois te levo no peito e no sangue\n\n\nMinha irmã, não me deixe no silêncio,\npois te levo no peito e na canção.\"",
+    "ko" : "누이여, 떠나지 마오\n이 가슴과 마음에 그대 품고 있으니\n\n\n누이여, 피 흘리게 하지 마오\n이 가슴과 피에 그대 품고 있으니\n\n\n누이여, 침묵 속에 두고 가지 마오.\n이 가슴과 노래에 그대 품고 있으니."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66665d",
+  "name" : {
+    "es" : "Cantiña de la Rosa Azul",
+    "en" : "Cantiña of the Blue Rose",
+    "fr" : "Cantiña de la Rose bleue",
+    "de" : "Cantiña der Blauen Rose",
+    "it" : "Cantiña della Rosa Blu",
+    "zh" : "蓝薇咏",
+    "ru" : "Кантинья синей розы",
+    "ja" : "蒼薔薇のカンティーニャ",
+    "pt-BR" : "Cantiña da Rosa Azul",
+    "ko" : "블루 로즈의 칸타나"
+  },
+  "description" : {
+    "es" : "Plegaria jamás escrita, que resuena al sujetar un cristal violeta venido de otro mundo. Un juramento de amistad permite atravesar esas fronteras, invocando a Miriam a través de la vidriera para atacar y aturdir a enemigos de Penitente con su poderoso acero, \"Eternal Blue\".",
+    "en" : "An unwritten prayer, that resonates when you hold a violet crystal from a distant land. An oath of friendship allows these frontiers to be crossed, invoking Miriam from through the glass to attack and bewilder the enemies of the Penitent One with her powerful blade, “Eternal Blue”.",
+    "fr" : "Une prière encore à écrire, qui résonne lorsque vous tenez un cristal violet venu de terres lointaines. Un serment d'amitié permet de traverser ces frontières, d'invoquer Miriam hors du verre, afin qu'elle attaque et trouble l'ennemi du Pénitent avec sa puissante lame, « Bleu éternel ».",
+    "de" : "Ein ungeschriebenes Gebet, das mit dem violetten Kristall eines fernen Landes harmonisiert. Ein Eid der Freundschaft zählt als Passierschein für diese Grenzen. Miriam wird durch das Glas gerufen, um die Feinde des Büßers anzugreifen und sie mit ihrem mächtigen Schwert namens „Ewiges Blau“ in die Irre zu führen.",
+    "it" : "Una preghiera non scritta, che risuona quando tieni in mano un cristallo viola di una terra lontana. Una promessa di amicizia permette di valicare queste frontiere, invocando Miriam attraverso il vetro affinché attacchi e disorienti i nemici del Penitente con la sua potente lama, Blu eterno.",
+    "zh" : "一种无字祷文，当你手持异域蓝晶时，会发出共鸣。这是友谊的誓言，可以带人穿越疆界，也可以唤醒米莉恩，从镜中用她的利刃“永蓝”攻击或迷惑忏悔者的敌人。",
+    "ru" : "Незаписанная молитва, которая звучит, когда ты сжимаешь в руке фиолетовый кристалл из дальних стран. Клятва дружбы позволяет преодолеть эти пределы и призывает Мириам из-за стекла атаковать противников Кающегося ее мощным клинком по имени «Вечная синева» и приводить их в замешательство.",
+    "ja" : "何も書かれていない祈詞。異国\nのものである深紅のクリスタル\nを手にすると共鳴する。結んだ\n友情の誓いは世界と世界を阻む\n境界を越え、ステンドグラスよ\nりミリアムを召喚する。呼び出\nされた彼女は、強力な力を持つ\n剣『エターナルブルー』を振り\nかざし、悔悟者に仇なす敵を攻\n撃する。",
+    "pt-BR" : "Oração nunca escrita que ressoa quando você segura um cristal violeta de uma terra distante. Um juramento de amizade permite a travessia dessa fronteira, invocando Miriam de dentro do cristal para desferir um ataque e desnortear os inimigos do Penitente com sua lâmina poderosa, \"Azul Eterno\".",
+    "ko" : "머나먼 땅에서 온 보라색 수정을 들어올릴 때마다 울려 퍼지는 알려지지 않은 기도문. 우정으로 맺어진 맹세가 경계를 넘나드는 힘을 부여해 유리 너머에 있는 미리암을 불러내어 강력한 위력을 지닌 검 \"이터널 블루\"로 당황하는 참회자의 적을 처단한다."
+  },
+  "lore" : {
+    "es" : "Niña de flores\nY de azules pintada\n\n\nNiña del espejo\nCubierto de malvas\n\n\nVuelve a mi vera\nEscucha mi llamada.\n\n\nQue mis ojos vean\nTu noche de magia",
+    "en" : "Girl painted in flowers\nand shades of blue\n\n\nGirl from the looking glass\nCloaked in mauve\n\n\nReturn to my side\nHear my cry.\n\n\nThat my eyes might see\nYour night of magic",
+    "fr" : "Fille peinte de fleurs\naux teintes bleues\n\n\nFille venue du prisme\nvêtue de mauve\n\n\nReviens à mon côté\nsuis mon cri.\n\n\nEt viens me montrer\nTa magie de nuit",
+    "de" : "In Blumen gezeichnetes Mädchen\nMit blauen Farben\n\n\nMädchen aus dem Spiegelglas\nGehüllt in Malve\n\n\nKehre zu mir zurück\nHöre meinen Ruf.\nMeine Augen wollen\nDeine Nacht der Magie sehen",
+    "it" : "Ragazza dipinta tra i fiori\ncon toni di blu.\n\n\nRagazza allo specchio\nammantata di malva.\n\n\nTorna al mio fianco,\nascolta la mia chiamata.\n\n\nLascia che i miei occhi possano vedere\nla tua notte di magia.",
+    "zh" : "百花为衣\n蓝影如裳\n\n\n镜中伊人\n披其紫装\n\n\n闻我呼号\n归我身旁\n\n\n吾目可见\n魔夜未央",
+    "ru" : "Девушка, нарисованная разными\nтонами и оттенками синего\n\n\nДевушка из зеркала\nв лиловом плаще\n\n\nВернись на мою сторону\nУслышь мой крик.\n\n\nИ глаза мои узрят\nНочь твоей магии",
+    "ja" : "花々と青の陰に\nその身を包みし少女よ\n\n\n藤色に覆われ\n鏡より出でし少女よ\n\n\n戻ってきたまえ\n我が哀悼を　聞きたまえ\n\n\n一目でいい　見させておくれ\nお前のその　魔法の夜を",
+    "pt-BR" : "Garota pintada de flores\ne tons de azul\n\n\nGarota do espelho\nCom manto violeta\n\n\nVolte para o meu lado\nOuça meu chamado.\n\n\nQue meus olhos possam ver\nSua noite de magia",
+    "ko" : "꽃과 푸른 색으로\n그려진 소녀여.\n\n\n거울 너머로 비치는\n망토를 걸친 소녀여.\n\n\n내가 있는 곳으로 찾아와\n나의 외침을 들으라.\n\n\n나의 눈을 통해\n그대의 마법의 밤을 비추게 하여라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666656",
+  "name" : {
+    "es" : "Soleá a la Excomunión",
+    "en" : "Soleá of Excommunication",
+    "fr" : "Soleá d'excommunication",
+    "de" : "Soleá der Exkommunikation",
+    "it" : "Soleá della scomunica",
+    "zh" : "绝罚调",
+    "ru" : "Солеа отлучения",
+    "ja" : "破門のソレア",
+    "pt-BR" : "Soleá da Excomunhão",
+    "ko" : "파문당한 솔레아"
+  },
+  "description" : {
+    "es" : "Plegaria que inflama la sangre con puro fervor. Durante un tiempo, los rápidos ataques de Penitente son sustituidos por un devastador golpe que destroza a sus enemigos.",
+    "en" : "Prayer that ignites the blood with unbridled fervour. For a while, the quick attacks of The Penitent One are replaced with a devastating blow that annihilates enemies.",
+    "fr" : "Une prière qui embrase le sang d'une ferveur déchaînée. Les attaques rapides du Pénitent sont remplacées temporairement par un coup dévastateur qui anéantit les ennemis.",
+    "de" : "Gebet, welches das Blut mit ungezügelter Inbrunst erfüllt. Für gewisse Zeit werden die schnellen Angriffe des Büßers durch vernichtende Hiebe ersetzt, die jeden Feind auslöschen.",
+    "it" : "Una preghiera che fa ribollire il sangue di un fervore sfrenato. Sostituisce temporaneamente gli attacchi rapidi del Penitente con un colpo devastante che annienta i nemici.",
+    "zh" : "祷文会点燃浑身的热血信仰，片刻之后，忏悔者将不再快速攻击，取而代之的是强力一击，力斩群敌",
+    "ru" : "Эта молитва разжигает в крови безудержную ярость. На некоторое время быстрые атаки Кающегося заменяются разрушительным ударом, который уничтожает противников.",
+    "ja" : "抑えられないような熱情で血潮\nを沸かす祈詞。しばらくの間、\n悔悟者の攻撃がより強力にな\nり、敵を抹殺する。",
+    "pt-BR" : "Oração que incendeia o sangue com fervor desenfreado. Por um tempo, os ataques rápidos do Penitente são substituídos por um golpe devastador que aniquila os inimigos.",
+    "ko" : "억누를 수 없는 열정을 담아 피를 끓어오르게 만드는 기도문. 잠시 동안 참회자의 빠른 공격이 강력한 일격이 되어 적을 멸한다."
+  },
+  "lore" : {
+    "es" : "Perdonadme Padre\nSacadme de este juramento\n\n\nNo permitáis que vuestro Milagro eterno\nSe apodere de mi alma\nY posesione mi cuerpo\n\n\nPues al Milagro le temo\nMás que a mi propio tormento",
+    "en" : "Forgive me, Father\nExcuse me from this oath\n\n\nDo not let your eternal Miracle\nTake over my soul\nAnd possess my body\n\n\nFor I fear the Miracle,\nMore than I fear my own torment.",
+    "fr" : "Pardonnez-moi, Père\nExcusez-moi de ce serment\n \nNe laissez pas votre Miracle éternel\ns'emparer de mon âme\net posséder mon corps\n \nCar je crains le Miracle\nPlus que je ne crains mon propre tourment",
+    "de" : "Vergebt mir, Vater\nSprecht mich frei von diesem Eid\n\n\nLasst Euer ewiges Wunder\nNicht meine Seele verschlingen\nUnd Besitz von meinem Körper ergreifen\n\n\nDenn ich fürchte das Wunder\nMehr als ich die eigene Qual fürchte",
+    "it" : "Perdonami, Padre.\nPerdonami per questa preghiera.\n\n\nNon lasciare che il tuo eterno Miracolo\nprenda il sopravvento sulla mia anima\ne possegga il mio corpo.\n\n\nPerché io temo il Miracolo\npiù di quanto non tema il mio stesso tormento.",
+    "zh" : "免我誓言\n圣父开恩\n\n\n莫逞奇迹\n摄我精魂\n空余一身\n\n\n唯惧是存\n宁罚吾身",
+    "ru" : "Прости меня, отец мой,\nИзбавь меня от клятвы сей,\n\n\nне Дай вечному Чуду своему\nЗабрать душу мою\nИ тело мое,\n\n\nИбо боюсь я Чуда паче,\nЧем муки своей.",
+    "ja" : "主なりし父よ　我を許したまえ\nこの誓いから　我を許したまえ\n\n\n永遠なりし奇蹟から\n我が魂を　我が肉体を\n庇い　守りたまえ\n\n\n苦痛より恐れるは\nその奇蹟なのだから",
+    "pt-BR" : "Perdoe-me, Pai\nLiberte-me desse juramento\n\n\nNão deixe seu Milagre eterno\nDominar minha alma\nE possuir meu corpo\n\n\nPois temo o Milagre,\nMais do que temo minha própria tormenta",
+    "ko" : "신이시여, 절 용서하소서\n이 맹세로부터 날 용서하소서\n\n\n그대의 영원한 기적으로\n이 영혼과 육신을\n가져가지 않도록 하여 주소서.\n\n\n제가 겪는 고통보다도 그대가\n내리시는 기적이 더욱 두렵나이다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66665e",
+  "name" : {
+    "es" : "Mirabrás del Regreso a Puerto",
+    "en" : "Mirabrás of the Return to Port",
+    "fr" : "Mirabrás du Retour au port",
+    "de" : "Mirabrás der Hafenrückkehr",
+    "it" : "Mirabrás del Ritorno al Porto",
+    "zh" : "归港曲",
+    "ru" : "Мирабрас возвращения в порт",
+    "ja" : "帰港のミラブラス",
+    "pt-BR" : "Mirabrás do Regresso ao Porto",
+    "ko" : "귀향하는 자들의 미라브라스"
+  },
+  "description" : {
+    "es" : "Festivo cante con el que se recibía a los marineros que habiéndoseles dado por muertos, ahogados en las frías aguas, arribaban aun así a tierra firme. Invocarla te transporta al último prie-dieu en el que rezaste.",
+    "en" : "A festive song that was used to welcome back sailors who, having been left for dead and drowned in the cold waters, somehow managed to make it back to shore. Invoking it will transport you to the last prie-dieu in which you prayed.",
+    "fr" : "Un chant festif qui servait à accueillir les marins de retour au port lorsqu'ils parvenaient à regagner la rive après qu'on les avait crus morts et abandonnés à la noyade dans les eaux froides. En l'invoquant, vous vous transporterez au dernier prie-Dieu où vous avez prié.",
+    "de" : "Ein feierliches Lied, das man bei der Rückkehr von Seeleuten spielte, die man im kalten Wasser aufgegeben und dem Ertrinkungstod überantwortet hatte, die es jedoch zurück ans Ufer schafften. Wenn Ihr es rezitiert, wird es Euch zum letzten Betpult bringen, an dem Ihr Euer Gebet verrichtet habt.",
+    "it" : "Un canto festivo con cui venivano accolti i marinai che, dopo essere stati dati per morti e annegati nelle acque fredde, erano riusciti chissà come a tornare a riva. Invocarlo ti trasporterà all'ultimo inginocchiatoio in cui hai pregato.",
+    "zh" : "一首用来欢迎回归水手的节日歌曲，这些水手丧命冷水之中，这首歌可以将他们召唤回岸上。祷颂这首歌可以将你传送回你上一次祈祷时的祷告台",
+    "ru" : "Эту радостную песнь пели, приветствуя моряков, которые, брошенные умирать и тонуть в холодных водах, смогли вернуться на берег. Она позволит во мгновение ока оказаться у последнего посещенного святилища.",
+    "ja" : "冷たい海に飲み込まれ死んだと\n思われた船乗り達が、なんらか\nの方法で無事に陸地へと戻って\nきた際に、その帰還を祝うため\nに歌われていた歌。祈りを込め\nてこの祈詞を口ずさむと、最後\nに跪いた祈祷台へと一瞬で転移\nすることができる。",
+    "pt-BR" : "Canção festiva usada para receber marinheiros que, após terem sido abandonados à morte nas águas gélidas, conseguiram de algum jeito voltar à costa. Invoque-a para se transportar até o último Prie Dieu no qual você orou.",
+    "ko" : "차가운 바닷물에 빠져 숨이 다했으나, 알 수 없는 이유로 해안으로 되돌아온 선원의 시신을 맞이하는 축가. 이 노래를 부르면 마지막으로 기도를 올린 기도대로 돌아갈 수 있다."
+  },
+  "lore" : {
+    "es" : "Señora del destello azul\nLlevaos de sombras mi rincón\nLlevaos el negro de mi espejo\nEn el que muere la luz\n\n\nSeñora que nos dais calor\nCon vuestro candil de sol\nLlevaos el frío, llevaos el hielo\nDe este mar de dolor",
+    "en" : "Lady of the blue light\nCast out the shadows from my corner\nTake away the darkness from my looking glass\nWhere the light has died\n\n\nLady, bring us warmth\nWith your lamp of the sun\nTake away the cold, take away the ice\nFrom this sea of pain",
+    "fr" : "Dame de l'éclat bleu\nRepousse les ombres loin de moi\nArrache les ténèbres au miroir où je me vois\nQuand la lumière meurt\n\n\nDame, réchauffe-nous\nAvec ta lampe de soleil\nRepousse le froid, repousse la glace\nD'un océan de douleur",
+    "de" : "Dame des blauen Lichts\nVertreibt die Schatten aus meinem Winkel\nEntreißt meinem Spiegel die Finsternis\nWo das Licht erloschen ist,\n\n\nDame, bringt uns Wärme\nMit Eurer Sonnenquelle\nNehmt diesem Meer der Schmerzen\ndie Kälte und auch das Eis",
+    "it" : "Signora della bagliore blu\nproietta le ombre dal mio angolo.\nTrascina via l'oscurità dal mio specchio\ndove la luce muore.\n\n\nSignora, portaci calore\ncon la tua lampada di sole.\nTrascina via il freddo, trascina via il ghiaccio\nda questo mare di dolore.",
+    "zh" : "蓝光女神啊\n驱散我四周的阴影吧\n我的镜中光明殆尽\n请驱散其中的黑暗吧\n\n\n女神带给我们温暖\n太阳就是你的明灯\n女神降恩于苦海\n驱散寒冷，消融坚冰",
+    "ru" : "Госпожа синего света\nОтбрось тень из моего угла\nОтведи тьму от моего зеркала\nГде умер свет\n\n\nГоспожа, дай нам тепло\nСвоей солнечной лампой\nОтведи хлад, отведи лед\nОт этого моря боли",
+    "ja" : "青き光を　持ちし淑女よ\n我から影を　追い払いたまえ\n光が死した　我が鏡から\nすべての闇を　消し去りたまえ\n\n\nああ淑女よ　我らに温もりを\nその太陽の灯火を以って\n苦痛溢るる　この海原から\n寒さを　氷を　追い払いたまえ",
+    "pt-BR" : "Senhora da luz azul\nAfugente as sombras de meu recanto\nLeve a escuridão do meu espelho\nOnde a luz sucumbiu\n\n\nSenhora, traga-nos calor\nCom sua lamparina do sol\nLeve o frio, leve o gelo\nDeste mar de sofrimento",
+    "ko" : "푸른 밤의 여인이여\n내 마음 속 구석에 얽힌 그림자를 몰아내고\n내가 보는 거울 속, 빛이 죽은 세계에서\n밤을 몰아내 주오.\n\n\n여인이여, 당신이 지닌\n태양의 빛으로 따스함을 주고\n이 고통의 바다에 만연한\n추위와 얼음을 몰아내 주오."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666657",
+  "name" : {
+    "es" : "Tiento a Tus Cabellos Espinados",
+    "en" : "Tiento to your Thorned Hairs",
+    "fr" : "Tiento à tes Cheveux d'épines",
+    "de" : "Tiento an Euer Dorniges Haar",
+    "it" : "Tiento ai tuoi capelli spinosi",
+    "zh" : "棘发曲",
+    "ru" : "Тьенто твоим колючим волосам",
+    "ja" : "棘の髪に贈るティエント",
+    "pt-BR" : "Tiento para suas Melenas Espinhosas",
+    "ko" : "가시 돋힌 머리카락에 바치는 티엔토"
+  },
+  "description" : {
+    "es" : "Invoca la ayuda de la dama espinada, que protege a Penitente de todo mal durante un corto periodo.",
+    "en" : "Summons the help of the thorned dame, who protects The Penitent One from all evil for a short while.",
+    "fr" : "Invoque l'aide de la Dame des épines, qui protège le Pénitent contre le Mal pendant un bref instant.",
+    "de" : "Ruft die Dornige Dame zu Hilfe, die den Büßer für kurze Zeit vor allem Unheil bewahrt.",
+    "it" : "Invoca l'aiuto della dama spinosa, che protegge per un breve periodo il Penitente da tutti i mali.",
+    "zh" : "召唤荆棘夫人的援助，她将在一小段时间内帮助忏悔者抵御所有邪灵",
+    "ru" : "Призывает покрытую шипами деву, которая в течение некоторого времени защищает Кающегося от всего зла.",
+    "ja" : "棘の婦人からの加護をその身に\n宿すことによって、短い間悔悟\n者をあまねく悪から守る。",
+    "pt-BR" : "Convoca a ajuda da dama dos espinhos, que protege o Penitente contra todo mal durante um curto período.",
+    "ko" : "참회자를 잠시 동안 모든 악에서 보호하는 가시 돋친 여인의 가호를 불러낸다."
+  },
+  "lore" : {
+    "es" : "Si te llamas Tentudía\nY con las monjas te fuiste\nNo llores ni tengas pena\nQue con tu injusta condena\nLos Milagros tú nos diste\n\n\nSi tus cabellos son las zarzas\nQue en tu cuello hacen sangre\nNo llores ni tengas pena\nPues te damos este cante\nQue cada espina arranque",
+    "en" : "If your name is Tentudía\nShe who left to join the nuns\nDo not grieve or endure affliction\nFor with your unjust damnation\nThe Miracles you gave us\n\n\nIf your hair has turned to bramble\nThat on your pale neck draws blood\nDo not grieve or endure affliction\nFor we present you with this song\nThat might tear away each thorn.",
+    "fr" : "Si tu t'appelles Tentudía\nQui est partie rejoindre les nonnes\nNe pleure ni ne tolère l'affliction\ncar par ton injuste damnation\nLe Miracle tu nous as donné\n \nSi tes cheveux sont devenus ronces\nqui sur ton cou pâle font perler le sang\nNe pleure ni ne tolère l'affliction\nCar nous t'offrons ce chant\nPour en extraire chaque épine",
+    "de" : "Wenn Euer Name Tentudía ist\nDie fortging, um den Schleier zu nehmen\nKlagt nicht und ertragt kein Leid\nDenn Ihr wurdet zu Unrecht verdammt\nDie Mirakel, die Ihr uns gabt\n\n\nWenn Euer Haar zu Brombeerranken wurde\nUnd Euer bleicher Nacken sich rot von Blut färbte\nKlagt nicht und ertragt kein Leid\nDenn wir singen dieses Lied für Euch\nDas jedem Dorn die Spitze nimmt",
+    "it" : "Se il tuo nome è Tentudía\nche se ne andò per unirsi alle sorelle,\nnon soffrire e non portare pena,\npoiché con la tua ingiusta dannazione\nci hai donato Miracoli.\n\n\nSe i tuoi capelli sono divenuti spine\nche hanno macchiato di sangue il tuo collo candido,\nnon soffrire e non portare pena,\npoiché noi intoniamo a te questo canto\nche priverà il tuo capo di ogni spina.",
+    "zh" : "稽首礼棘发\n置身山寺中\n莫悲世间苦\n莫哀岁命凶\n奇迹偕君降\n\n\n青丝作荆丛\n惜君霜白颈\n今染赤血红\n愿吟棘发曲\n不见棘发踪",
+    "ru" : "Если имя тебе Тентудия,\nЧто ушла в монастырь,\nНе печалься и не терпи страданий,\nИбо с твоим несправедливым проклятием\nДаровала ты нам Чудеса.\n\n\nЕсли волосы твои обратились колючим кустарником,\nКой в кровь изорвал шею твою,\nНе печалься и не терпи страданий,\nИбо даруем тебе эту песнь,\nКоя вырвет каждый шип.",
+    "ja" : "汝の名が　あの女性\n修道女　テンチュディアならば\n苦痛に耐え　嘆くことなかれ\n不当にも　天罰を受けた汝よ\n我らに与えし　奇蹟なれば\n\n\n汝の髪が　棘になりて\nその首に　血を流すならば\n苦痛に耐え　嘆くことなかれ\n我は汝に　この歌を贈ろう\n棘よ消えよと　祈りを込めて",
+    "pt-BR" : "Se o seu nome for Tentudía\nAquela que partiu com as freiras\nNão lamente ou sofra\nPois com sua condenação injusta\nVocê nos deu os Milagres\n\n\nSe o seu cabelo tiver se transformado em espinheiro\nQue faz o sangue escorrer em seu pescoço pálido\nNão lamente ou sofra\nPois lhe damos esta canção\nPara que arranque cada espinho.",
+    "ko" : "그대, 수녀로서 몸담은\n텐추디아라는 이름의 여인이라면\n괴로움을 견디거나 한탄하지 말라\n그대가 겪은 부당한 영벌로\n기적이 우리에게 돌아왔으니\n\n\n그대, 머리칼 가시덤불 되어\n창백한 목에 피를 흘린다면\n괴로움을 견디거나 한탄하지 말라\n그대에게 이 노래 선사하여\n그 가시 벗겨지기를 기도하리라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66665f",
+  "name" : {
+    "es" : "Tirana del Bastión Celeste",
+    "en" : "Tirana of the Celestial Bastion",
+    "fr" : "Tirana du Bastion céleste",
+    "de" : "Tirana von der Himmlischen Bastion",
+    "it" : "Tirana del Bastione Celeste",
+    "zh" : "天堡颂",
+    "ru" : "Тирана Небесного бастиона",
+    "ja" : "天空城砦のティラーナ",
+    "pt-BR" : "Tirana do Bastião Celestial",
+    "ko" : "천상의 요새 티라나"
+  },
+  "description" : {
+    "es" : "Plegaria que abusa de las bondades del Milagro para santificar el propio aire alrededor de quien la entona. Genera una barrera de relámpagos divinos que dañan a los enemigos que intenten cruzarla.",
+    "en" : "A prayer that abuses the bounties of the Miracle to sanctify the very air around whoever intones it. It generates a barrier of divine lightning that damage any enemies trying to cross it.",
+    "fr" : "Une prière qui détourne la manne du Miracle pour sanctifier l'air même autour de ceux qui l'entonnent. Elle génère un rempart de foudre divine qui blesse tout ennemi qui tente de le franchir.",
+    "de" : "Ein Gebet, das die Gaben des Wunders missbraucht und die Luft um jenen segnet, der es spricht. Es erschafft eine Barriere aus göttlichen Blitzen, die allen Feinden Schaden zufügt, die versuchen, sie zu durchqueren.",
+    "it" : "Una preghiera che abusa dei doni del Miracolo per santificare l'aria intorno a chi la intona. Genera una barriera di fulmini divini che danneggia i nemici che cercano di attraversarla.",
+    "zh" : "这一祷文滥用了神迹的慷慨，念诵者周身的空气都会得到圣化。它可以生成圣电屏障，任何想要穿过它的敌人都会受到伤害。",
+    "ru" : "Эта молитва взывает к щедрости Чуда, чтобы освятить сам воздух вокруг того, кто ее произносит. Она создает барьер священных молний, который наносит урон каждому, кто попытается его преодолеть.",
+    "ja" : "奇蹟がもたらす恵みを利用し、\n詠唱した者の周囲の空気を浄化\nする祈詞。神聖なる光による障\n壁を生み出し、触れた敵に傷を\n負わせる。",
+    "pt-BR" : "Oração que abusa das dádivas do Milagre para santificar o próprio ar ao redor de quem a entoa. Ela gera uma barreira de luz divina que danifica os inimigos que tentam cruzá-la.",
+    "ko" : "누구든 낭송하는 순간 주변의 공기를 신성한 힘으로 채우는, 풍요로운 기적의 힘을 남용하는 기도. 신의 번개로 이루어진 장벽을 형성해 장벽을 통과하는 모든 적에게 피해를 준다."
+  },
+  "lore" : {
+    "es" : "Yo no le temo al castigo\npor querer saber\nlo que está prohibido,\npor preguntar\nmás de lo debido,\npor querer mirar\nlo que está tras olivos.\nYo no le temo al castigo\nPues todo viene del Divino.",
+    "en" : "I do not fear punishment\nfor wanting to know\nwhat is forbidden,\nfor asking\nmore than I should,\nfor wanting to look\nbeyond the olive groves.\nI do not fear punishment.\nFor everything hails from the Divine.",
+    "fr" : "Je ne crains aucun tourment\npour avoir cherché\nun savoir honni,\ndemandé\nplus qu'il ne faut,\nou tant voulu voir\nderrière les oliviers.\nJe ne crains aucun tourment.\nCar tout nous arrive du Divin.",
+    "de" : "Ich fürchte keine Strafe,\nnur weil es mich\nnach dem Verbotenen dürstet,\nnur weil ich wissbegierig bin,\nnur weil ich hinter\nden Olivenhain blicke.\nIch fürchte keine Strafe,\nda alles vom Göttlichen abstammt.",
+    "it" : "Non temo la punizione\nper aver voluto sapere\nciò che è proibito,\nper aver chiesto\npiù di quanto dovevo,\nper aver voluto guardare\noltre gli oliveti.\nNon temo la punizione\nperché tutto ha origine dal Divino.",
+    "zh" : "纵使天罚\n其何惧哉\n探求禁忌\n其何惧哉\n过度索取\n其何惧哉\n穷目圣林\n其何惧哉\n皆神意矣",
+    "ru" : "Я не боюсь кары\nза желание узнать\nзапретное,\nза вопросы\n, которых я не должен задавать,\nза желание заглянуть\nза оливковые рощи.\nЯ не боюсь кары.\nИбо все происходит от Божества.",
+    "ja" : "私は罰を　恐れはしない\n禁断の知識を\n得るためなれば\nこの身に余る\n知識を欲せば\nオリーヴの先を\n見るためなれば\n私は罰を　恐れはしない\n神より授かりし　すべてを思えば",
+    "pt-BR" : "Não temo o castigo\npor querer conhecer\no que é proibido,\npor pedir\nmais do que deveria,\npor querer enxergar\nalém das oliveiras.\nNão temo o castigo.\nPois tudo provém do Divino.",
+    "ko" : "나는 처벌을 두려워하지 않으리니.\n금지된 것이 무엇인지\n알고 싶었을 뿐이며,\n할 수 있는 한\n많은 것을 물었을 뿐이며,\n올리브나무 숲 너머에\n무엇이 있는지 알고 싶었을 뿐이기에.\n나는 처벌을 두려워하지 않으리니.\n모든 것은 신께서 주신 것들이기에."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666658",
+  "name" : {
+    "es" : "Cante Jondo de las Tres Hermanas",
+    "en" : "Cante Jondo of the Three Sisters",
+    "fr" : "Cante Jondo des Trois sœurs",
+    "de" : "Cante Jondo von den Drei Schwestern",
+    "it" : "Cante Jondo delle tre sorelle",
+    "zh" : "三姐妹深歌",
+    "ru" : "Канте хондо о трех сестрах",
+    "ja" : "三姉妹のカンテ・ホンド",
+    "pt-BR" : "Cante Jondo das Três Irmãs",
+    "ko" : "세 자매의 칸테 혼도"
+  },
+  "description" : {
+    "es" : "Cante imposible de resonar en garganta humana. Nunca existió voz capaz de entonar esta plegaria, que vanamente trata de emular el retumbar de la colosal espiral de hierro invertida. Su ciclópeo rugido destruye los órganos y hace estallar los huesos, dañando gravemente a todos los enemigos cercanos.",
+    "en" : "A song incapable of resounding in any human throat. There was never a voice able to intone this prayer, which tries in vain to emulate the rumbling of the colossal, inverted iron spiral. Its cyclopean roar destroys organs and shatters bones, gravely harming nearby enemies.",
+    "fr" : "Un chant qu'aucune gorge mortelle ne saurait faire retentir. Jamais aucune voix n'a pu entonner cette prière, qui tente en vain d'émuler le grondement de l'immense spirale de fer inversée. Son rugissement cyclopéen détruit les organes et brise les os, et blesse grièvement les ennemis proches.",
+    "de" : "Ein Lied, das keiner menschlichen Kehle entspringen kann. Niemals gab es eine Stimme, die dieses Gebet singen konnte, das vergebens versucht, das Grollen der riesigen, umgekehrten Eisenspirale nachzuahmen. Sein zyklopisches Brüllen zerreißt Organe und zerschmettert Knochen, nahen Feinden wird schwerer Schaden zugefügt.",
+    "it" : "Un canto che nessuna lingua umana può intonare. Mai ci fu voce in grado di recitare tale preghiera, che cerca invano di emulare il rombo dell'enorme spirale invertita di ferro. Il ruggito ciclopico distrugge gli organi e frantuma le ossa, ferendo gravemente i nemici nelle vicinanze.",
+    "zh" : "人类终究无法高鸣此曲。这篇祷文有隆隆旋铁之声，世人难以吟唱。其巨大声响可以摧骨断筋，对周围的敌人造成极大的杀伤",
+    "ru" : "Песня, которую ни одно человеческое горло воспроизвести не в силах. Нет голоса, способного спеть эту молитву, которая тщетно пытается повторить грохот колоссальной перевернутой железной спирали. Ее циклопический гул разрушает органы и сотрясает кости, нанося тяжелый урон ближайшим противникам.",
+    "ja" : "人間の喉では歌うことが叶わな\nい歌。巨大な、反転した鉄螺旋\nの轟音を愚かにも再現しようと\nした祈詞であるが、それを歌う\nことができた人間は存在しな\nい。その巨人の怒号は聞く者の\n臓器や骨を破壊し、周囲の敵に\n致命傷を負わせる。",
+    "pt-BR" : "Uma canção incapaz de ressoar em gargantas humanas. Nunca houve uma voz capaz de entoar esta oração, que tenta em vão emular o estrondo da espiral de ferro colossal invertida. Seu rugido de ciclope destrói órgãos e estilhaça ossos, ferindo gravemente os inimigos próximos.",
+    "ko" : "인간의 목소리로는 부를 수 없는 노래. 거대한 역철 나선이 내는 굉음을 재현하려는 헛된 노력 끝에 탄생한 기도문이나, 이를 소리 내 부를 수 있는 자는 존재하지 않는다. 이 거인과도 같은 굉음은 듣는 자의 장기와 뼈를 파괴하며 주변 적에게 치명적인 피해를 준다."
+  },
+  "lore" : {
+    "es" : "Liberadas, tres rezasteis como una\nLiberadas, tres pedisteis como una\nLiberadas, tres nacisteis como una\n\n\nLibre y santa, Divina hermosura\nYa no sois tres, ahora sois una",
+    "en" : "Liberated, you three prayed as one\nLiberated, you three pleaded as one\nLiberated, you three were born as one\n\n\nFree and holy, of grace Divine\nYou are no longer three, you are now one.",
+    "fr" : "Libérés, vous trois avez prié d'une seule voix\nLibérés, vous trois avez supplié d'une seule voix\nLibérés, vous trois êtes nés d'un seul corps\n \nLibres et sacrés, de la divine grâce\nVous n'êtes plus trois, mais bien un seul",
+    "de" : "Befreit, betet ihr drei wie eine\nBefreit, fleht ihr drei wie eine\nBefreit, seid ihr drei geboren wie eine\n\n\nFrei und heilig, voll göttlicher Gnade\nSeid ihr nicht länger drei, sondern eine",
+    "it" : "Liberate, in tre avete pregato come una.\nLiberate, in tre avete implorato come una.\nLiberate, in tre siete nate come una.\n\n\nLibere e sante, piene di grazia divina:\nnon siete più tre, ma una solamente.",
+    "zh" : "逍遥三女，齐祷如一\n逍遥三女，请愿如一\n逍遥三女，同生如一\n\n\n自由无拘，圣洁神祇\n昔则为三，今则为一",
+    "ru" : "В свободе своей вы трое молились как одна.\nВ свободе своей вы трое просили как одна.\nВ свободе своей вы трое родились как одна.\n\n\nСвободные и святые, преисполненные благодати божественной,\nВы больше не три, вы теперь одна.",
+    "ja" : "自由なりし三姉妹は　一体となって祈る\n自由なりし三姉妹は　一体となって嘆願す\n自由なりし三姉妹は　一体となって命を授かる\n\n\n神聖なる　恩寵を受け\n三姉妹は今　一つとなりけり",
+    "pt-BR" : "Libertas, as três rezaram como uma\nLibertas, as três suplicaram como uma\nLibertas, as três nasceram como uma\n\n\nLivres e santas, pela graça Divina\nNão são mais três, agora são uma",
+    "ko" : "자유로운 그대 셋은 하나 되어 기도하리\n자유로운 그대 셋은 하나 되어 애원하리\n자유로운 그대 셋은 하나 되어 태어나리\n\n\n자유롭고 거룩한 신의 은총 아래\n그대는 셋 아닌 하나가 되리."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666659",
+  "name" : {
+    "es" : "Verdiales del Pueblo Olvidado",
+    "en" : "Verdiales of the Forsaken Hamlet",
+    "fr" : "Verdiales du Hameau interdit",
+    "de" : "Verdiales des Gottverlassenen Hamlets",
+    "it" : "Verdiales del villaggio dimenticato",
+    "zh" : "遗村歌",
+    "ru" : "Вердиалес оставленного убежища",
+    "ja" : "見捨てられし村落のベルディアレス",
+    "pt-BR" : "Verdiales do Povoado Esquecido",
+    "ko" : "버려진 영지의 베르디알레스"
+  },
+  "description" : {
+    "es" : "Canto que inundaba las fiestas de una aldea perdida. Proyecta su fuerza a través del suelo, y esta persiste por paredes y techos, dañando a los enemigos de Penitente.\n\n\nEl resonar de la caracola encintada solía preceder a este cantar, mas ahora sólo queda silencio.",
+    "en" : "Song that filled the air during the festivities of a lost village. Its power finds its way through the floor, continues through walls and ceilings, harming the enemies of The Penitent One.\nThe ringing of a laced shell horn used to precede this chant, but now only silence remains.",
+    "fr" : "Un chant qui remplit l'air pendant les festivités d'un village interdit. Son pouvoir imprègne le sol, parcourt les murs et le plafond, et blesse les ennemis du Pénitent.\n \nUn coup de trompe en coquillage précédait naguère ce chant, mais il ne reste plus que silence.",
+    "de" : "Ein Lied, das während der Feiern einer untergegangenen Stadt gesungen wurde. Seine Kraft durchdringt Böden, Mauerwerk und Decken und fügt den Feinden des Büßers Schaden zu.\n\n\nDer Klang eines Muschelhorns ging diesem Lied einst voraus, aber nun bleibt nur Stille.",
+    "it" : "Canto che inebriava l'atmosfera nelle festività di un villaggio perduto. Il suo potere si sprigiona dal terreno, prosegue attraverso pareti e soffitti per ferire i nemici del Penitente.\n\n\nIl risuonare di un corno in conchiglia era solito precedere tale canto, ma oggi resta solo il silenzio.",
+    "zh" : "被遗忘的村庄中，每逢佳节之际，便会响起此歌。其强大的力量会穿过地面、墙壁和屋顶，击伤忏悔者的敌人。\n\n\n曾经，吟唱之前总会有人吹响华美的螺号，而如今空留一片沉寂",
+    "ru" : "Песня, которая растекалась в воздухе во время празднеств в забытой деревне. Ее сила проникает через перекрытия, стены и потолки, нанося урон врагам Кающегося.\n\n\nКогда-то перед этой песней раздавался трубный звук из украшенной лентами раковины, сегодня же ей предшествует тишина.",
+    "ja" : "今は無き村の祝祭において、村\n中に響き渡っていた歌。その歌\nの力は床や壁、天井などを伝っ\nてゆき、悔悟者に仇する敵に害\nを及ぼすだろう。\nこの祈詞を歌う前には、紐の付\nいた法螺貝の音が響いていたと\nいうが、今となっては沈黙のみ\nが残る。",
+    "pt-BR" : "Canção que enchia o ar durante as festividades de uma vila perdida. Seu poder percorre o chão, continua pelas paredes e teto, ferindo os inimigos do Penitente.\nO tilintar de uma trombeta de concha enfeitada costumava preceder este cântico, mas agora só resta o silêncio.",
+    "ko" : "지금은 사라진 마을에서 축제 기간 동안 마을을 가득 메웠던 노래. 그 노래의 힘은 바닥과 벽, 천장을 타고 흐르며 참회자와 맞서는 적에게 피해를 준다.\n예전에는 이 노래를 부르기 전에 끈이 달린 소라 나팔 소리가 울려 퍼졌지만, 지금은 침묵뿐이다."
+  },
+  "lore" : {
+    "es" : "Ya llueva, seque o el viento remueva\nEsta tierra bendita sea\n\n\nYa caminando o dormidos nos tenga\nEsta tierra bendita sea\n\n\nYa de día, o en noche eterna\nEsta tierra bendita sea",
+    "en" : "Whether in rain, sun, or wind\nMay this land blessed be\n\n\nWhether walking or in deep sleep\nMay this land blessed be\n\n\nWhether by day, or in obscurity\nMay this land blessed be.",
+    "fr" : "Dans la pluie, le soleil ou le vent\nPuisses-tu bénir cette terre\n \nEn marchant, ou au profond des rêves\nPuisses-tu bénir cette terre\n \nSous le jour comme dans l'obscurité\nPuisses-tu bénir cette terre",
+    "de" : "Ob bei Regen, Sonne oder Wind\nMöge dieses Land gesegnet sein\n\n\nOb gehend oder im tiefen Schlaf\nMöge dieses Land gesegnet sein\n\n\nOb bei Tage oder im Dunkel der Nacht\nMöge dieses Land gesegnet sein",
+    "it" : "\nSotto la pioggia, al sole e nel vento, possa questa landa essere benedetta.\n\n\nIn cammino o dormiente,\npossa questa landa essere benedetta.\n\n\nAlla luce del giorno o nell'oscurità,\npossa questa landa essere benedetta.",
+    "zh" : "阴晴风雨\n神福永驻\n\n\n或驱或眠\n神福永全\n\n\n或晦或明\n神福永宁",
+    "ru" : "Под дождем, на солнце или на ветру\nДа будет благословенна земля сия.\n\n\nВ пути или в глубоком сне\nДа будет благословенна земля сия.\n\n\nПри свете дня или во тьме\nДа будет благословенна земля сия.",
+    "ja" : "雨が降ろうと　風が吹こうと\nこの地に恵みが　あらんことを\n\n\n歩んでいようと　眠っていようと\nこの地に恵みが　あらんことを\n\n\n昼であろうと　夜であろうと\nこの地に恵みが　あらんことを",
+    "pt-BR" : "Mesmo na chuva, sol ou vento.\nQue esta terra seja abençoada\n\n\nMesmo caminhando ou em sono profundo\nQue esta terra seja abençoada\n\n\nMesmo de dia ou na escuridão\nQue esta terra seja abençoada",
+    "ko" : "비바람 부는 날에도, 태양 뜨는 날에도\n이 대지에 축복 있으라\n\n\n서서 걷는 날에도, 잠을 자는 때에도\n이 대지에 축복 있으라\n\n\n빛이 있을 때에도, 어둠이 감쌀 때에도\n이 대지에 축복 있으라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66665a",
+  "name" : {
+    "es" : "Romance a la Bruma Carmesí",
+    "en" : "Romance to the Crimson Mist",
+    "fr" : "Romance à la brume écarlate",
+    "de" : "Romance vom Scharlachroten Nebel",
+    "it" : "Romance alla bruma cremisi",
+    "zh" : "赤雾歌谣",
+    "ru" : "Романс кровавому туману",
+    "ja" : "深紅の霧に贈るロマンセ",
+    "pt-BR" : "Romance para a Névoa Rubra",
+    "ko" : "진홍빛 안개의 로망스"
+  },
+  "description" : {
+    "es" : "Oración a las nieblas de sangre, fruto del verdadero fervor. De la piel de Penitente surgen vapores de sangre bendita, que dañan a quienes los atraviesen.",
+    "en" : "Prayer to the sanguine mists, fruit of true fervour. Vapours of holy blood emerge from the skin of The Penitent One, damaging those who cross them.",
+    "fr" : "Prières aux brumes sanguines, fruit de la véritable ferveur. Les vapeurs du sang sacré émergent de la peau du Pénitent et blessent ceux qui le frôlent.",
+    "de" : "Gebet an den Blutroten Nebel, Frucht der wahren Leidenschaft. Der Haut des Büßers entsteigen Schwaden heiligen Blutes, die seinen Feinden Schaden zufügen.",
+    "it" : "Preghiera alla nebbia rubiconda, frutto del vero fervore. Fa sì che la pelle del Penitente emani vapori di sangue sacro, che danneggiano chiunque vi passi attraverso.",
+    "zh" : "向血红迷雾祈祷的祷文，通篇皆是诚挚的信仰。神圣的血液从忏悔者的皮肤上蒸腾而出，触碰之人都会受到伤害",
+    "ru" : "Молитва кроваво-красным туманам, плодам истинного рвения. С кожи Кающегося поднимаются пары священной крови и наносят урон всем, кто встанет на его пути.",
+    "ja" : "真の熱情の結晶である、紅の霧\nを讃える祈詞。神聖なる血の霧\nが悔悟者の皮膚から生じ、触れ\nる敵に損傷を与える。",
+    "pt-BR" : "Oração para as névoas sanguíneas, fruto do fervor real. Vapores de sangue santo surgem da pele do Penitente, danificando quem os atravessa.",
+    "ko" : "진정한 열정의 결실이라 불리는 붉은 안개를 위한 기도문. 신성한 혈액을 감싼 붉은 안개가 참회자 주변에 피어 오르며 안개를 지나는 적에게 피해를 준다."
+  },
+  "lore" : {
+    "es" : "Sangre ardiente\nQue respiras por mi cuerpo\n\n\nSangre de vino tinto\nSangre de vino negro\n\n\nSal por mi piel\nSal por mis huesos\n",
+    "en" : "Burning blood\nThat you breathe through my body\n\n\nBlood of red wine\nBlood of black wine\n\n\nEmerge from my skin\nEmerge from my bones.",
+    "fr" : "Sang ardent\nQue tu insuffles à mon corps\n \nSang du vin rouge\nSang du vin noir\n \nÉmerge de ma peau\nÉmerge de mes os",
+    "de" : "Brennendes Blut\nDas durch meinen Körper pulst\n\n\nBlut des Roten Weines\nBlut des Schwarzen Weines\n\n\nDurchdringe meine Haut\nEntweiche meinen Knochen",
+    "it" : "Sangue ardente\nche trasuda dal mio corpo.\n\n\nSangue di vino rosso,\nsangue di vino nero,\n\n\nemergi dalla mia pelle,\nemergi dalle mie ossa.",
+    "zh" : "凭君吐息\n沸血贯体\n\n\n红则真珠\n玄则乌酒\n\n\n肌肤尽濯\n筋骨皆洗",
+    "ru" : "Горящая кровь\nТела моего, коей ты дышишь,\n\n\nКровь красного вина,\nКровь черного вина,\n\n\nВыступи на моей коже,\nВыступи из моих костей.",
+    "ja" : "燃え滾る血潮よ\n我が肉体を　流れる血潮よ\n\n\n赤き果実酒の血よ\n黒き果実酒の血よ\n\n\n我が皮膚　我が骨から\n留まることなく　湧き出でよ",
+    "pt-BR" : "Sangue ardente\nQue respira por meu corpo\n\n\nSangue de vinho tinto\nSangue de vinho negro\n\n\nEmerge da minha pele\nEmerge dos meus ossos",
+    "ko" : "불타는 피여,\n전신을 돌며 숨쉬는 피여\n\n\n붉은 포도주의 피여,\n검은 포도주의 피여\n\n\n내 피부에서 흘러나오라\n내 뼈에서 흘러나오라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66665b",
+  "name" : {
+    "es" : "Zambra de la Resplandeciente Corona",
+    "en" : "Zambra to the Resplendent Crown",
+    "fr" : "Zambra de la Couronne resplendissante",
+    "de" : "Zambra an die Strahlende Krone",
+    "it" : "Zambra alla corona risplendente",
+    "zh" : "华冠曲",
+    "ru" : "Самбра ослепительной короны",
+    "ja" : "華麗な王冠に贈るザンブラ",
+    "pt-BR" : "Zambra para a Coroa Esplendorosa",
+    "ko" : "빛나는 왕관의 잠브라"
+  },
+  "description" : {
+    "es" : "Canción entonada a los rayos del sol, que generosamente bañan hasta el más oscuro de los rincones. Su bendición aumenta las Lágrimas cosechadas por Mea Culpa durante un tiempo.\nMuchos anhelan estos residuos del Milagro, pero la avaricia puede impedir vislumbrar aquello que de verdad importa.",
+    "en" : "Hymn intoned to the rays of the sun, which generously bathe even the darkest of places. Its blessing increases the Tears harvested by Mea Culpa for a while.\nMany yearn for these remainders of the Miracle, but greed can prevent them from recognising what truly matters.",
+    "fr" : "Un hymne adressé aux rayons du soleil, qui baignent généreusement les recoins les plus sombres. Sa bénédiction augmente provisoirement les Larmes recueillies par Mea Culpa.\n Beaucoup ont soif de ce rappel du Miracle, mais l'avidité les empêche parfois de reconnaître l'essentiel.",
+    "de" : "Hymne an die Strahlen der Sonne, die großzügig selbst die dunkelsten Orte bescheinen. Ihr Segen vergrößert vorübergehend die von Mea Culpa geernteten Tränen.\nViele verzehren sich nach diesen Resten des Mirakels, aber die Gier kann sie daran hindern, zu erkennen, was wirklich zählt.",
+    "it" : "Inno intonato ai raggi del sole che rischiarano generosi persino i luoghi più oscuri. La sua benedizione aumenta temporaneamente le Lacrime raccolte dal Mea Culpa.\nIn molti anelano a queste reminiscenze del Miracolo, ma l'avarizia può impedire di riconoscere ciò che conta davvero.",
+    "zh" : "歌颂阳光的赞诗，即便最黑暗的角落也难逃阳光的照耀。该诗所赐之福可以提升孽刃所获得的眼泪。\n许多人渴求奇迹所留下的这份宝物，但是贪婪蒙蔽了他们的眼睛，看不透究竟是什么在起作用。",
+    "ru" : "Гимн солнечным лучам, которые щедро омывают даже самые темные уголки. После его исполнения Mea Culpa в течение некоторого времени собирает больше слез.\nМногие стремятся получить эти остатки Чуда, но алчность не дает им понять, что действительно важно.",
+    "ja" : "いかなる暗闇も慈悲深く照らし\n出す、太陽の光を讃える聖歌。\nその加護により短い間、懺悔の\n剣によって得られる償いの涙が\n増加する。\n多くの者はこれらのような、奇\n蹟の残滓に憧れを抱くが、彼ら\nの目は貪欲に濁っているため、\n真に重要なものが何なのか気付\nかない。",
+    "pt-BR" : "Hino entoado aos raios do sol, que generosamente banham até os locais mais sombrios. Suas bênçãos aumentam as Lágrimas colhidas pela Mea Culpa durante um tempo.\nMuitos desejam os refugos do Milagre, mas a cobiça os impede de reconhecer o que realmente importa.",
+    "ko" : "어떤 어둠도 관대하게 비추는 태양빛을 위한 찬송가. 태양의 가호를 받아 잠시 동안 메아 쿨파로 수확하는 눈물의 양이 증가한다.\n이런 기적의 잔재를 갈망하는 이들은 많지만, 탐욕에 눈먼 이들은 정말로 중요한 것이 무엇인지 모르고 있다."
+  },
+  "lore" : {
+    "es" : "\"No puedo coger tu mano\nAhora que duermes en el viento entre los árboles.\nNo puedo hablarte\nAhora que cantas junto a los grillos de medianoche.\nNo puedo verte\nAhora que miras desde el sol hacia la arena caliente.\nNo puedo olvidarte,\nPues de mí siempre formarás parte.\"\n\n\nEn memoria de Mariano Soler.",
+    "en" : "\"I cannot hold your hand\nNow that you sleep in the wind among the trees\nI cannot speak to you\nNow that you're singing with the midnight crickets\nI cannot see you\nNow that you're looking from the sun into the hot sand\nAnd I cannot forget you,\nFor you will always be part of me.\"\n\n\nIn memory of Mariano Soler.",
+    "fr" : "«Je ne puis te tenir la main\nMaintenant que tu dors dans le vent entre les arbres\nJe ne puis te parler\nMaintenant que tu chantes avec les grillons de minuit\nJe ne puis te voir\nMaintenant que tu contemples le sable depuis le soleil\nEt je ne puis t'oublier\nCar tu feras toujours partie de moi.»\n \nEn souvenir de Mariano Soler",
+    "de" : "„Ich kann Eure Hand nicht halten\nNun, da Ihr im Wind unter den Bäumen schlaft.\nKann ich nicht zu Euch sprechen\nNun, da Ihr mit den Mitternachtsgrillen singt.\nKann ich Euch nicht sehen\nNun, da Ihr aus der Sonne in den heißen Sand blickt.\nKann ich Euch nicht vergessen,\nDenn Ihr werdet immer ein Teil von mir sein.“\n\n\nIn Gedenken an Mariano Soler.",
+    "it" : "\"Non posso tenerti la mano\nora che tu dormi nel vento fra gli alberi.\nNon posso parlarti\nora che tu stai cantando insieme ai grilli di mezzanotte.\nNon posso vederti\nora che tu mi guardi dal sole nella sabbia rovente.\nE non posso dimenticarti,\nperché tu farai sempre parte di me.\"\n\n\nIn memoria di Mariano Soler.",
+    "zh" : "「不得挽君手\n恐惊风林眠\n不得传君语\n秋虫夜歌延\n不得见君颜\n黄沙日下烟\n不得长相忘\n与君永相连」\n\n\n忆马里安诺·索勒",
+    "ru" : "«Я не могу взять тебя за руку,\nКогда ты спишь на ветру среди деревьев.\nЯ не могу заговорить с тобой,\nКогда ты поешь с полуночными сверчками.\nЯ не могу увидеть тебя,\nКогда ты смотришь с солнца на горячий песок.\nИ я не могу забыть тебя,\nИбо ты вечно будешь частью меня».\n\n\nВ память о Мариано Солере.",
+    "ja" : "「私はあなたの　手を握れない\n　あなたは木々の　風の中眠る\n　私はあなたに　声をかけられない\n　あなたは夜の　コオロギと歌う\n　私はあなたを　見ることができない\n　あなたは天の　太陽と共に\n　私はあなたを　忘れられない\n　あなたは私の　一部なのだから」\n\n\n――マリアーノ・ソラーを追悼して",
+    "pt-BR" : "\"Não posso segurar sua mão\nAgora que você dorme no vento entre as árvores\nNão posso falar com você\nAgora que você canta com os grilos noturnos\nNão posso te ver\nAgora que você olha do sol para a areia escaldante\nE não posso te esquecer,\nPois você sempre será parte de mim.\"\n\n\nEm memória de Mariano Soler.",
+    "ko" : "\"그대 손을 잡을 수 없네\n나무 사이를 타고 흐르는 바람과 함께 잠드니\n그대 향해 말을 걸 수 없네\n밤을 노래하는 귀뚜라미와 함께 노래하니\n그대를 볼 수 없네\n하늘의 태양이 되어 뜨거운 모래 향해 내리쬐니\n그대를 잊을 수 없네\n그대는 언제나 나의 일부일지니\"\n\n\n마리아노 솔레르를 추모하며."
+  }
+} ]

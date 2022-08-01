@@ -1,0 +1,21 @@
+{
+  "name": "fanapis-template",
+  "version": "0.1.0",
+  "homepage": "https://davidhuertas.github.io/BphmAPI",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "apollo-server-core": "^3.6.2",
+    "apollo-server-micro": "^3.6.2",
+    "graphql": "^16.3.0",
+    "micro": "^9.3.4",
+    "next": "12",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT"
+}

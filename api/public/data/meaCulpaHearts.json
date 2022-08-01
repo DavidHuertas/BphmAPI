@@ -1,0 +1,419 @@
+[ {
+  "id" : "62e7fd13ef4a6a5cfb666643",
+  "name" : {
+    "es" : "Humeante Corazón de Incienso",
+    "en" : "Smoking Heart of Incense",
+    "fr" : "Cœur fumant d'encens",
+    "de" : "Weihrauchherz",
+    "it" : "Cuore fumante d'Incenso",
+    "zh" : "烟火香心",
+    "ru" : "Дымящееся сердце из фимиама",
+    "ja" : "煙る香炉の心臓",
+    "pt-BR" : "Coração Fumegante de Incenso",
+    "ko" : "향이 피어 오르는 심장"
+  },
+  "description" : {
+    "es" : "Aumenta el daño y la duración de los rezos, pero a cambio aumenta su coste en una barra de fervor extra.",
+    "en" : "Enhances the power and duration of Prayers, but also increases their cost by one Fervour bar.",
+    "fr" : "Augmente la puissance et la durée des prières, mais augmente aussi leur coût d'une barre de ferveur.",
+    "de" : "Verstärkt die Kraft und Ausdauer von Gebeten, erhöht aber auch deren Kosten auf der Inbrunst-Leiste.",
+    "it" : "Aumenta la potenza e la durata delle preghiere, facendone crescere anche il costo di una barra del Fervore.",
+    "zh" : "提升祷文的持续时间与效力，但也会增加信仰的消耗",
+    "ru" : "Увеличивает силу и время действия молитв, но также увеличивает затраты рвения на их произнесение на одно деление.",
+    "ja" : "祈詞の威力と持続時間を強化す\nるが、発動に必要な熱情がバー\n１つ分増加する。",
+    "pt-BR" : "Aumenta o poder e a duração das Orações, mas também aumenta seu custo em uma barra de Fervor.",
+    "ko" : "기도문의 위력과 지속시간이 증가하는 대신 사용하는 열정이 한 칸 증가한다."
+  },
+  "lore" : {
+    "es" : "Obras y Gracias del Milagro Doloroso. Versículo Primero.\n\n\nEl gran árbol seco en el que Su Santidad fue convertido por obra y gracia del Milagro ardió en una noche de fuertes tormentas. Ardió por noventa días y se consumió dejando una enorme montaña de ceniza que cubrió la torre deambulatorio mayor de la catedral dejando el trono girado de Su Santidad en lo alto. Todos los presentes, todos los que llegaron y trataron de subir a la cumbre fueron tragados por la ceniza. Y la catedral quedó en silencio.",
+    "en" : "The Works and Graces of the Sorrowful Miracle. First Verse.\n\n\nThe great dry tree into which His Holiness was transformed by work and grace of the Miracle burned in a night of heavy storms. It burned for ninety days, and as it was consumed, it left an enormous pile of ashes that covered the cathedral's main ambulatory tower, leaving His Holiness' Turned Throne on the top. All those who were present, and all those who arrived and tried to climb to the summit, were swallowed by the ashes. And the cathedral fell silent.",
+    "fr" : "Œuvres et Grâces du Funeste Miracle. Premier verset.\n\n\nLe grand arbre sec en lequel Sa Sainteté fut muée par l'intervention et la grâce du Miracle brûla lors d'une nuit de forts orages. Il brûla quatre-vingt-dix jours, et lorsqu'il fut consumé, il laissa un énorme tas de cendres qui couvrait la tour de l'ambulatoire principal de la cathédrale, laissant le Trône retourné de Sa Sainteté au sommet. Tous ceux qui étaient présents, et tous ceux qui arrivèrent et voulurent grimper au sommet, furent happés par les cendres. Et le silence s'abattit sur la cathédrale.",
+    "de" : "Die Werke und die Gnade des Leidvollen Mirakels. Erster Vers.\n\n\nDer große trockene Baum, in den Seine Heiligkeit durch die Gnade des Mirakels verwandelt wurde, verbrannte in der Nacht eines schweren Sturms. Er brannte neunzig Tage lang und hinterließ einen gewaltigen Haufen aus Asche, der den Hauptturm der Kathedrale bedeckte, an der Spitze der Abgewandte Thron Seiner Heiligkeit. Alle, die versuchten, die Spitze zu erklimmen, wurden von der Asche verschlungen. Und über die Kathedrale legte sich Schweigen.",
+    "it" : "Le opere e le grazie del Miracolo doloroso - Primo versetto\n\n\nIl grande albero secco in cui è stato trasformato Sua Santità per opera e grazia del Miracolo arse in una notte tempestosa. Arse per novanta giorni e si consumò generando una montagna di cenere che coprì interamente la torre deambulatorio principale della cattedrale, lasciando sulla propria cima solo il Trono voltato di Sua Santità. Tutti i presenti e gli ultimi arrivati che tentarono di arrampicarsi sulla cima furono inghiottiti dalla cenere. E la cattedrale fu avvolta dal silenzio.",
+    "zh" : "悲恸奇迹恩典集·第一\n\n\n一天夜里狂风大作，枯树燃起烈火，而这棵枯树是圣王变成的，这都是奇迹赐下的神恩。枯树燃烧了九十天，当它烧尽时，留下了堆积如山的灰烬，盖满了大教堂的主塔，只有圣王的翻转王座留在上面。任何在场之人以及想要攀爬上去的人都被灰烬吞没，整座教堂陷入了死寂当中",
+    "ru" : "Труды и милости Прескорбного Чуда. Стих первый.\n\n\nВеликое сухое древо, в которое превратился Его Святейшество трудами и милостью Чуда, сгорело в ночь сильных бурь. Оно горело девяносто дней, и когда догорело, осталась огромная куча пепла, которая покрыла башню главной галереи кафедрального собора, оставив на вершине Преображенный Престол Его Святейшества. И все, кто были там, и все, кто пришел и попытался забраться на вершину, были поглощены пеплом. И стало в кафедральном соборе тихо.",
+    "ja" : "『悲嘆なる奇蹟の御業と恩寵　第一節』\n\n\n奇蹟の御業と恩寵によって、聖下の体は乾いた\n大樹になり果てた。荒れ狂う嵐の夜に燃え始め\nたその樹は、九十日間にわたって燃え続けた。\n大樹はその間、大量の灰となって大聖堂に降り\n注ぎ、大聖堂の主塔内部の回廊を埋め尽くし\nた。唯一、聖下の反転の玉座だけが灰に埋もれ\nず、灰山の頂上に君臨していた。その場にいた\n者、また大聖堂を訪れ玉座を目指した者はすべ\nて、灰に飲み込まれてしまったという。こうし\nて大聖堂は、静寂によって包まれた。",
+    "pt-BR" : "As Obras e Graças do Milagre Doloroso. Primeiro Versículo.\n\n\nA grande árvore seca em que Sua Santidade foi convertida por obra e graça do Milagre queimou em uma noite de forte tempestade. Queimou por noventa dias e, enquanto era consumida pelas chamas, deixou uma enorme montanha de cinzas que cobriu a principal torre deambulatória da catedral, deixando o Trono Virado de Sua Santidade no topo. Todos os presentes, todos que chegaram e tentaram subir ao cume, foram engolidos pelas cinzas. E a catedral ficou em silêncio.",
+    "ko" : "비탄의 기적이 만든 작품과 은혜 1절\n\n\n폭풍우가 몰아치던 날 밤, 교황 성하께서 기적의 은총을 받아 변한 위대한 고목은 불타버리고 말았다. 그 불은 90일 동안 타올랐고, 이윽고 성하께서 뒤돌아 앉은 옥좌와 함께 대성당의 보행탑을 뒤덮은 재만이 남게 되었다. 참석했던 자들과 옥좌 위로 올라가려던 자들 모두 잿더미 안으로 빨려 들어가고 말았다. 그렇게 대성당에는 침묵만이 남았다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666644",
+  "name" : {
+    "es" : "Corazón del Buen Dolor",
+    "en" : "Heart of the Virtuous Pain",
+    "fr" : "Cœur de la Vertueuse douleur",
+    "de" : "Herz des Tugendsamen Schmerzes",
+    "it" : "Cuore del Dolore virtuoso",
+    "zh" : "痛德之心",
+    "ru" : "Сердце добродетельной боли",
+    "ja" : "高潔なる痛みの心臓",
+    "pt-BR" : "Coração da Dor Virtuosa",
+    "ko" : "고결한 고통의 심장"
+  },
+  "description" : {
+    "es" : "Núcleo de espada, bendito con plegarias defensivas. Puede insertarse en Mea Culpa. Potencia la maniobra de parada, aumentando su duración, a cambio de exponer a Penitente durante más tiempo frente a los ataques de los enemigos.",
+    "en" : "Sword core, blessed with defensive prayers. Can be inserted into Mea Culpa. Boosts the blocking stance, increasing its duration, but exposes The Penitent One longer to enemy attacks.",
+    "fr" : "Le cœur d'une épée, béni de prières défensives. Peut s'enchâsser dans Mea Culpa. Renforce la parade et augmente sa durée.",
+    "de" : "Schwertkern, gesegnet durch Schutzgebete. Kann in Mea Culpa eingefügt werden. Verstärkt die Blockade und erhöht ihre Dauer.",
+    "it" : "Il nucleo di una spada, benedetto da preghiere protettrici. Si può inserire nel Mea Culpa. Potenzia la parata, aumentandone la durata.",
+    "zh" : "有防御祷文赐福的剑芯。可以插入孽刃之中。强化防御姿态，提升持续时间",
+    "ru" : "Сердцевина меча, освященная защитными молитвами. Можно вставить в Mea Culpa. Увеличивает время поддержания блока, однако на большее время оставляет Кающегося уязвимым перед вражескими атаками.",
+    "ja" : "加護の祈りによる祝福を受けた\n剣の核。懺悔の剣にはめ込むこ\nとができる。防御を補佐し、パ\nリィの持続時間を強化する。し\nかし、敵の攻撃に対して無防備\nな状態がより長くなってしま\nう。",
+    "pt-BR" : "Núcleo de espada, benzido com preces defensivas. Pode ser inserido na Mea Culpa. Fortalece a postura defensiva, aumentando sua duração, mas expõe o Penitente por mais tempo aos ataques dos inimigos.",
+    "ko" : "수호의 기도문으로 축복을 받은 검의 중심부 장식. 메아 쿨파에 장착할 수 있다. 튕겨내기 자세를 강화하여 지속 시간이 늘어나지만, 참회자가 적의 공격에 노출되는 시간 역시 늘어난다."
+  },
+  "lore" : {
+    "es" : "Obras y Gracias del Milagro Doloroso. Versículo Segundo.\n\n\nEl viento entraba fuerte por las roturas de la catedral que el Gran Árbol había originado levantando la ceniza que creaba densas nubes grises, ocultando a toda La Madre Iglesia y sumiéndola en una profunda oscuridad de plomo. La tierra cercana empezó a temblar. Entonces se oyó un terrible grito proveniente de la profundidad de la montaña de ceniza. A ese grito se le sumaron más y más. Gritos guturales, rugidos animales, monstruosos, y uno que se oyó por encima de todo: el grito de un anciano, que retumbó grave, como salido de la garganta de un gigante.",
+    "en" : "The Works and Graces of the Sorrowful Miracle. Second Verse.\n\n\nThe wind blew strongly through the fractures of the cathedral that the Great Tree had originated, lifting the ash creating dense gray clouds, hiding the whole Mother Church and drowning her in a deep darkness of lead. The ground began to tremble. Then a terrible cry was heard from the depths of the mountain of ash. And that cry was joined by more and more. Guttural screams, animal roars, monsters, and one which was heard above all: the scream of an old man, which resounded gravely, as out of the throat of a giant. ",
+    "fr" : "Œuvres et Grâces du Funeste Miracle. Premier verset.\n\n\nLe vent s'engouffrait dans les fissures de la cathédrale que le Grand Arbre avait engendrée, soulevant les cendres en grands nuages gris et denses. Toute la Mère Église en était cachée, noyée dans une profonde obscurité de plomb. Le sol se mit à trembler. Puis l'on entendit un grand cri dans les profondeurs de la montagne de cendres. Et ce cri trouva un écho, puis un deuxième. Des cris gutturaux, des rugissements animaux, des monstres, et un autre que l'on entendit par-dessus tous les autres : le cri d'un vieil homme, qui résonna gravement, comme émis par la gorge d'un géant.\n",
+    "de" : "Die Werke und die Gnade des Leidvollen Mirakels. Zweiter Vers.\n\n\nDer Wind heulte durch die Risse der Kathedrale, die der Große Baum erzeugt hatte. Er wirbelte die Asche zu dichten grauen Wolken auf, die die gesamte Mutterkirche in bleierne Dunkelheit hüllten. Die Erde begann zu beben. Dann drang aus den Tiefen des Ascheberges ein gellender Schrei. Und zu diesem einen Schrei gesellten sich weitere. Gutturale Schreie, animalisches Brüllen, monströses Kreischen und ein Schrei, der alle anderen übertönte: Der Schrei eines alten Mannes, der klang, als käme er aus dem Schlund eines Riesen.\n",
+    "it" : "Le opere e le grazie del Miracolo doloroso - Secondo versetto\n\n\nIl vento soffiava forte attraverso le fessure della cattedrale causate dal Grande Albero, sollevando la cenere che creava dense nuvole grigie, facendo sprofondare l'intera Santa Madre Chiesa in un nascondiglio fatto di cupa oscurità plumbea. Il terreno cominciò a tremare. Poi, dalle profondità della montagna di cenere, si levò un terribile grido. E a quel grido ne seguirono molti altri. Urla gutturali, ruggiti di animale, versi mostruosi e un altro che si ergeva sopra tutti gli altri: le urla di un vecchio uomo che risuonavano gravemente, come emesse dalla gola di un gigante.\n",
+    "zh" : "『悲恸奇迹恩典集·第二』\n\n\n「大风猛烈地吹过圣树所在的大教堂的裂缝，扬起的灰烬形成了浓密的灰云，把整个神母教堂都笼罩在铅灰色的黑暗中。地面开始颤抖。这时，从灰山深处传来一声可怕的喊叫。越来越多的人加入了这一呼声。喉咙里的尖叫声，动物的吼声，怪物的叫声，尤其是老人的尖叫声，那声音沉重地回响着，像从巨人的喉咙里发出来的一样」\n",
+    "ru" : "Труды и милости Прискорбного чуда. Стих второй.\n\n\nЧерез трещины в стенах, которые пробили корни Великого Древа, задувал ветер. Он поднял пепел, который взмыл плотным серым облаком, покрыл Мать матерей целиком – и погрузилась она в свинцовую тьму. Земля задрожала. И из глубин пепельной горы раздался ужасный крик. А потом еще один, и еще, и еще. Гортанные вопли, звериный рык, чудовищный завывания, но страшнее всех был один голос: голос старика, который звучал так громко, словно его издавала глотка великана.\n",
+    "ja" : "『悲嘆なる奇蹟の御業と恩寵　第二節』\n\n\n大樹の根本にある大聖堂の裂け目を、強い風が\n吹き抜け続ける。風は灰を空へと吹き上げ、灰\n色の濃い雲を作り出す。その雲は教区大聖堂を\n丸ごと覆い隠し、暗闇の中に大聖堂を包み込ん\nだ。すると、地面が突然震え始めた。その振動\nに共鳴するかのように、灰の山の奥深くから、\n恐ろしい叫び声が聞こえ始める。その声に呼応\nし、段々と様々な声が聞こえだしてきた。ガラ\nガラの悲鳴、動物が唸るような声、怪物のよう\nな声。その中でも一つだけ、とりわけ目立つ声\nがあった。それは老人の、巨人の喉から絞り出\nされるような、厳かな叫び声だった。",
+    "pt-BR" : "As Obras e Graças do Milagre Doloroso. Segundo Versículo.\n\n\nO vento soprou forte por entre as rachaduras feitas pela Grande Árvore na catedral, levantou o pó e criou nuvens cinzentas e densas, escondendo toda a Igreja Matriz e a afogando em uma profunda escuridão plúmbea. O chão começou a tremer. Então, um lamento terrível foi ouvido das profundezas da montanha de pó. E a esse lamento, muitos outros se juntaram. Gritos guturais, rugidos de animais, monstros e um que foi ouvido mais do que todos: o grito de um velho, que ressoava um som grave, como se tivesse saído da garganta de um gigante.",
+    "ko" : "비탄의 기적이 만든 작품과 은혜 2절\n\n\n위대한 고목이 있었던 자리를 따라 강한 바람이 잿가루를 들어올리며 짙은 회색 구름과 함께 성모 교단의 대성당을 잿빛 심연 속으로 감추었다. 땅이 울리기 시작하며, 동시에 재의 산에서 무시무시한 울음소리가 들려왔다. 그 울음소리 속에서 점점 더 다양한 목소리가 들려왔다. 목구멍 너머에서 울리는 듯한 소리와 짐승이 울부짖는 소리, 괴물과도 같은 소리가. 하지만 그중에서도 가장 크게 들렸던 것은 거인의 목구멍에서 울려 퍼지는 것처럼 무겁게 가라앉은 어느 노인의 목소리였다.\n"
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666645",
+  "name" : {
+    "es" : "Corazón de Sangre Ensalitrada",
+    "en" : "Heart of Saltpeter Blood",
+    "fr" : "Cœur du sang de salpêtre",
+    "de" : "Herz aus Salpeterblut",
+    "it" : "Cuore di Sangue al Salnitro",
+    "zh" : "硝石血心",
+    "ru" : "Сердце селитровой крови",
+    "ja" : "硝石の血の心臓",
+    "pt-BR" : "Coração de Sangue Salitrado",
+    "ko" : "초석 피 심장"
+  },
+  "description" : {
+    "es" : "Aumenta el daño de ataque cuando Penitente está cerca de la muerte.",
+    "en" : "Attack damage is increased when The Penitent One is close to death.",
+    "fr" : "Les dégâts d'attaque sont augmentés lorsque Pénitent est à l'article de la mort.",
+    "de" : "Ist der Büßer dem Tode nah, erhöht sich der Angriffsschaden.",
+    "it" : "Aumenta il danno degli attacchi quando il Penitente è sul punto di morire.",
+    "zh" : "忏悔者濒死时攻击伤害将有所提升",
+    "ru" : "Урон от атак увеличивается, когда Кающийся близок к смерти.",
+    "ja" : "悔悟者が瀕死の状態の時、与え\nるダメージが増加する。",
+    "pt-BR" : "Aumenta o dano de ataque quando o Penitente está próximo da morte.",
+    "ko" : "참회자가 죽음에 가까워질 때마다 공격력이 크게 증가한다."
+  },
+  "lore" : {
+    "es" : "No tardó en ser beatificado. El Milagro le otorgó a aquel humilde párroco y confesor un regalo: las visiones del pecado, futuras y pasadas, de pensamiento y obra, de todo el que se acercaba. No necesitaba oír nuestras confesiones pues todas ya las sabía. Sabía la penitencia, sabía la sinceridad de nuestro arrepentimiento. Lo sabía todo. Ya no existía la intimidad entre pecados y pecadores, todos nos encontrábamos desnudos ante él y el Milagro. Semejante gracia llegó a ser temida. Él nos pidió que le cubriéramos la cabeza con una gruesa tela de arpillera para intentar cesar sus constantes visiones de pecado y que le llevásemos lejos, muy lejos...",
+    "en" : "It wasn't long before he was beatified. The Miracle bestowed a gift upon that humble parish priest and confessor: the visions of all sin, future and past, of thought and deed, of every person who approached him. He did not need to hear our confessions, because he already knew them all. He knew the penance, he knew the sincerity of our repentance. He knew everything. There was no more intimacy between sins and sinners; we were all naked before him, and the Miracle. Such grace came to be feared. He asked us to cover his head with a thick burlap cloth, in order to try and stop his constant visions of sin, and begged us to take him far, far away....",
+    "fr" : "Il fut bientôt béatifié. Le Miracle avait confié un don à cet humble prêtre de paroisse, ce confesseur : les visions de tous les péchés, futurs et passés, d'acte comme de pensée, de toutes les personnes qui l'abordaient. Il n'avait pas besoin d'entendre leur confession, car il les connaissait déjà toutes. Il connaissait la pénitence, il connaissait la sincérité de leur repentir. Il savait tout. Il n'y avait plus d'intimité entre péché et pêcheur ; nous étions tous nus devant lui et le Miracle. On en vint à craindre cette grâce. Il nous demanda de lui couvrir la tête d'un épais sac de jute, afin de voiler ces constantes visions de péché, et nous supplia de l'emmener loin, très loin...",
+    "de" : "Es dauerte nicht lange, bis er seliggesprochen wurde. Das Mirakel beschenkte den bescheidenen Priester und Gläubigen mit einer Gabe: Er sah alle Sünden, Vergangenheit und Zukunft, Gedanken und Taten jeder Person, die sich ihm näherte. Er brauchte uns nicht die Beichte abzunehmen, denn er hatte uns bereits vorher durchschaut. Er kannte die Buße, er erkannte, ob unsere Reue aufrichtig war. Er wusste alles. Es gab keine Innigkeit mehr zwischen Sünde und Sündern, vor ihm und dem Mirakel waren wir alle nackt. Solche Gnade begann Furcht in ihm zu wecken. Er verlangte von uns, wir sollten sein Haupt mit Sackleinen bedecken, um seinen Visionen der Sünde Einhalt zu gebieten und flehte uns an, ihn weit fort zu bringen ...",
+    "it" : "Non ci volle molto prima che venisse beatificato. Il Miracolo aveva concesso un dono prezioso a quell'umile parroco e confessore: poter vedere i peccati, futuri e passati, e i pensieri e le azioni di tutti coloro che gli si avvicinavano. Non aveva bisogno di sentire le nostre confessioni perché sapeva già tutto. Conosceva già la penitenza e la sincerità del nostro pentimento. Sapeva tutto. L'intimità tra peccato e peccatore non esisteva più: di fronte al Miracolo eravamo tutti inermi. Era una grazia che incuteva timore. Ci chiese di coprirgli la testa con una pesante stoffa di iuta per tentare di interrompere le sue costanti visioni peccaminose. Ci chiese di portarlo in un luogo lontano... molto lontano...",
+    "zh" : "他受宣福礼后不久，奇迹降临到不起眼的教区祭司和悔过者身上：一切罪恶、过去未来、所思所为、所亲所近之象。他无需听我们忏悔，因他都已知晓。他懂得救赎，明白我们是否诚心悔过。他洞悉一切。罪恶与罪人再无关联；我们赤裸地暴露在他与奇迹面前。这样的神恩令人恐惧。为了尽力阻止时常显现在他眼前的罪恶之象，他让我们用厚麻布盖住他的头，恳求我们带他去很远，很远的地方…",
+    "ru" : "Это было незадолго до того, как его причислили к лику святых. Чудо даровало награду этому скромному приходскому священнику и исповеднику: видение всех грехов – будущих и прошлых, всех помыслов и деяний каждого человека, кто к нему приближался. И не нужно было слушать ему наши признания, ибо он и так все про нас знал. Он знал глубину, он знал искренность нашего покаяния. Он знал все. Не было более близости между грехом и грешником. Мы были все наги перед ним – и перед Чудом. И боялись благодати этой. Он просил нас прикрыть ему голову плотной мешковиной, дабы остановить вечные видения греха, и молил нас отвезти его далеко-далеко...",
+    "ja" : "彼が列福されるまで、そう時間はかからなかっ\nた。奇蹟はつつましく謙虚な司祭と告白者に、\n贈り物を授けてくださった。その贈り物とは、\n周囲の人々の罪、未来、過去、考え、行いなど\nを見通す、まさに千里眼のような力だった。全\n知の存在となった彼は、私たちの告白を聞く必\n要などなかったのだ。私たちの贖罪、誠実なる\n後悔の念を、彼は知っていた。罪と罪人の間に\nはもはや、関係性などは存在しなかった。彼と\n奇蹟の前では、私たちは等しく裸なのだから。\nしかしそのような恩寵に、彼は恐怖した。すべ\nての罪を見通してしまうその力に、彼は耐えら\nれなかったのだ。彼の頭を黄麻布を包み、彼を\nどこか遠くへと連れて行くよう、彼は私たちに\n繰り返し頼んだ……",
+    "pt-BR" : "Não demorou para ser beatificado. O Milagre concedeu um presente àquele pároco humilde e seu confessor: as visões de todos os pecados, futuros e passados, de pensamento e de ato, de todos que se aproximavam dele. Ele não precisava ouvir a confissão, pois já sabia de tudo. Ele sabia da penitência, sabia da sinceridade do arrependimento. Não havia mais intimidade entre pecados e pecadores, e todos estávamos nus diante dele, e do Milagre. Tal graça veio a ser temida. Ele pedia que cobríssemos a cabeça com um pano grosso de aniagem, para tentar parar suas visões constantes de pecado, e nos implorou para levá-lo para longe, muito longe...",
+    "ko" : "얼마 지나지 않아 그분은 축복을 받았다. 기적은 보잘것없던 교구 사제 겸 고해 신부에게 선물을 주었다. 모든 죄와 미래, 과거 및 자신에게 접근한 모든 이들의 생각과 행동을 볼 수 있는 눈을. 그분은 이미 모든 것을 알고 있었기에 우리의 고해를 들을 필요도 없었다. 그분은 고행이 무엇인지 알고 있었고, 우리의 진실된 회개의 마음도 알고 계셨다. 그분은 모든 것을 알고 계셨다. 죄와 죄인 간의 관계는 필요치 않았다. 우리는 그분과 기적 앞에 모두 발가벗겨진 셈이었으니. 그 은혜는 곧 공포로 다가왔다. 그분은 우리에게 자신에게 보이는 끝없는 죄를 보게 하지 않도록 굵은 삼베 천으로 머리를 싸매 자신을 아주 먼 곳으로 보내 달라고 부탁했다..."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666646",
+  "name" : {
+    "es" : "Corazón de los Óleos",
+    "en" : "Heart of Oils",
+    "fr" : "Cœur d'huiles",
+    "de" : "Herz der Öle",
+    "it" : "Cuore degli Oli",
+    "zh" : "神油之心",
+    "ru" : "Масляное сердце",
+    "ja" : "聖油の心臓",
+    "pt-BR" : "Coração dos Óleos",
+    "ko" : "기름 심장"
+  },
+  "description" : {
+    "es" : "Este Corazón está ungido en aceites que enardecen el alma. La sagrada furia aumenta la fuerza de quien empuña la espada, pero al mismo tiempo reduce sus defensas.",
+    "en" : "This Heart is anointed with oils that inflame the soul. Sacred fury increases the strength of those who wield the sword, while at the same time lowering their defence.",
+    "fr" : "Ce cœur est badigeonné d'huiles qui embrasent l'âme. Une furie sacrée renforce ceux qui brandissent cette épée, tout en réduisant leur défense.",
+    "de" : "Dieses Herz ist gesalbt mit Ölen, welche die Seele entflammen. Heiliger Zorn erhöht die Stärke jener, die das Schwert führen, gleichzeitig wird ihre Verteidigung geschwächt.",
+    "it" : "Questo cuore è unto con oli che infiammano l'anima. La furia sacra aumenta la forza di chi impugna la spada, riducendo allo stesso tempo la sua Difesa.",
+    "zh" : "神油之心涂有可以点燃灵魂的神油。神圣之怒会提升持剑之人的力量，同时降低他们的防御力",
+    "ru" : "Эта сердцевина пропитана маслами, от которых пламенеет душа. Священный гнев дает силу тем, кто носит меч, в то же время снижая их защиту.",
+    "ja" : "魂を燃え上がらせる聖油で清め\nられた心臓。聖なる怒りによっ\nて、剣を振るう者の筋力を強化\nするが、同時に防御力が低下し\nてしまう。",
+    "pt-BR" : "Este Coração está ungido com óleos que inflamam a alma. A fúria sagrada aumenta a força daqueles que empunham a espada, mas ao mesmo tempo reduz sua defesa.",
+    "ko" : "영혼을 세례한 기름으로 가득한 심장. 신성한 분노로 검을 휘두르는 자의 힘을 올리는 대신 방어력을 크게 낮춘다."
+  },
+  "lore" : {
+    "es" : "\"Padre, como ocurre siempre, tras la procesión, el suelo adoquinado de ahí afuera estaba lleno de charcos de la sangre de nuestros penitentes que se hieren fuertemente a cada doloroso paso. Pues mientras rezaba en la ventana y observaba el reflejo nocturno en esa santa línea rojiza, vi que alguien, una figura encapuchada, empezaba a recoger parte de esa sangre guardandola en un recipiente de metal brillante. -Esa persona de la que hablas, hijo mío, no debe ser otra que la gitana errante, la vendedora a la que llaman Candelaria, para algunos sabia, para otros bruja.\"",
+    "en" : "\"Father, as it always is after a procession, the ground was filled with puddles of blood from our penitents, who harm themselves with every excruciating step. But as I prayed on the windowsill, watching the night reflected on that holy reddish line, I noticed that someone, a cloaked figure, had begun collecting that blood in a shiny, metallic container.\"\n\"That figure you speak of, my son, must be none other than the roaming gipsy, the merchant they call Candelaria: a sage to some, a witch to others.\"",
+    "fr" : "«Père, comme toujours après une procession, le sol était poisseux du sang de nos pénitents, qui se mutilent à chacun de leurs pas. Mais tandis que je priais à la fenêtre, en voyant la nuit se refléter sur cette sainte ligne rouge, je remarquai qu'une silhouette encapuchonnée avait commencé à recueillir ce sang dans un récipient métallique.»\n«Cette silhouette dont tu parles, mon fils, doit être la gitane nomade, la marchande que l'on nomme Candelaria: certains la considèrent comme une sage. Pour d'autres, c'est une sorcière.»",
+    "de" : "„Vater, wie nach jeder Prozession war der Boden getränkt mit dem Blut unserer Büßer, die ihren Leib mit jedem quälenden Schritt kasteien. Als ich nachts am Fenster betete und die rote Linie auf dem Boden betrachtete, sah ich jedoch eine verhüllte Gestalt, die das Blut in einem glänzenden, metallischen Behälter sammelte.“\n„Die Gestalt, von der du sprichst, mein Sohn, kann niemand anderes gewesen sein als die Zigeunerin Calendaria: Eine weise Frau für die einen, eine Hexe für die anderen.“",
+    "it" : "\"Padre, come ogni volta dopo la processione, le ferite che i nostri penitenti si sono inflitti a ogni doloroso passo hanno cosparso il suolo di pozzanghere di sangue. Mentre stavo pregando appoggiato al davanzale e osservando il baluginio notturno di quel santo acquitrino rossastro, ho scorto una figura incappucciata riempire un recipiente di metallo brillante con quello stesso sangue.\"\n\"Quella figura di cui parli, figliolo, non poteva che essere la zingara che tutti chiamano Candelaria: alcuni la ritengono una saggia, molti altri una strega.\"",
+    "zh" : "「圣父，一如往常，列队游行后，忏悔者的鲜血染红大地，他们步步伤损，步步苦痛。靠在窗台上凝视着夜色中的血泊祈祷时，我发现有个穿着斗篷的人开始将鲜血收集到闪闪发光的金属容器中」\n「孩子，你说的那个人，一定是那位流浪的婆子，他们称她为坎德拉里亚的商人：有人奉她为圣人，有人斥她为女巫」",
+    "ru" : "«Отец, как всегда бывает после процессий, земля была покрыта лужами крови наших кающихся, которые с каждым шагом наносили себе мучительную боль. Но когда я молился на подоконнике, глядя, как ночь отражается на этой священной красноватой линии, я заметил, что кто-то, чья-то фигура в плаще начала собирать эту кровь в блестящий сосуд из металла».\n«Та фигура, о которой ты говоришь, сын мой, должно быть, никто иная, как странствующая цыганка, торговка по имени Канделярия. Кто-то считает ее пророчицей, а кто-то – ведьмой».",
+    "ja" : "「悔悟を求める者たちは列を組んで一歩一歩、\n痛みに耐えながら自らを傷つけ、一面の地面を\n血で埋め尽くしながら進んでいきます。ですが\n父上、僕が窓台から、その聖なる赤い道を眺め\nながらお祈りを捧げていると、マントを身に付\nけた人影のようなものが見えるのです。その人\n影は金属の入れ物に、その血を集めているよう\nでした」\n「息子よ、お前が今説明したその人影は他でも\nない、かの有名な放浪の民、カンデラリアとい\nう名の商人だ。ある者には賢人、ある者には魔\n女のような存在だという」",
+    "pt-BR" : "\"Pai, como sempre ocorre após a procissão, o chão estava cheio de poças de sangue dos nossos penitentes, que se ferem a cada passo doloroso. Mas enquanto eu rezava na janela, observando o reflexo da noite naquela santa linha vermelha, uma figura encapuzada começou a recolher parte do sangue em um recipiente de metal brilhante.\"\n\"Essa pessoa de que falas, meu filho, deve ser a cigana errante, a vendedora que chamam de Candelária: para alguns sábia, para outros bruxa.\"",
+    "ko" : "\"신부님. 행렬이 지나갈 때마다 늘 그러하였지만, 대지에는 고통스럽게 걸으며 스스로를 해하는 참회자들이 남긴 피웅덩이가 가득했습니다. 그런데, 어두운 밤하늘 아래 비치는 거룩한 붉은 피를 바라보며 기도를 올리던 제 눈에 모습을 알 수 없는 누군가가 그 피를 반짝거리는 금속 용기에 모으는 것을 발견하였나이다.\"\n\"아들아, 네가 말하는 그 누군가는 분명 떠돌이 집시이자 상인인 칸델라리아일 것이다. 몇몇은 칸델라리아를 현자라 부르고, 몇몇은 마녀라 부르지.\""
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666647",
+  "name" : {
+    "es" : "Corazón del Incienso Cerúleo",
+    "en" : "Heart of Cerulean Incense",
+    "fr" : "Cœur de l'encens céruléen",
+    "de" : "Herz aus himmelblauem Weihrauch",
+    "it" : "Cuore d'Incenso ceruleo",
+    "zh" : "蔚蓝香心",
+    "ru" : "Сердце лазурного фимиама",
+    "ja" : "紺碧の香炉の心臓",
+    "pt-BR" : "Coração de Incenso Azul-celeste",
+    "ko" : "남청색 향의 심장"
+  },
+  "description" : {
+    "es" : "Núcleo de la espada, que brilla envuelto en una clara neblina azul que sale de pequeños orificios. Sus aromas se entremezclan con el olor de la sangre derramada, aumentando el Fervor generado. Lamentablemente la niebla afecta a la pureza, debilitando los ataques basados en sangre.",
+    "en" : "Sword core that shines, surrounded by a clear blue mist emanating from small creases. Its scents mix with the smell of shed blood, increasing Fervour generation. Regretably, the mist affects purity, weakening attacks based on blood.",
+    "fr" : "Un cœur d'épée qui brille, auréolé d'une brume bleue et transparente. Ses odeurs se mêlent à celle du sang pour augmenter la génération de ferveur. Hélas, la brume affecte la pureté et affaiblit les attaques à base de sang.",
+    "de" : "Leuchtender Schwertkern, umgeben von einem blauen Nebel, der kleinen Falten entsteigt. Seine Düfte vermischen sich mit dem Geruch vergossenen Blutes und erhöhen die Inbrunst-Erzeugung. Bedauerlicherweise verdirbt der Nebel die Reinheit und schwächt so auf Blut basierte Angriffe.",
+    "it" : "Il nucleo di una spada: brilla ed è avvolto da una nebbiolina bluastra generata da minuti orifizi. I suoi odori si mescolano con quello del sangue appena versato, aumentando il Fervore generato. Purtroppo, la nebbia ne compromette la purezza, indebolendo gli attacchi di sangue.",
+    "zh" : "熠熠生辉的剑芯，四周有蓝色雾气起伏波动。它的香气中混合了血腥的味道，可提升信仰。但遗憾的是，这种雾气会影响纯度，削弱血腥攻击伤害",
+    "ru" : "Эта сердцевина меча сияет, окруженная чистым голубым туманом, который испускают крошечные складки. Ее аромат смешивается с запахом пролитой крови и ускоряет накопление рвения. Прискорбно, но туман нарушает чистоту бойца, ослабляя обычные атаки.",
+    "ja" : "小さなしわから発される澄んだ\n青色の霧で包まれた、光り輝く\n剣の核。その香りと返り血の匂\nいが混ざることで、熱情の獲得\n量が増加する。しかしその霧は\n純粋さに影響を与えるため、血\nを使った攻撃の威力を弱めてし\nまう。",
+    "pt-BR" : "Núcleo de espada que brilha, envolto por uma clara névoa azul que emana de pequenos orifícios. Seus aromas se misturam ao odor de sangue derramado, aumentando o Fervor gerado. Lamentavelmente, a névoa afeta a pureza, enfraquecendo ataques baseados em sangue.",
+    "ko" : "작은 주름 사이로 피어 오르는 맑고 푸른 안개에 둘러싸인 채 빛을 내는 검의 중심부 장식. 그 향은 흐르는 피 냄새와 섞여 열정 생성량을 올려준다. 안타깝게도 안개는 순도에 영향을 받기 때문에 피를 사용하는 공격의 위력이 크게 감소한다."
+  },
+  "lore" : {
+    "es" : "Obras y Gracias del Milagro Doloroso. Versículo Tercero\n\n\nTodos los que una vez fueron tragados por la ceniza salieron de ella, en grandes hordas, las Hordas del Milagro, los Castigados. Con solo fe en sus mentes y con solo rabia en sus entrañas. Dispuestos a castigar a todos los que habían escapado de tan santo destino, de la voluntad del Milagro mismo.",
+    "en" : "The Works and Graces of the Sorrowful Miracle. Third Verse\n\n\nAll those who once were swallowed by the ashes emerged from it in great hordes: the Hordes of the Miracle, the Punished. With only faith in their minds and only rage in their guts. Willing to punish all those who had escaped from such a holy fate, from the will of the Miracle itself.",
+    "fr" : "Œuvres et Grâces du Funeste Miracle. Premier verset\n\n\nTous ceux qui avaient été happés par les cendres en ressurgirent en une grande horde : les Hordes du Miracle, les Punis. L'esprit emplit seulement de foi, le ventre repu de rage, ils voulaient punir tous ceux qui avaient échappé à leur sort sacré, à la volonté même du Miracle.",
+    "de" : "Die Werke und die Gnade des Leidvollen Mirakels. Dritter Vers\n\n\nAll jene, die die Asche verschlungen hatte, krochen nun in Scharen wieder aus ihr hervor: Die Horden des Mirakels, die Bestraften. Ihr Geist war erfüllt vom Glauben, ihre Herzen vom Zorn. Sie wollten all jene strafen, die einem so heiligen Schicksal entronnen waren, und sich dem Willen des Mirakels so entzogen hatten.",
+    "it" : "Opere e grazie del Miracolo doloroso - Terzo versetto\n\n\nI malcapitati che erano stati inghiottiti dalla cenere riemersero in grandi moltitudini: le Orde del Miracolo, i Condannati. Nelle loro teste c'era spazio solo per la fede e nelle loro viscere solamente per la rabbia. Volevano castigare chiunque fosse sfuggito a un destino sacro come il loro, alla volontà del Miracolo.",
+    "zh" : "悲恸奇迹恩典集·第三\n\n\n那些曾经被灰烬吞没的大部落族民，他们是奇迹部落，是天罚之民。他们满怀信念、又满腔怒火。他们要惩罚所有逃脱神圣之命、奇迹之愿的人。",
+    "ru" : "Труды и милости Прескорбного Чуда. Стих третий\n\n\nВсе те, кого когда-то поглотил пепел, поднялись из него великой ордой: то была Орда Чуда – Покаранные. Лишь вера была в умах их, лишь гнев в душах. И желали также покарать они всех, кто ушел от такой святой судьбы, от воли самого Чуда.",
+    "ja" : "『悲嘆なる奇蹟の御業と恩寵　第三節』\n\n\n灰に飲み込まれた人々は、大軍となって一斉に\n灰の山から這い出てきた。彼らこそが奇蹟の大\n軍であり、罰を受けた罪人であった。彼らの精\n神は信仰で支配され、はらわたには怒りのみが\n存在していた。聖なる運命、奇蹟の意志そのも\nのから逃げ出した者どもを罰することが彼らの\n目的である。",
+    "pt-BR" : "As Obras e Graças do Milagre Doloroso. Terceiro Versículo.\n\n\nTodos que foram tragados pelas cinzas emergiram, em grandes hordas, as Hordas do Milagre, os Castigados. Com apenas fé em suas mentes e raiva em suas entranhas. Dispostos a castigar todos aqueles que haviam escapado desse destino santo, da própria vontade do Milagre.",
+    "ko" : "비탄의 기적이 만든 작품과 은혜 3절\n\n\n잿더미에 삼켜진 이들이 안에서 무리를 지어 모습을 드러냈다. 오직 자신만을 믿고, 자만심으로 가득했던 자들이 기적의 벌을 받은 모습이었다. 이들은 기적의 의지에 따라 그런 거룩한 운명에서 벗어났던 다른 사람들에게 벌을 주려 하고 있었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66664c",
+  "name" : {
+    "es" : "Brillante Corazón del Alba",
+    "en" : "Brilliant Heart of Dawn",
+    "fr" : "Le cœur brillant de l'aube",
+    "de" : "Stahlendes Herz des Morgens",
+    "it" : "Cuore splendente dell'alba",
+    "zh" : "平明佳心",
+    "ru" : "Сияющее сердце восхода",
+    "ja" : "黎明の輝ける心臓",
+    "pt-BR" : "Coração Brilhante do Alvorecer",
+    "ko" : "여명의 빛나는 심장"
+  },
+  "description" : {
+    "es" : "Esencia de Laudes, trenzada en oro macizo. Encendido con la incandescente pasión que provocara, hace siglos, el nacimiento de las cuatro Amanecidas. Acelera la velocidad de su portador tras una maniobra de esquiva, pero disminuye sus defensas a la mitad. ",
+    "en" : "The Essence of Laudes, woven into solid gold. Glowing with the incandescent passion that centuries ago gave birth to the four Amanecidas. It increases the speed of whoever wears it after a dodge manoeuvre, but reduces their defence by half.",
+    "fr" : "L'Essence de Laudes, tissée en un or massif. Elle luit de la passion incandescente qui donna le jour aux quatre Amanecidas, il y a plusieurs siècles de cela. Elle augmente la vitesse de quiconque la porte après une manœuvre d'esquive, mais réduit sa défense de moitié.",
+    "de" : "Die Essenz der Laudes, in reines Gold eingewoben. Erfüllt von der glühenden Hingabe, die den vier Amanecidas vor Jahrhunderten das Leben schenkte. Erhöht die Geschwindigkeit des Trägers nach einem Ausweichmanöver, halbiert jedoch im Gegenzug seine Verteidigung.",
+    "it" : "L'essenza di Laudes, intrecciata in oro massiccio. Brilla di quella passione incandescente che, secoli fa, ha dato vita alle quattro Amanecidas. Aumenta la velocità di chi la indossa dopo una schivata, ma ne dimezza la difesa.",
+    "zh" : "罗拉德斯的精华交汇在一起，形成了足金，可谓白光闪耀，仿佛激情四射。四位阿马内奇达在数百年前正是因这种激情而生。携带者闪避之后，其速度会得到提升，但是其防御力将会减半。",
+    "ru" : "Сущность Лаудес, вытканная чистым золотом. Она ярко сияет раскаленной страстью, которая столетия назад дала жизнь четырем Девам Зари. Увеличивает скорость владельца после уклонения, но вдвое снижает его защиту.",
+    "ja" : "純金に織り込まれたラウデスの\n真髄。何世紀も前に四体のアマ\nネシダを生み出した、熱烈な情\n熱による光を放っている。回避\n行動後に素早く動けるようにな\nるが、防御が半減してしまう。",
+    "pt-BR" : "A Essência de Laudes, tecida em ouro maciço. Brilha com a paixão incandescente que deu vida às quatro Amanecidas séculos atrás. Aumenta a velocidade do usuário após uma manobra de esquiva, mas reduz a defesa pela metade.",
+    "ko" : "단단한 황금으로 엮은 라우데스의 정수. 수 세기 전 네 명의 아마네시다를 만들어낸 열정이 지금도 밝게 빛나고 있다. 착용자는 회피 직후 이동 속도가 빨라지는 대신 방어력이 절반으로 줄어든다."
+  },
+  "lore" : {
+    "es" : "Vuestro mero pensamiento me cansa el cuerpo, y vuestra visión llena mis ojos de lágrimas. ¿Qué provocas en mí, santo desconocido? Es vuestro sacrificio el que guía todo el amor que os profeso.\nMi pecado es el amar, el amar a la santidad, a lo sagrado que reside en vos y en lo que representáis, que es a su vez beato y prohibido. Este amor pesa más y más dentro de mí, y me pide salir del claustro de mi pecho. No puedo retenerlo más, pues tiene voluntad propia. Ábrase mi piel. Salga mi pasión de oro y póngase a vuestra disposición.",
+    "en" : "The mere thought of you tires my body; the vision of you fills my eyes with tears. What do you provoke in me, holy stranger? It is your sacrifice that guides all the love I profess to you.\nMy sin is to love, to love holiness, the sacredness that resides in you and in what you represent, which is in turn blessed and forbidden. This love weighs more and more heavily within me, and asks me to leave the confines of my breast. I can no longer hold it back, for it has a will of its own. Let my skin open. Let my golden passion come forth and make itself available to you.",
+    "fr" : "Ta seule pensée épuise mon corps, ta seule vue m'emplit les yeux de larmes. Qu'évoques-tu en moi, saint étranger ? C'est ton sacrifice qui guide tout l'amour que je te voue.\nMon péché est d'aimer, d'aimer la sainteté, le sacré qui réside en toi, en ce que tu représentes, qui est tour à tour béni et interdit. Cet amour me pèse de plus en plus, et ne demande qu'à quitter la prison de mon sein. Je ne puis le retenir, car il possède une volonté propre. Que ma peau s'ouvre. Que ma passion dorée jaillisse, et s'offre à toi.",
+    "de" : "Allein der Gedanke an Euch erschöpft meinen Körper, Euer Anblick treibt mir die Tränen in die Augen. Was macht ihr nur mit mir, heiliger Fremder? Es ist Euer Opfer, das all die Liebe leitet, die ich zu Euch hege.\nMeine Sünde ist es, zu lieben, die Heiligkeit zu lieben, die Heiligkeit, die in Euch lebt und in allem, was Ihr repräsentiert. Diese Liebe lastet von Tag zu Tag schwerer auf mir und will mir die Brust sprengen. Ich kann sie nicht länger beherrschen, denn sie hat ihren ganz eigenen Willen. Lasst meine Haut sich öffnen. Lasst meine goldene Hingabe herausströmen, auf dass ich sie Euch darbieten kann.",
+    "it" : "Al solo tuo pensiero, il corpo mi duole; alla tua vista, gli occhi mi si colmano di lacrime. Cosa mi fai, sacro sconosciuto? È il tuo sacrificio a guidare l'amore che ti manifesto.\nIl mio peccato è l'amore, l'amore per la tua santità, per la sacralità che risiede in te e in ciò che rappresenti, che è beato e proibito al tempo stesso. Questo amore pesa sempre di più su di me e preme per superare i confini del mio petto. Non riesco più a trattenerlo, ora che ha una volontà propria. Che la mia pelle si squarci. Che la mia passione dorata avanzi e si prostri al tuo cospetto.",
+    "zh" : "长思则费心劳神，一睹则泪水盈眶。敢问圣者，你对我究竟做了什么？你无畏牺牲，我因此告知世人，我对你敬爱有加。\n我的罪过就是敬爱神圣，这神圣就在你体内，就是你的本质，因而可以算是禁戒神福。这份爱在我心中的分量越来越重，每每都要突破胸怀，简直呼之欲出。我无法再将其压抑下去，因为它有自己的意志。让我的肌肤裂开吧，让我宝贵的热情迸发，并且为你所用吧。",
+    "ru" : "Одна лишь мысль о тебе изнуряет тело мое. Взгляд на тебя наполняет слезами очи мои. Что будишь ты во мне, чужак святой? Твоя жертва направит всю ту любовь, в которой я признаюсь тебе.\nМой долг – любить, любить святость, священность, что живет в тебе, что несешь ты, благословенную и запретную. Эта любовь всё тяжелее и тяжелее во мне, она умоляет меня дать ей оставить пределы души моей. Я больше не могу сдержать ее, ибо обладает она волей своей. Да вскроется кожа моя. Да выйдет страсть златая моя, да откроется тебе она.",
+    "ja" : "あなたのことを考えるだけで、この体は疲れ果\nててしまう。あなたのことを見るだけで、この\n目からは涙があふれ落ちてしまう。名も知らぬ\n聖なる人よ、あなたがもたらすこの感情は一体\n何だ？　あなたのその犠牲的な献身が、あなた\nへのこの我が愛を導く。\nあなたを愛すること、あなたが持つ神聖さを愛\nすること、そしてあなたが守る者が持つ神々し\nさを愛することこそ、我が罪業だ。あなたは祝\n福の対象であり、あなたが信じる者は禁忌の対\n象なのだから。日に日に強く、重くなり続ける\nこの愛は、私の胸という檻から出ることを求め\nている。意志を持つこの愛を、私はもはや抑え\nられない。裂き開け、我が皮膚よ。我が黄金の\n情熱よ、我が体から出で、実体となりてその姿\nを現せ。",
+    "pt-BR" : "Só de pensar em você, meu corpo se cansa; sua imagem enche meus olhos de lágrimas. O que provoca em mim, bendito desconhecido? É o seu sacrifício que guia todo o amor que eu declaro a ti.\nMeu pecado é amar, amar a santidade, o sagrado que reside em você e o que você representa, que, por sua vez, é abençoado e proibido. Esse amor pesa cada vez mais dentro de mim, e pede para sair da prisão do meu peito. Não posso mais contê-lo, pois ele tem vontade própria. Que minha pele se abra. Que minha paixão dourada apareça e fique disponível para ti.",
+    "ko" : "그대를 생각만 해도 몸이 지치는 것을 느끼며, 모습이 보일 때마다 눈에 눈물이 고이는구나. 내 내면의 무엇을 도발하려는 것이냐, 성스러운 이방인이여. 그대의 희생이 내가 그대에게 고백한 모든 사랑을 인도할 것이다.\n내 죄는 사랑이요, 교황 성하를 위한 사랑이요, 그대 안에 깃든 신성함에 대한 사랑이요, 축복과 금기로 얼룩진 것들을 대변하는 그대를 사랑한 것이다. 사랑의 무게가 점점 무거워지며 이 가슴에서 벗어나려고 한다. 나름의 의지를 지니고 있기에 나는 더 이상 막을 수가 없구나. 내 피부를 열어 다오. 황금과도 같은 열정을 마음껏 발휘해 다오."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666648",
+  "name" : {
+    "es" : "Corazón de la Santa Purga",
+    "en" : "Heart of the Holy Purge",
+    "fr" : "Cœur de la Sainte purge",
+    "de" : "Herz des Heiligen Reinigung",
+    "it" : "Cuore della Santa Epurazione",
+    "zh" : "圣净之心",
+    "ru" : "Сердце священного очищения",
+    "ja" : "聖なる粛清の心臓",
+    "pt-BR" : "Coração do Santo Expurgo",
+    "ko" : "성스러운 정화의 심장"
+  },
+  "description" : {
+    "es" : "Núcleo de espada, bendito con plegarias fervientes. Puede insertarse en Mea Culpa. Aumenta las Lágrimas de Enmienda cosechadas, pero impide el uso de Matraces Biliares.",
+    "en" : "Sword core, blessed with fervent prayers. Can be inserted into Mea Culpa. Increases the Tears of Atonement reaped, but prevents the use of Bile Flasks.",
+    "fr" : "Le cœur d'une épée, béni de prières ferventes. Peut s'enchâsser dans Mea Culpa. Augmente les Larmes d'expiation recueillies, mais empêche d'utiliser les flacons de bile.",
+    "de" : "Schwertkern, gesegnet durch Schutzgebete. Kann in Mea Culpa eingefügt werden. Verstärkt die Tränen der Abbitte, verhindert jedoch den Einsatz der Galle-Flaschen.",
+    "it" : "Il nucleo di una spada, benedetto da preghiere appassionate. Si può inserire nel Mea Culpa. Aumenta il numero di Lacrime di Redenzione raccolte, ma impedisce l'uso di Boccette biliari.",
+    "zh" : "有狂热祷文赐福的剑芯。可以插入孽刃之中。强化赎罪之泪的吸取效果，但无法使用圣水瓶",
+    "ru" : "Сердцевина меча, освященная страстными молитвами. Можно вставить в Mea Culpa. Увеличивает количество сбираемых Слез искупления, но не позволяет использовать склянки желчи.",
+    "ja" : "熱狂的な祈りによる祝福を受け\nた剣の核。懺悔の剣にはめ込む\nことができる。獲得する償いの\n涙が増加するが、胆汁のフラス\nコ瓶が使用できなくなる。",
+    "pt-BR" : "Núcleo de espada, abençoado com preces ferventes. Pode ser inserido na Mea Culpa. Aumenta o número de Lágrimas de Redenção coletadas, mas impede o uso de Frascos de Bile.",
+    "ko" : "열정의 기도문으로 축복을 받은 검의 중심부 장식. 메아 쿨파에 장착할 수 있다. 속죄의 눈물 수확량이 증가하는 대신 담즙 플라스크를 사용하지 못하게 막는다."
+  },
+  "lore" : {
+    "es" : "La Leyenda de la Espada de la Culpa\n\n\nDicen que esa estatua de piedra cubierta de pétalos fue antes una joven que, atormentada por un profundo sentimiento de culpa, golpeó su pecho con la figura de Nuestro Padre, pidiéndole ser castigada. El Milagro se manifestó en la figura del Padre, surgiéndole un ancho y largo filo, una gran espada enraizada, que le atravesó su corazón culpable para posteriormente transformar su cuerpo en piedra. Aquella espada fue llamada Mea Culpa en alusión a las últimas palabras de la joven.",
+    "en" : "The Legend of Mea Culpa, the Sword of Guilt\n\n\nIt is said that this stone statue covered with petals was once a young woman who, tormented by a deep feeling of guilt, struck her chest with the figure of Our Father, asking him to be punished. The Miracle manifested itself in the figure of the Father, emerging from her a wide and long edge, a great rooted sword, which pierced her guilty heart to later transform her body into stone. That sword was called Mea Culpa in allusion to the last words of the young woman.",
+    "fr" : "La légende de Mea Culpa, l'Épée de la Culpabilité\n\n\nOn raconte que cette statue de pierre couverte de pétales était jadis une jeune femme qui, tourmentée par un profond sentiment de culpabilité, se frappa la poitrine avec l'effigie de Notre Père, en lui demandant châtiment. Le Miracle se manifesta sous les traits du Père, émergeant de son corps avec un fil long et large, une grande épée enracinée, qui perça son cœur coupable pour transformer son corps en pierre. L'épée fut baptisée Mea Culpa, en allusion aux derniers mots de la jeune femme.",
+    "de" : "Die Legende von Mea Culpa, dem Schwert der Schuld\n\n\nMan sagt, diese von Blütenblättern bedeckte Statue sei einst ein junges Mädchen gewesen, dessen Seele von Schuldgefühlen geplagt wurde. So schlug sie sich eine Figur Unseres Vaters gegen die Brust und bettelte um Strafe. Das Mirakel manifestierte sich in der Figur des Vaters, und ihr entwuchs eine breite Klinge, die das Herz des Mädchens durchbohrte und ihren Leib schließlich in Stein verwandelte. Das Schwert wurde Mea Culpa genannt, denn dies waren die letzten Worte des Mädchens.",
+    "it" : "La leggenda del Mea Culpa, la Spada della Colpa\n\n\nSi narra che questa statua di pietra ricoperta di petali un tempo fosse una giovane donna che, tormentata da un profondo senso di colpa, si colpì al petto con l'immagine del Padre Nostro, chiedendogli di essere punita. Il Miracolo si manifestò nella figura del Padre, facendo emergere dal corpo della donna una lama lunga e larga, una grande spada radicata, che trafisse il suo cuore colpevole per poi trasformare il corpo in pietra. Quella spada venne battezzata \"Mea Culpa\", eco delle ultime parole della giovane donna.",
+    "zh" : "孽刃传说，罪孽之剑\n\n\n据说，这尊带有花瓣的石像曾经是个内心充满了深深的罪恶感的年轻女子，她用圣父的偶像击打着自己的胸膛，请求惩罚。奇迹便在圣父的偶像中现了身，从她身上露出了一条带有又宽又长的刀锋并深深扎着根的大刀，刺穿了她的罪恶的心，后来把又把她的身体变成了石头。那把剑从此被称为孽刃，也是那年轻女子的临终遗言而化成的歉意",
+    "ru" : "Легенда о Mea Culpa, мече вины\n\n\nГоворят, эта каменная статуя, покрытая цветочными лепестками, когда-то была девушкой, которая, измученная глубоким чувством вины, проткнула свою грудь статуэткой Отца Нашего и взмолилась к нему о каре. Чудо явило себя в статуэтке Отца, и проросло в тело ее широким и длинным лезвием, прекрасным мечом, пронзившим сердце ее и обратившее тело ее камнем. Этот меч назвали Mea Culpa – Моя Вина, – ибо таковы были последние слова девушки.",
+    "ja" : "罪を背負いし、懺悔の剣の伝説\n\n\n花びらに包まれたこの石像はかつて、若い女性\nであったという。強く深い罪の意識に苛まれた\n彼女は、父なる神の彫像で自らの胸を繰り返し\n叩き、罰を求めたと言われている。奇蹟はその\n父なる神の彫像という形で実を結んだ。彫像の\n根本から長く幅広の刃が付き出し、一振りの大\n剣となったのだ。その刃は彼女の罪深き心臓を\n貫き、彼女の体はやがて石像と化した。若い女\n性の最後の言葉を暗示するかのように、この剣\nはいつからか懺悔の剣と呼ばれるようになっ\nた。",
+    "pt-BR" : "A Lenda de Mea Culpa, a Espada da Culpa\n\n\nDizem que essa estátua de pedra coberta por pétalas já foi uma jovem mulher que, atormentada por um sentimento profundo de culpa, golpeou o próprio peito com a imagem de Nosso Pai, clamando por punição. O Milagre se manifestou na figura do Pai, fazendo surgir dela uma grande e longa espada, que perfurou seu coração culpado e transformou o corpo em pedra. Essa espada foi chamada de Mea Culpa em alusão às últimas palavras da jovem mulher.",
+    "ko" : "죄악의 검, 메아 쿨파에 관한 전설\n\n\n꽃잎으로 뒤덮인 이 석상은 한때 깊은 죄책감으로 '신'의 조상을 가슴에 내리치며 신께 자신을 벌해줄 것을 간청한 한 젊은 여인이라고 한다. 이에 기적은 신의 조상을 넓은 날과 거대한 뿌리를 지닌 거대한 칼의 형상으로 바꾸어 그 죄책감이 여인의 몸을 꿰뚫게 했고, 여인의 몸은 석상으로 변하였다. 여인이 마지막으로 남긴 말에 따라, 이 검은 메아 쿨파라는 이름으로 불리게 되었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb666649",
+  "name" : {
+    "es" : "Fundido Corazón de Sangre Hirviente",
+    "en" : "Molten Heart of Boiling Blood",
+    "fr" : "Cœur fondu de sang bouillonnant",
+    "de" : "Geschmolzenes Herz aus Kochendem Blut",
+    "it" : "Cuore fuso di Sangue ribollente",
+    "zh" : "热血之熔心",
+    "ru" : "Расплавленное сердце кипящей крови",
+    "ja" : "沸き立つ血潮の心臓",
+    "pt-BR" : "Coração Fundido de Sangue Fervente",
+    "ko" : "끓는 피로 녹아내린 심장"
+  },
+  "description" : {
+    "es" : "Núcleo de la espada, seco y poroso al tacto. Hace que Mea Culpa palpite sedienta con cada muerte, transfiriendo fuerza vital a su portador, aunque su influjo reduce la curación del Matraz Biliar.",
+    "en" : "Sword core, dry and slightly porous to the touch. It causes Mea Culpa to throb thirstily after every kill, transferring life force to its wearer, but reducing the amount of health recovered by Bile Vessels.",
+    "fr" : "Un cœur d'épée, sec est légèrement poreux. Sous son effet, Mea Culpa s'agite avec soif après chaque mise à mort et transfère la force vive à son maître. En contrepartie, elle réduit la quantité de santé rendue par les flasques de bile.",
+    "de" : "Schwertkern, trocken und leicht porös. Mea Culpa pocht nach jedem Töten durstig und überträgt Lebenskraft auf den Träger. Zugleich reduziert sich aber die durch Galle-Gefäße wiederhergestellte Gesundheit.",
+    "it" : "Il nucleo di una spada secco e poroso al tatto. A ogni uccisione, il Mea Culpa palpita con bramosia e trasferisce la sua forza vitale a chi lo brandisce, ma fa ridurre anche la quantità di Salute recuperata con le Boccette biliari.",
+    "zh" : "触感干燥多孔的剑芯。每次造成击杀后可使孽刃剧烈震动，将生命力传输给携带者，但会削弱圣水瓶的恢复效果",
+    "ru" : "Сердцевина меча, сухая и слегка пористая на ощупь. Заставляет Mea Culpa жадно пульсировать после каждого убийства, передавая жизненную силу жертвы своему владельцу. Снижает количество здоровья, которое восстанавливают склянки желчи.",
+    "ja" : "触れるとデコボコとしている、\n乾いた剣の核。はめ込むこと\nで、敵を殺すたびに懺悔の剣が\n血を求めて鼓動し、敵の生命力\nを奪い持ち主に与える。その代\n償として、胆汁のフラスコ瓶に\nよる回復量が減少する。",
+    "pt-BR" : "Núcleo de espada, seco e poroso ao toque. Faz com que Mea Culpa palpite sedenta após cada morte, transferindo força vital ao seu portador, mas reduzindo a quantidade de vida recuperada com os Vasos de Bile.",
+    "ko" : "메마른 감촉과 함께 표면에 많은 구멍이 나 있는 검의 중심부 장식. 메아 쿨파로 적을 처치할 때마다 피를 갈망하듯 떨며 착용자에게 체력을 전달하지만 담즙 용기의 회복량이 줄어든다."
+  },
+  "lore" : {
+    "es" : "\"El maestro orfebre, sin dejar de repujar la plata, preguntó: - Si se le permite a mi curiosidad, ¿De quién sería la bendita sangre que será perpetuada en este corazón de plata?\nEl sacerdote respondió: - Es de alguien que va a morir pronto, traicionado por los suyos, condenado por las autoridades a las que obedeció.\nEl maestro se detuvo y levantando la mirada: - Se trata de vos, ¿verdad?\"",
+    "en" : "\"The master metalsmith, never ceasing to emboss the silver, asked, casually:\n\"If I may ask, from whom would the blessed blood that will be perpetuated in this brooch be?\"\nThe priest replied:\n\"It will be from someone who is to die soon, betrayed by his own, condemned by the very authorities he obeyed.\"\nThe master stopped, and raised his sights:\n\"It is you, is it not?\"",
+    "fr" : "Le maître orfèvre, sans jamais cesser de gaufrer l'argent, demanda l'air de rien:\n«Si vous me permettez, de qui proviendra le sang béni qui sera perpétué dans cette broche?»\nLe prêtre répondit:\n«Il proviendra d'une personne qui va bientôt mourir, trahie par les siens, condamnée par les autorités même à qui elle obéissait.»\nLe maître s'arrêta et leva les yeux.\n«C'est de vous qu'il s'agit, n'est-ce pas?»",
+    "de" : "„Der Meisterschmied, der unablässig Silber bearbeitete, fragte manchmal:\n„Von wem mag das gesegnete Blut stammen, das in dieser Brosche verewigt wird?“\nUnd der Priester antwortete:\n„Von einem, der bald sterben wird, verraten von seinesgleichen, verdammt von den Autoritäten, denen er gehorchte.“\nDer Meister hielt inne und hob den Blick:\n„Es wird das Eure sein, nicht wahr?“",
+    "it" : "Il mastro orefice, senza smettere di sbalzare l'argento, chiese:\n\"Se posso essere indiscreto, di chi è il sangue benedetto che sarà reso eterno in questa spilla?\"\nIl sacerdote rispose:\n\"È di una persona che morirà presto, pugnalata alle spalle dalla sua stessa gente, condannata dalle stesse autorità a cui prima rispondeva.\"\nIl mastro interruppe il suo lavoro e alzò lo sguardo:\n\"Parlate di voi, nevvero?\"",
+    "zh" : "金匠不住地在银器上雕刻着，信口问道：\n「冒昧一问，这东西要沾谁的血？」\n祭司答道：\n「是将死之人的血，他自己背叛了自己，判处他有罪的就是他所效命的教会」\n金匠停下了手中的活，抬起眼说道：\n「那不正是阁下您吗？」",
+    "ru" : "«Мастер-кузнец, не прекращая работы над серебряной заготовкой, спросил как бы невзначай:\n«Если дозволено мне узнать, чья же будет благословенная кровь, сохраненная в брошке сей?»\nСвященник отвечал:\n«Кровь будет того, кто скоро умрет, преданный близкими, осужденный властями, которым он подчинялся».\nМастер остановился и поднял взгляд:\n«Это ты, да?»",
+    "ja" : "金属細工師は何気なく、そして銀を加工するそ\nの手を止めることもなく、こう聞いた。\n「質問をお許しください。このブローチに留め\nる祝福された血とは、誰のものなのですか？」\n司祭はこう答えた。\n「忠誠を誓った組織に裏切られ、所属する教団\nから糾弾を受けた、もうすぐ死を迎える者の血\nです」\n細工師は作業を止め、顔をあげた。\n「それはあなたのことですか？」",
+    "pt-BR" : "O mestre ourives, sem deixar de gravar a prata, perguntou casualmente:\n\"Se me permite a curiosidade, de quem é o sangue bendito que será perpetuado neste broche?\"\nO sacerdote respondeu:\n\"De alguém que vai morrer logo, traído pelos seus, e condenado pelas autoridades que obedecia.\"\nO mestre parou e levantou o olhar:\n\"Trata-se do senhor, não?\"",
+    "ko" : "쉬지 않고 은을 조각하던 세공 명인이 무심코 질문을 던졌다.\n\"물어보고 싶은 게 있는데, 이 브로치에 넣을 축복받은 피는 누구에게서 나오는 거요?\"\n사제가 대답했다.\n\"동료들에게 배신당하고 자신이 따르던 권위에 비난당하며 죽게 될 자요.\"\n장인은 그 대답에 하던 일을 멈추고는 고개를 들어 사제를 바라보았다.\n\"당신이로군, 그렇지 않소?\""
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66664d",
+  "name" : {
+    "es" : "Apodíctico Corazón de Mea Culpa",
+    "en" : "Apodictic Heart of Mea Culpa",
+    "fr" : "Cœur apodictique de Mea Culpa",
+    "de" : "Apodiktisches Herz von Mea Culpa",
+    "it" : "Cuore apodittico del Mea Culpa",
+    "zh" : "纯绝孽刃之心",
+    "ru" : "Неопровержимое сердце Mea Culpa",
+    "ja" : "懺悔の剣の誠なる心臓",
+    "pt-BR" : "Coração Apodíctico da Mea Culpa",
+    "ko" : "진정한 메아 쿨파의 심장"
+  },
+  "description" : {
+    "es" : "Verdadero núcleo del filo culpable, secuestrado antes del propio nacimiento de la espada. Torna la herramienta en un arma contra los designios de los poderes que la crearon, completando la hoja para siempre.\nAumenta la fuerza de la espada, haciéndola digna de cumplir su verdadero objetivo.",
+    "en" : "The true core of the guilty blade, hijacked before the very birth of the sword. It transforms the tool into a weapon that can challenge the intentions of the powers that created it, completing the blade forever.\nIt increases the sword’s strength, making it able to fulfil its true purpose.",
+    "fr" : "Le véritable cœur de cette épée coupable, arraché avant la naissance même de cette arme. Il transforme son acier en arme qui peut résister à l'intention des pouvoirs qui l'ont créée, et la complète à tout jamais.\nIl augmente la force de l'épée, ce qui la rend capable d'accomplir enfin son destin.",
+    "de" : "Der wahre Kern der schuldigen Klinge, der vor der Entstehung des Schwertes entführt wurde. Er verwandelt das Werkzeug in eine Waffe, die selbst den Absichten der Mächte, die ihn erschaffen haben, die Stirn bieten kann, und vollendet die Klinge bis in alle Ewigkeit.\nEr erhöht die Stärke des Schwertes, damit es seinen wahren Zweck erfüllen kann.",
+    "it" : "Il vero nucleo della lama colma di Colpa, asportato prima della nascita della spada. Trasforma lo strumento in un'arma che può sfidare le intenzioni dei poteri che l'hanno creata, completandone una volta per tutte la lama.\nAumenta la forza della spada, rendendola capace di raggiungere il suo vero scopo.",
+    "zh" : "罪孽之刃的真正核心，在这把剑降世之前就被掳走。它可以将工具变成武器，与创造它的力量相抗衡，使得这把武器变得更加完美。\n它可以增强这把剑的力量，从而使得这把剑可以达成自己的真正目的。",
+    "ru" : "Истинная сердцевина клинка вины, похищенная еще до рождения меча. Она преобразует оружие в инструмент, который воплощает намерения сил, его создавших, и доводит клинок до совершенства навеки.\nОна увеличивает силу клинка и позволяет ему исполнить свое истинное предназначение.",
+    "ja" : "罪を抱えし剣の本来の核。剣が\n生まれ出でる前に奪い去られて\nしまった。心臓を作り出した意\n志そのものに抗う力を武器に与\nえ、剣を完全無欠なものへと昇\n華させる。\n剣が本来の目的を成就できるよ\nう、剣が持つ強さを上昇させ\nる。",
+    "pt-BR" : "O verdadeiro núcleo do gume culpado, sequestrado antes do próprio nascimento da espada. Transforma a ferramenta em uma arma que pode desafiar as intenções dos poderes que a criaram, completando para sempre a lâmina.\nAumenta a força da espada, permitindo que ela cumpra seu verdadeiro propósito.",
+    "ko" : "검이 탄생하기 전에 사라져버린 죄악의 칼날에 걸맞은 진정한 심장. 창조한 자들의 의도를 거스르고 도구를 무기로 바꾸어 완전한 검의 형태로 완성시킨다.\n검의 위력이 증가하며 진정한 목적을 달성할 수 있도록 도와준다."
+  },
+  "lore" : {
+    "es" : "Cuatro fueron los mayores devotos del Padre. Cuatro los que presenciaron el primer milagro. Cuatro los que rezaron ante el joven que se retorcía más y más, mientras se enraizaban sus articulaciones en aquel alto madero. Cuatro los que oyeron las tres palabras que fueron pronunciadas por el Padre justo antes de su última espiración. Cuatro los que admiraron como crecía el árbol anudado del que brotaba oro líquido.\nCuatro fueron los testigos del primer Milagro pero solo uno pudo ver al Milagro mismo. Vio su forma, su sino y su origen: una trinidad divina, las Altas Voluntades.",
+    "en" : "Four was the number of the Father's greatest devotees. Four who witnessed the first miracle. Four who prayed before the young man who twisted and contorted as his joints took root in the towering tree. Four who heard the three words uttered by the Father just before his last breath. Four who admired how the knotted tree, from which liquid gold flowed, grew.\nFour who were the witnesses to the first Miracle but only one of whom could see the Miracle itself. He saw its form, fate and origin: a divine trinity, the High Wills.",
+    "fr" : "Quatre étaient les plus grands fidèles du Père. Quatre assistèrent au premier miracle. Quatre prièrent devant le jeune homme qui se tordait et se déformait tandis que ses articulations prenaient racine dans l'arbre immense. Quatre entendirent les trois mots prononcés par le Père juste avant son dernier souffle. Quatre admirèrent la manière dont poussait cet arbre noueux, d'où s'écoulait de l'or liquide.\nQuatre furent les témoins du premier Miracle, mais un seul put voir le Miracle lui-même. Il vit sa forme, son destin et son origine : une divine trinité, les Volontés supérieures.",
+    "de" : "Der Vater hatte vier treue Anhänger. Vier, die Zeugen des ersten Mirakels wurden. Vier, die vor einem jungen Mann beteten, dessen Gelenke sich verdrehten und im emporragenden Baum verwurzelten. Vier, die vor dem letzten Atemzug des Vaters die letzten drei Worte vernahmen. Vier, die staunend zusahen, wie der knorrige Baum, aus dem flüssiges Gold floss, heranwuchs.\nVier, die Zeugen des ersten Mirakels wurden, doch nur einer, der das Mirakel selbst vernehmen konnte. Er sah seine Form, sein Schicksal und seinen Ursprung. Eine göttliche Dreifaltigkeit, den Höheren Willen.",
+    "it" : "Quattro era il numero dei più grandi devoti del Padre. I quattro che assistettero al primo Miracolo. I quattro che pregarono davanti al giovane che si contorceva senza sosta mentre le sue articolazioni mettevano radici nell'albero torreggiante. I quattro che sentirono le tre parole pronunciate dal Padre poco prima del suo ultimo respiro. I quattro che ammirarono come cresceva l'albero annodato da cui sgorgava oro liquido.\nI quattro testimoni del primo Miracolo, benché solo uno di loro poté vedere il Miracolo stesso. Ne vide la forma, il destino e l'origine: una trinità divina, la Volontà Suprema.",
+    "zh" : "圣父的信徒共有四位。这四人见证了初代神迹。在年轻人扎根于这颗参天大树进而扭曲之前，这四人就已经开始进行祈祷。这四人听到了圣父安息前说出的三个字。这四人崇敬多结之树的生长方式，因为这棵树可以淌出液体黄金。\n 这四人见证了初代神迹，但是只有一人能见到神迹本身。他看到了神迹的外相、命运与起源：三一圣体，至高意志。",
+    "ru" : "Четверо ревнителей было у отца. Четверо узрели чудо изначальное. Четверо молились перед юношей, которого страшно скрутило, когда его суставы укоренились в могучем древе. Четверо услышали три слова, которые промолвил Отец перед смертью. Четверо поражались тому, как растет сучковатое дерево, с которого стекало жидкое золото.\nЧетверо стали очевидцами изначального чуда, но лишь один из них смог увидеть само Чудо. Он увидел его форму, судьбу и первопричину: священная троица, Высшие Воли.",
+    "ja" : "四、其れは父なる神を最も信奉した信者の数。\n四、其れは第一の奇蹟をその眼で目撃した者た\nち。四、其れは手足の関節が歪み捻じれなが\nら、高く育ちゆく樹の一部と化していく若者の\n前で祈りを捧げた者たち。四、其れは父なる神\nが息絶える寸前に発した三語を聞き遂げた者た\nち。四、其れは液体の黄金が流れ出でる、捻じ\nれた樹が育ちゆく様に敬服し歓喜した者たち。\n四、其れは第一の奇蹟をその眼で目撃した者た\nちであった。しかし奇蹟そのものを見ることが\nできたのは一人のみ。彼がその眼で見た奇蹟の\n姿、運命、起源。それこそが神聖なる三位一体\nであり、天の意志である。",
+    "pt-BR" : "Foram quatro os maiores devotos do Pai. Quatro testemunharam o primeiro milagre. Quatro rezaram perante o jovem que se contorcia cada vez mais à medida que suas juntas se enraizavam na imensa árvore. Quatro ouviram as três palavras proferidas pelo Pai logo antes de seu último suspiro. Quatro admiraram como a árvore nodosa, a partir da qual escorria ouro líquido, crescia.\nQuatro testemunharam o primeiro Milagre, mas apenas um podia ver o próprio Milagre. Ele viu sua forma, destino e origem: a trindade divina, a Vontade Suprema.",
+    "ko" : "넷, 이는 뒤틀린 자의 가장 위대한 헌신자를 나타내는 수요. 넷, 이는 최초의 기적을 목격한 자들의 수요. 넷, 이는 우뚝 솟은 나무에 뒤틀린 관절이 뿌리내린 어느 청년 앞에서 기도를 올린 최초의 신자의 수요. 넷, 이는 뒤틀린 자가 마지막 숨을 거두기 직전 내뱉은 세 마디를 들은 사람의 수요. 넷, 이는 뒤엉킨 나무가 어떻게 황금을 흘리며 자랐는지를 경외하며 지켜보던 사람의 수이니.\n넷 모두 최초의 기적을 보았으나 기적을 직접 대면한 자는 오직 한 명뿐이라. 그 한 명은 기적의 모습과 운명, 그리고 기원을, 신성한 삼위일체인 신의 의지를 목도하였음이라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66664a",
+  "name" : {
+    "es" : "Corazón de la Única Nota",
+    "en" : "Heart of the Single Tone",
+    "fr" : "Cœur de la Note unique",
+    "de" : "Herz des Einsamen Klangs",
+    "it" : "Cuore dell'unisono",
+    "zh" : "孤音之心",
+    "ru" : "Сердце единственного звука",
+    "ja" : "単音の心臓",
+    "pt-BR" : "Coração de Única Nota",
+    "ko" : "단조로운 음색의 심장"
+  },
+  "description" : {
+    "es" : "Núcleo de espada, que resuena con un inescrutable timbre. Puede insertarse en Mea Culpa. Hace vibrar su filo, provocando que sus ataques destruyan ciertos proyectiles inmateriales, pero reduciendo las resistencias elementales de su portador.",
+    "en" : "Sword core, which resounds with an inscrutable ringing. Can be inserted into Mea Culpa. Makes its edge vibrate, causing its attacks to destroy certain immaterial projectiles, but reducing the elemental resistances of its wielder.",
+    "fr" : "Un cœur d'épée qui vibre d'un tintement insondable. Peut s'enchâsser dans Mea Culpa. Fait vibrer son fil, ce qui permet aux attaques de détruire certains projectiles immatériels, mais amoindrit les résistances élémentaires de son maître.",
+    "de" : "Schwertkern, der widerhallt von einem rätselhaften Klang. Kann in Mea Culpa eingefügt werden. Bringt die Klinge zum Vibrieren und lässt sie so bestimmte immaterielle Geschosse zerstören. Verringert jedoch auch den elementaren Widerstand des Trägers.",
+    "it" : "Il nucleo di una spada che emette un rumore indecifrabile. Si può inserire nel Mea Culpa. Fa vibrare il filo per fare in modo che gli attacchi possano distruggere determinati proiettili immateriali, riducendo, però, le resistenze elementali di chi lo brandisce.",
+    "zh" : "与神秘之音共鸣的剑芯。可以插入孽刃之中，使孽刃之锋颤动，摧毁某些无形投射物，但会削弱携带者的元素抗性",
+    "ru" : "Сердцевина меча, которая издает загадочный звон. Можно вставить в Mea Culpa. Заставляет лезвие вибрировать и позволяет при ударе уничтожать некоторые нематериальные летящие объекты. Снижает сопротивляемость владельца к воздействию стихий.",
+    "ja" : "不可解な音を鳴り響かせる剣の\n核。懺悔の剣にはめ込むことで\n刃が振動し、実体を持たない遠\n距離攻撃を破壊できるようにな\nる。しかし代償として、属性攻\n撃に対する耐性が弱まってしま\nう。",
+    "pt-BR" : "Núcleo de espada, que reverbera com um timbre insondável. Pode ser inserido na Mea Culpa. Faz o fio vibrar, levando seus ataques a destruírem certos projéteis imateriais, mas reduzindo as resistências elementais do portador.",
+    "ko" : "알 수 없는 소리가 울려 퍼지는 검의 중심부 장식. 메아 쿨파에 장착할 수 있다. 가장자리에 진동을 보내 공격 시 실체가 없는 투사체를 파괴할 수 있는 힘을 부여하는 대신 검을 휘두르는 자의 원소 저항 능력을 크게 줄인다."
+  },
+  "lore" : {
+    "es" : "Miradlos. Mirad como suben por la ceniza ardiente. Mirad como se arrastran como bestias hambrientas. La ceniza se los traga uno por uno insaciablemente. Esa es la fe que el Milagro les provoca. Les hace subir hacia el Trono Girado prometiéndoles una comunión que sucederá pero no de la manera que esperan. Pronto, cuando todos hayan sido tragados, nacerán de nuevo llenos de una fe que ni vos ni yo lograremos nunca entender.",
+    "en" : "Watch them. Watch as they climb up the burning ash. Watch how they crawl like hungry beasts. The ash swallows them one by one, insatiable. Such is the faith that the Miracle stirs in them. It makes them climb towards the Turned Throne by promising them a communion that will, indeed, happen, but not in the way they expect. Soon, when all of them have been swallowed up, they will be reborn, filled with a faith that neither you nor I will ever get to comprehend.",
+    "fr" : "Regardez-les. Regardez-les grimper sur les cendres ardentes. Regardez-les ramper comme des bêtes affamées. La cendre les engloutit les uns après les autres, insatiable. Telle est la foi que leur inspire le Miracle. Elle les fait grimper vers le Trône retourné en leur promettant une communion qui sera bel et bien réelle, mais pas à la manière qu'ils attendaient. Bientôt, lorsqu'ils auront tous été engloutis, ils renaîtront, remplis d'une foi que ni vous ni moi ne pourrons jamais comprendre.",
+    "de" : "Sieh sie dir an. Sieh dir an, wie sie die glühende Asche erklimmen. Wie sie dahinkriechen, hungrigen Bestien gleich. Die Asche verschlingt sie, einen nach dem anderen, unersättlich. Denn das Mirakel hat ihre Seelen aufgewühlt. Es lockt sie, den Abgewandten Thron zu erklimmen, mit dem Versprechen einer Kommunion, die jedoch anders sein wird, als sie es erwarten. Bald, wenn alle verschlungen worden sind, werden sie wiedergeboren, erfüllt von einem Glauben, den niemand je verstehen wird, einschließlich uns.",
+    "it" : "Guardateli. Guardateli scalare la montagna di cenere ardente. Guardateli affannarsi come bestie affamate. La cenere, insaziabile, li inghiottisce uno a uno. Questa è la fede del Miracolo. Li spinge a scalare fino al Trono voltato con la promessa di una comunione che avverrà, ma non nella forma in cui loro si aspettano. Presto, una volta che saranno stati tutti inghiottiti, rinasceranno pervasi da una fede che né voi né io potremo mai comprendere.",
+    "zh" : "看着他们。看着他们爬上燃烧的灰烬。看着他们如何像饥饿的野兽般爬行。灰烬贪婪地将他们一个个吞噬。这就是奇迹传递给他们的信念。信念支撑着他们爬向翻转王座，承诺赐予他们圣餐仪式，圣餐仪式确实会到来，但不是以他们所期待的方式。很快，当所有人都被吞噬之时，他们就将带着你我永远无法理解的信念获得重生",
+    "ru" : "Смотри на них. Смотри, как они карабкаются вверх по горящему пеплу. Смотри, как они ползут подобно диким зверям. Пепел поглощает их одного за другим, ненасытный. Такова вера, которую будит в них Чудо. Она заставляет их ползти к Преображенному Престолу, пообещав единение, которое, конечно же, произойдет, но будет совсем не таким, как им представляется. Скоро, когда поглотит пепел каждого из них, переродятся они и наполнятся верой, которую ни ты, ни я никогда не сможем постичь.",
+    "ja" : "彼らを見よ。燃える灰の山を登りゆく彼らを見\nよ。空腹の獣のごとく、這って進む彼らを見\nよ。灰の山は貪欲に、彼らを一人また一人と飲\nみ込んでいく。これこそが、奇蹟が彼らに与え\nた信仰なのだ。彼らを反転の玉座へと駆り立て\nるのは、その信仰である。しかし彼らを待ち受\nけているのは、予想もできない形での奇蹟との\n交わりだ。間もなく、全員が灰に飲み込まれた\nその時彼らは、人間には理解できない信仰心で\n満たされた存在へと生まれ変わるだろう。",
+    "pt-BR" : "Observe-os. Observe como sobem pelas cinzas ardentes. Observe como se arrastam como bestas famintas. As cinzas os engolem um por um, insaciáveis. Tal é a fé que o Milagre lhes provoca, fazendo-os tentar subir até o Trono Virado, prometendo uma comunhão que acontecerá, mas não da maneira que esperam. Logo, quando todos forem engolidos, eles renascerão, cheios de uma fé que nem eu nem você jamais compreenderemos.",
+    "ko" : "저들을 지켜보라. 저들이 불타는 재 위를 기어오르는 광경을 지켜보라. 굶주린 짐승처럼 기어가는 저들의 모습을 지켜보라. 재는 이들을 하나하나 게걸스럽게 집어삼키리라. 저들의 마음 속을 휘젓는 기적의 믿음이란 그런 것이다. 그 믿음은 이들에게 일어날 리 없는 성찬식을 베풀고 저들을 뒤집힌 옥좌로 인도할 것이다. 허나 저들이 원하는 것은 이루지 못하리라. 곧 모두가 재 안에 삼켜질 때, 저들은 새롭게 태어나리라. 그대와 나 모두 이해할 수 없는 믿음으로 가득 차게 되리라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb66664b",
+  "name" : {
+    "es" : "Corazón del Juglar Sin Nombre",
+    "en" : "Heart of the Unnamed Minstrel",
+    "fr" : "Cœur du Ménestrel anonyme",
+    "de" : "Herz des namenlosen Sängers",
+    "it" : "Cuore del Giullare innominato",
+    "zh" : "无名诗心",
+    "ru" : "Сердце безымянного менестреля",
+    "ja" : "無名の吟遊詩人の心臓",
+    "pt-BR" : "Coração do Trovador Sem Nome",
+    "ko" : "이름없는 음악가의 심장"
+  },
+  "description" : {
+    "es" : "Núcleo de espada, forjado entre baladas de versos prohibidos. Puede insertarse en Mea Culpa. Reduce la duración de la Parada, pero facilita la ejecución de un Riposte Justo.",
+    "en" : "Sword core, forged amidst ballads of forbidden verses. Can be inserted into Mea Culpa. Reduces the duration of the parry, but eases the execution of a Righteous Riposte.",
+    "fr" : "Un cœur d'épée, forgé au milieu des ballades de versets interdits. Peut s'enchâsser dans Mea Culpa. Réduit la durée de la Parade, mais facilite l'exécution d'une Riposte.",
+    "de" : "Schwertkern, geschmiedet inmitten von Balladen voller verbotener Verse. Kann in Mea Culpa eingefügt werden. Reduziert die Dauer des Anhaltens, erleichtert aber die Ausführung des Gerechten Konters.",
+    "it" : "Il nucleo di una spada forgiato al suono di versetti proibiti. Si può inserire nel Mea Culpa. Riduce la durata della parata, ma favorisce l'esecuzione di una Risposta proba.",
+    "zh" : "在禁忌之诗中锻造出的剑芯。可以插入孽刃之中。减少阻滞的持续时间，但削弱了正义天罚的处决威力",
+    "ru" : "Эта сердцевина меча выкована под исполнение баллад на запретные стихи. Можно вставить в Mea Culpa. Снижает время удержания блока, но облегчает выполнение праведного парирования.",
+    "ja" : "禁じられた詩が歌われる傍らで\n作られた剣の核。懺悔の剣には\nめ込むことができる。パリィの\n持続時間が短くなるが、正義に\nよる反撃がより簡単にできるよ\nうになる。",
+    "pt-BR" : "Núcleo de espada, forjado em meio à baladas de versos proibidos. Pode ser inserido na Mea Culpa. Reduz a duração do Bloqueio Parado, mas facilita a execução do Contra-ataque Justo.",
+    "ko" : "금지된 노래 사이에서 만들어진 검의 중심부 장식. 메아 쿨파에 장착할 수 있다. 쳐내기의 지속 시간이 줄어드는 대신 지당한 응보를 쉽게 사용할 수 있다."
+  },
+  "lore" : {
+    "es" : "“Cántame, cantaor, que con tu cante se calmará mi dolor.” Aquellas eran las palabras escritas en la lápida. Ahí yacía el que rezaba cantando, creador de versos que un día llegaron a los corazones equivocados. Y aunque ya no oigamos más su voz ni tenga a nadie que le llame al nombre, su cante siempre permanecerá con nosotros. ",
+    "en" : "\"Sing for me, cantaor, and may your song relieve my pain.\" Those were the words written on the tombstone. There lay the one who prayed by singing, creator of verses that one fateful day reached the wrong hearts. And even if we no longer hear his voice, and no one calls his name, his singing will remain with us forever. ",
+    "fr" : "«Chante pour moi, Cantor, et puisse ton chant soulager ma douleur.» Voici les mots qu'on avait gravés sur la pierre tombale. Là gisait celui qui priait en chantant, créateur de couplets qui, par un triste jour, émurent les mauvais cœurs. Et même si nous n'entendons plus sa voix, et si nul n'appelle plus son nom, son chant nous accompagnera à jamais. ",
+    "de" : "„Sing für mich, Cantaor, und möge dein Gesang meinen Schmerz lindern.“ So lauteten die Worte auf dem Grabstein. Dort lag der Mann, der betete, indem er sang, Schöpfer jener Verse, die eines Tages die falschen Herzen erreichte. Und auch, wenn wir seine Stimme nicht länger hören, und niemand mehr seinen Namen ruft, bleibt sein Gesang auf ewig bei uns.“ ",
+    "it" : "\"Canta per me, oh menestrello, allevia il mio dolore con il tuo canto.\" Erano queste le parole scritte sulla lapide. Lì giaceva colui che pregava cantando, il creatore dei versi che un giorno giunsero ai cuori sbagliati. E, malgrado non possiamo più sentire la sua voce e nessuno lo chiami più per nome, il suo canto rimarrà sempre con noi. ",
+    "zh" : "墓碑上写着：「歌者，为我而唱吧，愿你的歌声能为我减轻痛楚。」那里埋葬着用歌声祈祷的诗人，命定之日，他的诗歌惊扰了邪恶的心灵。就算我们再也听不到他的声音，遗忘了他的名字，他的歌声永存世间 ",
+    "ru" : "«Пой мне, певец, и пусть песнь твоя облегчит боль мою». Эти слова были написаны на могильном камне. Здесь лежит тот, кто молился, распевая песни, автор стихов, которые в один роковой день достигли не тех ушей и не тех сердец. И пусть мы больше не услышим голос его и никто не назовет имени его, но пение его останется с нами навсегда. ",
+    "ja" : "「詩人よ、私の痛みを癒すため、歌を奏でてく\nださい」墓石には、このように刻まれていた。\nその墓には歌を持って祈りを捧げた者、そして\nあの運命の日、間違った者の心に届いてしまっ\nたその詩を奏でた者が眠っている。彼の声が聞\nこえなくとも、そして彼の名前を呼ばずとも、\n彼の歌声は私たちの中で永遠に生き続けるだろ\nう。",
+    "pt-BR" : "\"Cante para mim, trovador, e permita que sua canção alivie minha dor.\" Aquelas eram as palavras escritas na lápide. Ali jazia aquele que rezava cantando, criador de versos que um dia chegaram a corações equivocados. E ainda que não ouçamos mais sua voz e ninguém chame seu nome, seu canto para sempre permanecerá em nós. ",
+    "ko" : "칸타오르, 날 위해 노래해주오. 그 노래로 내 고통을 덜어 주오. 묘비에 남겨진 글귀였다. 이 무덤은 그 어느 운명의 날 잘못된 심장에 도달한 노래를 만든, 노래로 기도하던 어느 음악가가 잠든 곳이다. 우리가 그 목소리를 더 이상 듣지 못하고 그 이름을 부르는 이가 없다 하여도 그 노래는 영원히 우리 곁에 함께 있을 것이다."
+  }
+} ]

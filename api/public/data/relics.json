@@ -1,0 +1,267 @@
+[ {
+  "id" : "62e7fd13ef4a6a5cfb6666ad",
+  "name" : {
+    "es" : "Sangre Perpetuada en Arena",
+    "en" : "Blood Perpetuated in Sand",
+    "fr" : "Sang perpétué dans le sable",
+    "de" : "Auf ewig in Sand konserviertes Blut",
+    "it" : "Sangue perpetuato nella Sabbia",
+    "zh" : "恒沙血",
+    "ru" : "Кровь, увековеченная в песке",
+    "ja" : "永遠の砂血",
+    "pt-BR" : "Sangue Perpetuado na Areia",
+    "ko" : "모래에 스며든 피"
+  },
+  "description" : {
+    "es" : "Sangre conservada con maravillosas propiedades. Al paso de quien la lleva se revelan apoyos antes invisibles a sus ojos.\nEl Milagro es en verdad insondable, y nadie conoce el origen de la sangre que se arremolina a los pies del portador. ",
+    "en" : "Preserved blood with miraculous properties. With the passage of its bearer, new ledges are revealed, formerly invisible to the beholder's eyes.\nThe Miracle is truly unfathomable, and no one knows the origin of the blood that swirls around the wearer's feet.",
+    "fr" : "Du sang préservé aux propriétés miraculeuses. Avec le trépas de son porteur, de nouvelles corniches sont révélées, auparavant invisibles.\nLe Miracle est véritablement indicible, et nul ne connaît l'origine du sang qui bouillonne autour des pieds de son porteur.",
+    "de" : "Konserviertes Blut mit wundersamen Eigenschaften. Für den Träger werden neue Vorsprünge sichtbar, die dem Auge zuvor verborgen blieben.\nDas Mirakel ist wahrhaft unergründlich, und niemand kennt den Ursprung des Blutes, das um die Füße des Trägers strudelt.",
+    "it" : "Sangue conservato dalle proprietà miracolose. Tenendolo con sé, rivelerà al suo portatore sporgenze prima invisibili.\nIl Miracolo è davvero imperscrutabile e nessuno conosce l'origine del sangue che avvolge i piedi del portatore.",
+    "zh" : "这些被封存的血液颇为神奇，随着持有者走的路越来越多，血液会出现新的分层，而在此之前无人可以看见。\n奇迹可谓高深莫测，持有者脚下会出现血液漩涡，谁也不知道这些血出自何处。",
+    "ru" : "Сохраненная кровь с чудесными свойствами. Ее владелец при ходьбе видит новые пути, ранее скрытые от его взора.\nЧудо поистине необъяснимо, и никому неведомо происхождение этой крови, которая водоворотом крутится вокруг ног обладателя.",
+    "ja" : "奇蹟的な力を秘めた血。この聖\n遺物を手にした者は不可視の足\n場が視認できるようになり、足\n場が実体をもってその姿を現\nす。\n奇蹟とは深遠なるものにして、\n人間が理解できるものではな\nい。持ち主の足の周りを渦巻く\nこの血に関しても、その起源を\n知る者はいない。",
+    "pt-BR" : "Sangue preservado com propriedades milagrosas. Com a passagem do portador, novas plataformas antes invisíveis aos olhos se revelam.\nO Milagre é mesmo incomensurável, e ninguém sabe a origem do sangue que gira ao redor dos pés do usuário.",
+    "ko" : "기적의 성질을 지닌 채 스며든 피. 소유자에게 이전에는 보이지 않았던 새로운 다리를 보여준다.\n기적은 말 그대로 헤아릴 수 없는 존재이다. 소유자의 발 주변을 맴돌며 휘몰아치는 피가 어디서 온 것인지는 아무도 모른다."
+  },
+  "lore" : {
+    "es" : "\"Toma esta bolsa y llénala de arena. Ahora impregna la sangre que está derramándoseme por estas terribles heridas en ella y así se teñirá granate. Con ella podrás indicar el camino por estas secas tierras a los que vienen detrás. Ahora déjame solo, quiero rezar mis oraciones porque pronto me entregaré a la savia seca de las raíces que abrazan con dolor a nuestro Padre...\"",
+    "en" : "\"Take this bag and fill it with sand. Now imbue it with the blood spilling from these dreadful wounds, so it will turn crimson red. With it you will show the way through these dry lands to those who are yet to follow. Leave me, now. I want to say my prayers, for I will soon be joining the dry sap of these roots that painfully embrace Our Father...\"",
+    "fr" : "«Prenez cette bourse, et emplissez-la de sable. Puis recueillez-y le sang de ces terribles blessures, afin qu'il teinte les grains d'écarlate. Ainsi, vous trouverez dans ces terres arides le chemin que vous devez suivre. Laissez-moi, céans. J'aimerais dire mes prières, car bientôt, je rejoindrai la sève sèche de ces arbres qui étreignent douloureusement notre Père...»",
+    "de" : "„Nehmt diesen Beutel und füllt ihn mit Sand. Durchfeuchtet ihn mit dem Blut, das aus diesen schrecklichen Wunden strömt, und er wird sich rot färben. Mit ihm könnt Ihr jenen den Weg durch dieses verdorrte Land weisen, die noch kommen werden. Verlasst mich nun. Ich will meine Gebete sprechen, bevor ich mich mit dem trockenen Saft verbinde, dessen Wurzeln unseren Vater schmerzhaft umarmen ...“",
+    "it" : "\"Prendi questa bisaccia e riempila di sabbia. Ora impregnala del sangue che sgorga da queste terribili ferite finché non si tinge di rosso cremisi. Se la porti con te, potrai mostrare la via attraverso queste lande desolate a chi verrà dopo di te. Ora vattene. Desidero pregare, perché presto mi unirò alla linfa secca di queste radici che abbracciano con dolore il Padre Nostro...\"",
+    "zh" : "「将此包注满沙土，再将伤口溢出的鲜血注入其中，如此一来便会赤红如血。有了此物，尔等便可以向信众示明道路，走出这干涸之地。尔等速速远离，我要念诵祷文，圣父眠于此地，而我将化作沙土，拥抱圣父…」",
+    "ru" : "«Возьми эту суму и наполни ее песком. Пропитай его кровью, что течет из ужасных ран сих, дабы побагровел он. И узришь ты путь через сухие земли сии к тем путям, что еще ждут тебя. А теперь оставь меня. Я хочу произнести свои молитвы, ибо скоро стану я, как сухой сок тех корней, что болезненно объяли Отца нашего».",
+    "ja" : "「この袋を手に取り、砂で満たしなさい。そこ\nに、この恐ろしい傷から流れる血を注ぎ、砂を\n深紅に染めなさい。この乾き切った大地を進む\nための道筋を、導きを求める者たちに示しなさ\nい。さあ、ここから去るのです。私は祈りを捧\nげなくてはなりません。私はもうすぐ、父なる\n神を痛ましく抱擁する、根の樹液の一部となる\nのですから……」",
+    "pt-BR" : "\"Pegue este saco e encha-o de areia. Agora banhe-o com o sangue que jorra dessas feridas horríveis, para que fique com um tom carmesim. Com isso, você mostrará o caminho por estas terras áridas àqueles que ainda o seguirão. Agora, me deixe. Quero fazer minha prece, pois logo estarei junto da seiva seca dessas raízes, que abraçam dolorosamente nosso Pai...\"",
+    "ko" : "이 가방을 가져가 모래로 가득 채우라. 이제 끔찍한 상처에서 흐르는 이 피를 모래에 스며들게 하라, 그러면 그 모래가 붉게 변할지니. 이 모래가 아직 따라오지 못한 이들에게 이 메마른 대지를 지나갈 길을 보여줄 것이니라. 그만 떠나거라. 우리 신을 감싸는 이 뿌리 속 마른 수액과 하나되기 전에 마지막 기도를 올리고 싶으니 말이다..."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb6666ae",
+  "name" : {
+    "es" : "Mano Incorrupta del Maestro Fraterno",
+    "en" : "Incorrupt Hand of the Fraternal Master",
+    "fr" : "Main préservée du Maître fraternel",
+    "de" : "Unverwesliche Hand des Brüderlichen Meisters",
+    "it" : "Mano incorrotta del Maestro Fraterno",
+    "zh" : "慈主的不朽手",
+    "ru" : "Нетленная рука магистра братства",
+    "ja" : "導師の清廉なる御手",
+    "pt-BR" : "Mão Intacta do Mestre Fraterno",
+    "ko" : "형제단장의 타락하지 않은 손"
+  },
+  "description" : {
+    "es" : "Reliquia sagrada, en perfecto estado de conservación. La mano se agita suavemente cuando considera necesario, secretamente articulada por músculos y tendones etéreos. La campanilla que sujeta avisa al portador de la presencia cercanada de un misterio.\nAl fin y al cabo, no hay bastión alguna a salvo de la tenacidad de los verdaderos curiosos.",
+    "en" : "Sacred relic, in a perfect state of conservation. The hand shakes gently when it considers it necessary, secretly articulated by ethereal muscles and tendons. The bell that it's holding warns the wearer of the nearby presence of a mystery.\nAfter all, no bastion is safe from the tenacity of the truly curious.",
+    "fr" : "Une relique sacrée, en parfait état de conservation. La main tremble légèrement lorsqu'elle le trouve nécessaire, secrètement articulée par des muscles et tendons éthérés. La cloche qu'elle tient prévient son porteur de la proximité d'un mystère.\nAprès tout, nul bastion n'est à l'abri de la ténacité des vrais curieux.",
+    "de" : "Geheiligte Reliquie in perfektem Konservierungszustand. Die Hand winkt sanft, wenn sie es für nötig erachtet, bewegt von ätherischen Muskeln und Sehnen. Die Glocke, die sie hält, warnt den Träger vor der Gegenwart eines Mysteriums.\nLetztlich ist keine Bastion sicher vor der Hartnäckigkeit der wahrlich Wissbegierigen.",
+    "it" : "Sacra reliquia, perfettamente conservata. La mano freme lievemente quando lo reputa necessario, segretamente articolata da muscoli e tendini eterei. La campana che tiene stretta avvertirà il portatore della presenza di un mistero nelle vicinanze.\nDopo tutto, nessun bastione è al sicuro dalla tenacia dei veri curiosi.",
+    "zh" : "这件圣物保存完好，有灵虚肌腱联结，必要时它会轻轻摇动。持有者附近有异常时，手中的响铃就会发出警告。\n毕竟好奇心一上来，什么岔子都有可能出",
+    "ru" : "Священная реликвия в отличном состоянии. Рука иногда легко трясется, когда сочтет это нужным, тайно приводимая в движение эфирными мускулами и сухожилиями. Колокольчик, который она держит, предупреждает обладателя о близости тайны.\nВ конце концов, ни один бастион не устоит перед настойчивостью истинно любопытных.",
+    "ja" : "完璧な保存状態の聖遺物。この\n御手が必要だと感じた時、不滅\nの筋肉と腱とが連動して微かに\n振動を始める。周囲に神秘を感\nじ取ると、手にしたベルが鳴り\n響いて持ち主にその存在を知ら\nせる。\n結局のところ、城壁は好奇心と\nいう危険を抑え込むことはでき\nないのだ。",
+    "pt-BR" : "Relíquia sagrada em um perfeito estado de conservação. A mão sacode de leve quando considera necessário, articulada secretamente por músculos e tendões etéreos. O sino que ela segura avisa o usuário da presença próxima de um mistério.\nAfinal, nenhuma fortaleza está segura contra a tenacidade do verdadeiro curioso.",
+    "ko" : "완벽한 상태로 보존된 신성한 유물. 필요한 때가 찾아오면 손의 미세한 근육과 힘줄이 움직여 부드럽게 흔들린다. 손에 들린 종이 착용자에게 신비로운 존재가 있음을 알린다.\n결국, 어떤 요새라 해도 진정한 호기심이라는 이름의 끈으로부터 안전한 곳은 없는 법이다."
+  },
+  "lore" : {
+    "es" : "\"... Cuando se oyó el espantoso temblor de tierra supieron que algo grave había pasado. Bajaron en busca de su maestro a la parte inferior de la caverna cuando encontraron una gran nube de polvo que se extendía más y más y les impedía el paso y aunque gritaron el nombre del maestro, no hubo respuesta. Pasaron días hasta que la nube se despejó y pudieron ver los efectos terribles del derrumbe sintiéndose desesperanzados, pero de repente, entre lágrimas, oyeron un sonido lejano, el sonido de un cascabel entre las enormes rocas caídas. Comenzaron a seguir aquel sonido y a levantar rocas hasta que encontraron el cuerpo aplastado y descomponiéndose desde hacía días del maestro, pero no su mano, la cual tenía un pequeño cascabel amarrado en el dedo y permanecía milagrosamente intacta...\"",
+    "en" : "\"... As soon as the atrocious earth tremor was heard, they knew something dreadful had happened. They searched for their master in the deepest parts of the cave, where they were met with a gigantic dust cloud that extended far beyond their eyes, and even though they called the name of their master, there were no answers. Days went by until the cloud cleared and they could face the devastating consequences of the landslide, feeling hopeless, but suddenly, amidst their tears, they heard a faraway sound.\"",
+    "fr" : "«... Dès que l'on entendit l'atroce sursaut de la terre, ils surent qu'un drame s'était joué. Ils cherchèrent leur maître au plus profond de la caverne, où ils trouvèrent un grand nuage de sable qui s'étendait bien au-delà de leurs regards, et malgré leurs suppliques à leur maître, ils ne reçurent nulle réponse. Plusieurs jours s'écoulèrent avant que le nuage ne se dissipe et ne révèle à leurs yeux les conséquences dévastatrices du glissement de terrain. Désespérés, au milieu de leurs sanglots, ils entendirent bientôt un son lointain. Le tintement d'une cloche parmi les gravats. Ils suivirent le son pour enfin découvrir la dépouille disloquée du maître. Pourtant, sa main était restée miraculeusement intacte et une petite clochette était suspendue à son doigt.»",
+    "de" : "„... Sobald sie das schreckliche Beben der Erde spürten, wussten sie, dass etwas Schreckliches geschehen war. Sie suchten in den Tiefen der Höhle nach ihrem Meister, wo sie auf eine gigantische Staubwolke stießen, die sich unermesslich weit ausdehnte. Obwohl sie den Namen ihres Meisters riefen, erhielten sie keine Antwort. Es vergingen Tage, bevor der Staub sich legte und die verheerenden Folgen des Erdrutsches offenbar wurden. Hoffnungslosigkeit überkam sie, aber während sie weinten, hörten sie plötzlich ein entferntes Geräusch. Es war der Klang einer Glocke, der aus den Trümmern erschallte. Sie folgten dem Klang, bis sie den zerschmetterten und verwesenden Körper des Meisters fanden. Allein seine Hand war mysteriöserweise intakt, ein Glöckchen war an seinen Finger gebunden.“",
+    "it" : "\"Non appena si udì l'atroce tremore della terra, capirono che era successo qualcosa di terribile. Cercarono ovunque il loro maestro negli anfratti più remoti della grotta, dove s'imbatterono in una gigantesca nube di polvere che si estendeva sempre più. Sebbene chiamassero il nome del maestro, non ricevettero risposta. Passarono i giorni finché la nube si diradò, così da mostrare le devastanti conseguenze della frana. Erano senza speranze quando, all'improvviso, fra le tante lacrime, sentirono un suono distante, il tintinnio di una campana tra le rocce cadute. Cominciarono a seguirlo finché non trovarono il corpo del maestro, schiacciato e in decomposizione, fatta eccezione per la sua mano: aveva una campanella legata al dito ed era rimasta misteriosamente intatta.\"",
+    "zh" : "「…他们听到天崩地裂的声音时，便意识到情况不妙。于是他们深入洞中寻找圣主，在洞中，大团的尘雾让他们看不清前路，虽然他们呼喊圣主的尊名，但并没有得到回应。时间一天天过去了，尘雾也随之散去，他们得以目睹大地的崩坏，但是当他们无助地哭泣时，突然听到了远出传来了一阵声响。那是落在岩石间的铃声。他们跟着声音走，直到找到了圣主破碎而腐烂的尸体。然而，他的手却神秘地完好无损，手指上还绑着一个小铃铛。」",
+    "ru" : "«... Едва заслышав жуткий грохот земной, поняли они, что случилось нечто ужасное. Они искали своего учителя в самых отдаленных уголках пещеры и нашли огромное облако пыли, простиравшееся покуда видит глаз, но даже тогда не откликнулся учитель на их крики. Прошло несколько дней, пока облако опустилось и увидели они разрушительные последствия оползня. Они уже потеряли надежду и пролили слезы, как вдруг услышали вдалеке какой-то звук. То звон колокольчика разносился среди упавших камней. Они пошли на звук и обнаружили изломанное и разлагающееся тело учителя. Рука его, однако ж, таинственным образом уцелела, а колокольчик был примотан к пальцу».",
+    "ja" : "「……周囲に鳴り渡る、世にも恐ろしい地響き\nを耳にした彼らは、最悪の事態が発生したと\n悟った。導師を探すため、洞窟の最深部に向か\nう彼ら。しかし彼らの視界は巨大な土煙で遮ら\nれてしまい、捜索作業は困難を極めた。導師の\n名を叫ぶ彼らだったが、返答の声が聞こえるこ\nとはなかった。こうして数日が経過し、土煙も\nついに消えた。彼らの目の前には、地滑りによ\nる壊滅的な惨状が広がっており、希望がないよ\nうに思えた。しかし突然、涙を流す彼らの耳に\n聞こえてきたのは、遠くから彼らを呼ぶ声だっ\nた」",
+    "pt-BR" : "\"... Quando se ouviu o espantoso tremor da terra, souberam que algo grave havia acontecido. Saíram em busca de seu mestre nas partes mais profundas da caverna, onde encontraram uma nuvem de poeira gigante que se estendia muito além de seus olhos, e embora gritassem o nome de seu mestre, não houve resposta. Passarem-se dias até que a nuvem se dispersasse e eles pudessem ver os efeitos terríveis do deslizamento. Sentiram-se desesperançados, mas de repente, entre as lágrimas, ouviram um barulho distante. Era o som de uma sineta entre as enormes rochas caídas. Começaram a seguir aquele som e a levantar pedras, até que encontraram o corpo esmagado e em decomposição de seu mestre. Mas sua mão permanecia milagrosamente intacta, e tinha uma pequena sineta amarrada ao dedo.\"",
+    "ko" : "...대지가 떨리는 끔찍한 소리가 들리자, 이들은 무서운 일이 일어날 것을 알았다. 동굴 깊은 곳에서 단장을 찾아 헤매던 이들은 시야 너머 멀리 펼쳐진 거대한 먼지 구름과 마주쳤다. 단장의 이름을 외쳤지만 대답은 들리지 않았다. 며칠이 지나 구름이 걷히고 산사태가 일으킨 파괴의 참상을 직면하며 절망을 느끼던 이들은 눈물을 흘리던 중 먼 곳에서 울리는 어떤 소리를 들었다..."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb6666af",
+  "name" : {
+    "es" : "Uña arrancada del barro",
+    "en" : "Nail Uprooted from Dirt",
+    "fr" : "Ongle déterré",
+    "de" : "Ausgerissener Nagel aus dem Schmutz",
+    "it" : "Unghia strappata dalla Terra",
+    "zh" : "破土圣指",
+    "ru" : "Ноготь, выковырянный из грязи",
+    "ja" : "泥剥ぎの爪",
+    "pt-BR" : "Unha Escavada da Lama",
+    "ko" : "흙에서 뿌리째 뽑은 손톱"
+  },
+  "description" : {
+    "es" : "Resto incorrupto del Gran Peregrino, fundador de la orden y consuelo de sus seguidores. Sus pies no se detuvieron jamás, llevándolo siempre hacia delante en su misterioso vagar por Cvstodia. El portador de esta reliquia recibe su determinación, y camina sin problema por ciénagas y pantanos enfangados. ",
+    "en" : "Incorrupt remains of the Great Pilgrim, founder of the order and comfort to his followers. His feet never stopped, always taking him forward in his mysterious wandering through Cvstodia. The bearer of this relic receives his determination, and walks effortlessly through swamps and muddy marshlands. ",
+    "fr" : "Le vestige préservé du Grand Pèlerin, fondateur de l'ordre et réconfort pour ses adeptes. Ses pieds ne trouvèrent jamais le repos, pour toujours l'amener plus loin dans ses mystérieuses errances dans Cvstodia. Le porteur de cette relique partage cette détermination, et marche sans efforts dans les marais et marécages. ",
+    "de" : "Unverwesliche Überreste des Großen Pilgers, Gründer des Ordens und Trost seiner Nachfolger. Seine Füße trugen ihn ohne Pause auf seinen mysteriösen Wanderungen durch Cvstodia. Der Träger dieser Reliquie empfängt seine Entschlossenheit und durchquert mühelos Sümpfe und Marschlande. ",
+    "it" : "Reliquia incorrotta del Gran Pellegrino, fondatore dell'Ordine e fonte di conforto per i suoi seguaci. I suoi piedi mai si fermarono, facendogli sempre scoprire posti nuovi nel suo peregrinare in Cvstodia. Il portatore di questa reliquia riceverà la sua determinazione e attraverserà paludi e zone fangose senza difficoltà. ",
+    "zh" : "途至师是教团的创立者，会给信徒心灵上的慰藉，而这便是他纯净的遗物。他在古斯托迪亚四处云游探秘，绝不会停下脚步。携带此圣物者会获得他的坚韧意志，穿越沼泽如履平地 ",
+    "ru" : "Нетленные останки Великого Паломника, основателя ордена и примера всем его последователям. Его ноги не знали покоя и всегда несли его по таинственным тропам через Кастодию. Хранитель этой реликвии обретет его решительность и сможет без усилий ходить по топям и трясинам. ",
+    "ja" : "教団の創始者であり信奉者に安\n心を与える、偉大なる巡礼者の\n聖遺物。彼の足がその歩みを止\nめることはなく、クヴストディ\nア全土を巡礼して回ったとい\nう。この聖遺物には彼の強い決\n意が封じ込められており、沼で\nあれ湿地であれ、持ち主は楽々\nと歩み続けることができる。",
+    "pt-BR" : "Restos intactos do Grande Peregrino, fundador da ordem e o conforto de seus seguidores. Os pés dele nunca tiveram descanso, sempre o levando adiante em sua caminhada misteriosa por Cvstodia. O portador dessa relíquia recebe a determinação dele, e caminha sem dificuldades por pântanos e lamaçais. ",
+    "ko" : "교단의 창시자이자 많은 추종자에게 안식을 준 위대한 순례자의 타락하지 않은 유물. 그 발은 목숨이 다할 때까지 멈추지 않고 신비로운 방황과 함께 쿠스토디아를 가로질러 나아갔다. 이 유물을 지닌 자는 순례자의 의지를 이어받아 힘들이지 않고 늪과 습지대를 거닐 수 있다."
+  },
+  "lore" : {
+    "es" : "“... Y aquella uña fue la que se arrancó el Mártir Nicanor cuando fue enterrado vivo entre espasmos de dolor tras su cruel tortura delante de sus seguidores que lloraban en silencio. La uña apenas visible entre la tierra recién removida fue recogida por el último seguidor que quedó lamentando tan hórrido acontecimiento cuando todos los demás se marcharon y cuyo nombre se desconoce, éste la envolvió en un trozo de tela arrancado de sus propias ropas y aquella misma noche marchó a la propia iglesia cuya congregación fue la misma que había denunciado a Nicanor por hereje, la escondió entre sus ladrillos interiores y se marchó...” ",
+    "en" : "\"... And that fingernail was the one that Martyr Nicanor ripped from himself when he was buried alive between spasms of pain after a cruel torture in front of his followers who cried in silence. The fingernail barely visible among the removed dirt was picked up by the last follower, who was lamenting such a horrid event when all the others left and whose name is unknown. He wrapped it using a piece of cloth torn from his own clothes, and that same night, he went to the church whose congregation was the same one that had denounced Nicanor as a heretic, hid the fingernail among its inner bricks, and left...\"",
+    "fr" : "«... Et cet ongle est celui que le martyr Nicanor s'arracha lorsqu'on l'enterra vivant, entre deux spasmes d'agonie après la cruelle torture subie devant ses adeptes, agités de sanglots silencieux. L'ongle, à peine visible dans la terre remuée, fut ramassé par son dernier adepte, anonyme, qui déplorait cet événement atroce après le départ de tous les autres. Il l'enveloppa dans un morceau de coton arraché à sa tenue, et la même nuit, il entra dans l'église dont la congrégation même avait proclamé Nicanor hérétique, pour cacher l'ongle derrière ses briques avant de partir à jamais...»",
+    "de" : "„... Und dies ist der Fingernagel, den der Märtyrer Nicanor sich ausriss, als er nach grausamster Folter vor den Augen seiner stumm weinenden Anhänger lebendig begraben wurde. Der Nagel, der im Schmutz kaum zu erkennen war, wurde vom letzten der Anhänger aufgehoben. Er war geblieben, um das schreckliche Ereignis zu beklagen, nachdem alle anderen schon fort waren. Er riss ein Stück Stoff aus seinem Gewand und wickelte den Nagel darin ein. In derselben Nacht ging er zu der Kirche, deren Bruderschaft Nicanor der Häresie beschuldigt hatte, versteckte den Fingernagel zwischen den Ziegeln der Mauer und verschwand ...“",
+    "it" : "... E quella era l'unghia che Nicanor il Martire si strappò quando venne sepolto vivo fra spasmi di dolore dopo una tortura crudele al cospetto dei suoi seguaci che piangevano in silenzio. L'unghia, a mala pena visibile fra la terra rimossa, fu raccolta dall'ultimo dei seguaci, che andava lamentandosi del tragico evento quando tutti gli altri se ne andarono; il suo nome rimane ignoto. L'avvolse in un pezzetto di stoffa strappata dai suoi abiti e, quella stessa notte, entrò nella chiesa della congregazione che aveva condannato Nicanor come eretico, nascose l'unghia fra i mattoni delle pareti e se ne andò...",
+    "zh" : "「…殉道士尼坎诺惨遭酷刑，而他的信徒们则眼睁睁地看着，不敢作声，行刑之后，他又被活埋，而这枚指甲则是他在活埋之前扯下来的。尘封之下，这枚指甲不太容易看到，其他信徒都四散离去，而一位信徒却在悼念这一惨案时拾取了这枚指甲，他可谓是最后的一名信徒，而他的名字则无人能知。他从自己的衣服上扯下一块布将指甲包了起来，是夜，他来到了教堂，而正是这所教堂的圣会将尼坎诺判作异端，他将指甲藏入了教堂的暗砖之中，然后深藏身与名…」",
+    "ru" : "«... И лишь этот ноготь оторвал от себя мученик Никанор, когда заживо погребли его, содрогающегося от боли после ужасной пытки на глазах его последователей, безмолвно рыдавших. Ноготь, едва видный в грязи, подобрал его последний ученик, который все еще оплакивал ужасное событие, когда все остальные покинули его. Имя его неизвестно. Он обернул его тряпицей, оторванной от собственных одеяний, и в ту же ночь пошел в церковь из той же конгрегации, что объявила Никанора еретиком. Там он спрятал ноготь между двумя камнями и ушел...»",
+    "ja" : "「……かの指爪は、マルティル・ニカノール自\nらが剥ぎ取ったものである。黙って涙を流す信\n奉者の目前で残酷な拷問を受け、地中に生き埋\nめにされた彼が、拷問の痛みに耐えつつ爪を剥\nいだのだ。恐ろしい現場を目の当たりにし、嘆\nき悲しむ信奉者たちがその場を後にしていく中\nで、その爪を土の中に見つけたのは最後に残っ\nた信奉者であった。彼の名前はわかっていな\nい。彼は自身の服の一部を破り、その布で指爪\nを包み込んだ。その日の夜、ニカノールを異端\nだと糾弾した宗派の教会へと足を運んだ彼は、\n指爪を教会内部のレンガの中へ隠し、教会を後\nにしたのだった……」",
+    "pt-BR" : "\"... E foi aquela unha que o mártir Nicanor arrancou de si mesmo ao ser enterrado vivo entre espasmos de dor, após ser torturado cruelmente em frente de seus seguidores, que choraram em silêncio. A unha, quase invisível entre toda a terra removida, foi recolhida pelo último seguidor, que lamentava um evento tão horrendo, quando todos já haviam partido, e cujo nome é desconhecido. Ele a envolveu em um pedaço de pano de suas próprias roupas e, naquela mesma noite, foi até a igreja cuja congregação havia denunciado Nicanor como herege, escondeu a unha nos tijolos e partiu...\"",
+    "ko" : "...그리고 그 손톱은 순교자 니카노르가 숨죽여 흐느끼던 추종자들 앞에서 잔혹한 고문 끝에 고통스러운 떨림과 함께 생매장되기 전 스스로 뜯어낸 것이다. 다른 이들이 이 끔찍한 사건에 탄식하며 자리를 떠난 후, 이름이 알려지지 않은 마지막 추종자가 사라진 흙 사이에 겨우 모습을 드러낸 손톱을 집어 들었다. 자기 옷을 찢어 손톱을 감싼 그 추종자는 같은 날 밤 니카노르를 이단자라 매도한 신도들이 있던 교회로 들어가 안쪽 벽돌 사이에 손톱을 숨긴 후 그 자리를 떠났다..."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb6666b0",
+  "name" : {
+    "es" : "Sudario de los Pecados Soñados",
+    "en" : "Shroud of Dreamt Sins",
+    "fr" : "Linceul des péchés oniriques",
+    "de" : "Leichentuch der Geträumten Sünden",
+    "it" : "Sudario dei Sogni peccaminosi",
+    "zh" : "幻罪布巾",
+    "ru" : "Саван пригрезившихся грехов",
+    "ja" : "幻罪の織布",
+    "pt-BR" : "Sudário dos Sonhos Pecaminosos",
+    "ko" : "꿈결의 죄의 장막"
+  },
+  "description" : {
+    "es" : "Tejido amarillento, testigo de febriles confesiones. Todavía vibra en presencia de almas torturadas, permitiendo escuchar a aquellos que ya no pueden hablar.",
+    "en" : "Yellowish fabric, witness to febrile confessions. It still quivers in the face of tortured souls, allowing one to listen to those who can no longer speak.",
+    "fr" : "Un tissu jaunâtre, témoin de confessions fébriles. Il tremble encore devant les âmes torturées et permet d'écouter ceux qui n'ont plus de voix.",
+    "de" : "Gelbliches Leinen, Zeuge fiebriger Bekenntnisse. In Gegenwart gequälter Seelen erzittert es immer noch; so kann man jenen lauschen, die nicht länger sprechen können.",
+    "it" : "Tessuto giallastro, testimone di confessioni febbrili. Freme ancora in presenza di anime torturate e permette al suo portatore di ascoltare chi non può più proferir parola.",
+    "zh" : "这条泛黄的布巾可以鉴证信徒诚挚的忏悔。若是有灵魂惨遭折磨，它便会震颤抖动，让无言的亡者也能向世人进行倾诉",
+    "ru" : "Желтоватая ткань, ставшая очевидицей множества лихорадочных признаний. Она все еще колышется рядом с измученными душами и позволяет слышать тех, кто больше не может говорить.",
+    "ja" : "熱の懺悔を聞き届けた、黄色い\n布。苦悶する魂を感じ取ると震\nえ出し、命持たぬ者の声に耳を\n傾ける力を持ち主に授ける。",
+    "pt-BR" : "Tecido amarelado, testemunha de confissões febris. Ainda tremula frente às almas torturadas, permitindo que a pessoa escute aqueles que não podem mais falar.",
+    "ko" : "열정적인 고해의 증거인 노란색 직물. 고문당한 영혼 앞에 다가가면 파르르 떨리며, 더 이상 말할 수 없는 자들의 목소리를 들을 수 있게 된다."
+  },
+  "lore" : {
+    "es" : "Febril como estaba, apenas sintió que alguien se había sentado junto él. Una dulce mano pasaba un paño blanco por su frente, un tejido de una extrema suavidad que dejaba pasar la luz a través como si de un fino papel se tratara, secándole el sudor de las fiebres y aliviándose de manera que no pudo evitar quedarse dormido. Cuando el paño estuvo empapado de sudor, la monja se levantó y le entregó el paño a la Madre Superiora diciéndole: \"Con esto podremos confesarle.\"",
+    "en" : "Febrile as he was, he hardly noticed someone had sat down next to him. A gentle hand patted a white cloth on his forehead; it was a fabric of the utmost softness, which allowed light through it as if it were a sheet of paper, and was soaking his feverish sweat and providing such relief that he couldn't help but fall asleep. When the cloth was soaked, the nun got up and handed it to the Mother Superior, adding: \"With this, we'll be able to have his confession.\"",
+    "fr" : "Tout fébrile, il remarqua à peine que quelqu'un s'était assis près de lui. Une main secourable lui tamponna le front d'un tissu blanc; cette étoffe à la douceur incroyable, qui laissait passer la lumière comme une feuille de papier, épongea sa sueur fiévreuse et lui apporta un soulagement tel qu'il s'assoupit. Lorsque le tissu fut détrempé, la sœur se leva et le remit à sa Mère supérieure, en ajoutant: «Avec ceci, nous pourrons obtenir sa confession.»",
+    "de" : "Sein Fieber war so hoch, dass er kaum wahrnahm, wie sich jemand neben ihn setzte. Eine sanfte Hand tupfte ihm die Stirn mit einem weißen Tuch ab, der Stoff war unfassbar weich, das Licht durchdrang es, als wäre es ein Stück Papier. Es sog seinen fiebrigen Schweiß auf und verschaffte ihm so große Linderung, dass er einschlief. Nachdem das Tuch sich vollgesogen hatte, erhob sich die Nonne, übergab es der Mutter Oberin uns sagte: „Damit bekommen wir sein Geständnis.“",
+    "it" : "Febbricitante come era, notò a mala pena che qualcuno si era seduto al suo fianco. Una mano gentile gli passò un panno bianco sulla fronte; il tessuto era più morbido che mai e ci si poteva vedere attraverso, come se fosse un foglio di carta. Lo intrise del sudore febbrile, ma ne trasse un tale sollievo che non poté fare a meno di addormentarsi. Quando il panno era ormai madido, la suora si alzò e lo diede alla Madre Superiora aggiungendo: \"Con questo, potremo avere la sua confessione.\"",
+    "zh" : "「他诚挚至极，几乎没有注意到有人坐在了他的身旁。有人轻轻地将一块白布敷在他的额前，这块布轻柔至极，像纸一样通透，他虔诚狂热，额头上的汗水也被白布吸走，这使他倍感安逸，不禁合眼而眠。白布被浸湿后，修女将其呈予神母，说道：『这就算是他的忏悔了』」",
+    "ru" : "Он бился в лихорадке, и едва ли заметил, что кто-то сел рядом с ним. Нежная рука покрыла лоб его белым платком; мягкая ткань пропускала свет, словно лист бумаги, и впитывала лихорадочный пот. И так облегчились страдания его, что он не смог не уснуть. Когда платок высох, сестра милосердия встала и передала его матери-настоятельнице, сказав ей: «С этим платком мы сможем получить его признание».",
+    "ja" : "「熱に浮かされていた彼は、隣に誰かが腰を下\nろしたことに気が付かなかった。彼の額を覆う\n白い布を、手が優しく叩いた。その布の柔らか\nさは素晴らしく、薄い紙のように光が通り抜け\nるほどであった。布は熱による汗を吸い取り、\n彼はその気持ちよさからつい眠りに落ちてし\nまっていた。布が汗を吸い取り切った時、修道\n女は立ち上がってその布を手に取り、修道院長\nに手渡しながらこう述べた。『これがあれば、\n彼の懺悔は認められるでしょう』」",
+    "pt-BR" : "Febril como estava, mal notou que alguém havia se sentado junto a ele. Uma mão gentil passava um pano branco em sua testa, um tecido extremamente suave que deixava passar a luz como se fosse uma folha de papel, secando o suor da febre e aliviando-o de tal maneira que não pôde evitar dormir. Quando o pano estava encharcado de suor, a freira se levantou e o entregou à Madre Superiora, dizendo: \"Com isto poderemos ter sua confissão.\"",
+    "ko" : "그는 누군가가 자신의 옆에 있었다는 사실을 거의 눈치채지 못했다. 온화한 손이 흰 천으로 이마를 살짝 건드렸다. 매우 부드럽고 종이처럼 빛을 투과하던 그 천은 열과 함께 솟아난 땀을 흡수하고 잠들 수 있도록 안도감을 주었다. 천이 흠뻑 젖자 수녀는 일어나 천을 수녀장에게 건네며 이르기를 \"이것으로 저희는 이 청년의 고해를 받을 수 있을 것입니다.\""
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb6666b1",
+  "name" : {
+    "es" : "Lienzo de Hilo de Oro",
+    "en" : "Linen of Golden Thread",
+    "fr" : "Linge cousu d'or",
+    "de" : "Laken aus Goldenem Garn",
+    "it" : "Lenzuolo con Filo dorato",
+    "zh" : "金丝布",
+    "ru" : "Холст из золотых нитей",
+    "ja" : "金糸の布地",
+    "pt-BR" : "Pano de Fios Dourados",
+    "ko" : "황금실로 짠 리넨"
+  },
+  "description" : {
+    "es" : "Fruto de una rueca que giraba solo en noches de luna llena, este fino hilo fue trenzado para inmortalizar a su prole. Recibido como regalo del primogénito, permite a Penitente descender a insondables abismos.",
+    "en" : "Product of a spinning wheel that only turned on full moon nights, this thin thread was plaited to immortalise its progeny. Bestowed as a gift by the first-born, it allows The Penitent One to descend into bottomless abysses. ",
+    "fr" : "Produit d'un rouet qui ne tournait qu'à la pleine lune, ce fil fin fut tressé pour immortaliser sa progéniture. Offert par le premier-né, il permet au Pénitent de descendre dans des abîmes sans fond. ",
+    "de" : "Produkt eines Spinnrades, das sich nur in Vollmondächten drehte. Das dünne Garn wurde geflochten, um seine Nachkommen unsterblich zu machen. Als Geschenk eines Erstgeborenen erlaubt es dem Büßer, in die tiefsten Abgründe hinabzusteigen. ",
+    "it" : "Tessuto dalla ruota di un telaio che girava solo nelle notti di luna piena, questo filo sottile fu intrecciato per immortalare la sua progenie. Dato in dono dal primogenito, consente al Penitente di discendere negli abissi senza fondo. ",
+    "zh" : "这块纤薄的锦布可谓不朽神物，而织造它的纺机只有在月圆之夜才会转动。元初长子将它作为礼物赐给忏悔者，如此一来忏悔者便可前往无底深渊 ",
+    "ru" : "Этот холст был соткан на станке, который работал только в полнолуние. Его тонкие нити делают обладателя бессмертным. Этот дар перворожденного позволяет Кающемуся спускаться в бездонные пропасти. ",
+    "ja" : "満月の夜にしか動かないという\n糸車で作られた薄い生地。不死\nへの願いを込めて織られてい\nる。初子より授かった贈り物で\nあり、底無き深淵へと降りる能\n力を悔悟者に与える。",
+    "pt-BR" : "Produto de uma roda de fiar que só funcionava em noites de lua cheia, este pano fino era trançado para imortalizar seus descendentes. Concedido como um presente do primogênito, permite que o Penitente desça em abismos sem fim. ",
+    "ko" : "자손을 불멸로 만들기 위해 보름날에만 돌아가는 물레바퀴에서 만들어 얇은 실을 땋은 천. 첫 번째 생명의 선물인 이 물건은 참회자를 끝없는 바닥 아래까지 내려올 수 있게 돕는다."
+  },
+  "lore" : {
+    "es" : "Miembros de La Madre vinieron y se llevaron el cuadro en cuanto les avisé de que estaba terminado. No dijeron nada, solo lo taparon y se lo llevaron. Llevo pintando para La Madre momentos de la vida de los santos toda mi existencia, y este último cuadro fue como si no quisieran que nadie lo viese, ni siquiera me dejaron verlo expuesto a mí, su creador, si es que llegaron siquiera a exponerlo. Fue el último encargo que me hicieron.",
+    "en" : "Members of The Mother came and took the painting away as soon as I told them it was finished. They didn't say a word, they just covered it up and carried it away. I have been painting for The Mother all my life, recreating moments of the lives of the saints, but for this last canvas... it was as if they didn't want anyone laying eyes on it; they did not even let me, its creator, see it on display, if they ever came to display it. It was the last commission they requested from me.",
+    "fr" : "Des membres de la Mère vinrent emporter le tableau dès que je leur annonçai son achèvement. Sans un mot, ils le couvrirent et l'emportèrent. Je peins pour la Mère depuis toujours, afin de recréer des instants de la vie des saints, mais cette dernière toile... on aurait juré qu'ils voulaient la cacher aux yeux de tous ; même moi, son créateur, ne pus la voir exposée, si même on l'exposa. Ce fut la dernière commande qu'ils me firent.",
+    "de" : "Die Mitglieder der Mutter kamen und nahmen das Bild fort, sobald ich ihnen gesagt hatte, dass es vollendet ist. Sie sprachen kein Wort, sie deckten es nur ab und trugen es weg. Ich male schon mein ganzes Leben lang für die Mutter, halte Momente aus dem Leben der Heiligen fest, aber dieses letzte Bild ... Es war, als wollten sie nicht, dass irgendjemand es sieht. Nicht einmal ich, sein Schöpfer, sollte es betrachten dürfen, falls sie überhaupt vorhatten, es je öffentlich zu zeigen. Es war der letzte Auftrag, den ich von ihnen erhielt.",
+    "it" : "Vennero i Seguaci della Madre e portarono via il dipinto appena dissi loro che era completo. Non proferirono parola, si limitarono a coprirlo per poi prenderselo. Ho dipinto per la Madre tutta la mia vita, ricreando momenti della vita dei santi, ma questo ultimo lavoro... era come se volessero che nessuno l'ammirasse mai. Non permisero neppure a me, il suo creatore, di guardarlo, se mai l'avessero esposto. Fu l'ultimo incarico che mi affidarono.",
+    "zh" : "我告诉神母会的成员我画完了，于是他们进来拿走了画作。他们一声不响，包起画就走。我倾尽毕生心血为神母会作画，让神灵能够跃然纸上，但是最后一幅画…神母会似乎不想让任何人看到它，就算是他们将其展出，连我这画家也不能看上一眼。这便是他们委托给我的最后一份差事",
+    "ru" : "Члены ордена Матери пришли и забрали картину, едва я успел рассказать им, что он закончена. Они не сказали ни слова – просто покрыли ее холстиной и унесли. Я рисовал для Матери всю свою жизнь, воссоздавал события из жития святых, но это последнее полотно... Они словно не хотели, чтобы кто-нибудь увидел его. Они не пустили посмотреть на него даже меня, создателя! Они вообще никому не собирались его показывать. Это был последний мой заказ.",
+    "ja" : "絵画が完成したことを伝えると、母なる神の信\n者たちがやって来て、絵画を持って行ってし\nまった。絵に覆いを被せた彼らは、無言で絵を\n運んで行った。私は母なる神のため、来る日も\n来る日も絵を描き続け、聖人たちの人生を表現\nしてきた。しかし彼らの態度はまるで……この\n最後のキャンバスを、誰にも見せたくないよう\nなものだった。作者である私でさえ、飾られて\nいる場を見たことはなく、そもそも飾られてい\nるかも知らない。彼らからの依頼は、この作品\nが最後であった。",
+    "pt-BR" : "Membros da Mãe vieram e levaram a pintura assim que eu disse que ela tinha sido concluída. Não disseram uma palavra, apenas a cobriram e a levaram. Pintei para a Mãe toda a minha vida, momentos das vidas dos santos, mas para essa última tela... era como se eles não quisessem que ninguém olhasse para ela; não deixaram nem a mim, o criador, vê-la em exibição, se é que algum dia a exibiram. Foi o último trabalho que me encomendaram.",
+    "ko" : "그림을 모두 그렸다고 알리자 성모 교단의 신도들이 찾아와 그림을 들고 사라졌다. 이들은 아무 말 없이 그림을 덮은 뒤 그대로 사라졌다. 난 평생 성자들이 겪은 삶의 순간과 성모님을 위해 그림을 그려왔다. 하지만 이 마지막 그림은... 마치 누구도 그 그림을 보는 것을 원치 않는 것처럼 보였다. 심지어 이들은 그림을 그린 내게도 그림이 걸린 모습을 보여주지 않았다. 정말로 그림을 걸 생각이라면 내게는 보여주었을 것이다. 그것이 저들이 내게 마지막으로 의뢰한 것이었다."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb6666b2",
+  "name" : {
+    "es" : "Pulmón Plateado de Dolfos",
+    "en" : "Silvered Lung of Dolphos",
+    "fr" : "Poumon argenté de Dolphos",
+    "de" : "Versilberte Lunge von Dolphos",
+    "it" : "Polmone argentato di Dolphos",
+    "zh" : "多佛斯的镀银肺",
+    "ru" : "Посеребренное легкое Дольфоса",
+    "ja" : "ドルフォスの銀肺",
+    "pt-BR" : "Pulmão Prateado de Dolfos",
+    "ko" : "은을 입힌 돌포스의 허파"
+  },
+  "description" : {
+    "es" : "Órgano preservado en brillante plata, cuajado de filigranas. El cardenal Dolfos fundió sus cucharas en un cazo, buscando salvarse de las envidias con el argénteo caldo. Protege al portador de la venenosa Miasma.",
+    "en" : "Organ preserved in sparkling silver, with plenty of filigrees. Cardinal Dolphos melted his spoons in a pot, looking to escape jealousies with the argentine concoction. Protects the wearer from poisonous Miasma.",
+    "fr" : "Un organe préservé dans un argent étincelant et riche en filigranes. Le cardinal Dolphos fit fondre ses cuillers dans un pot pour échapper aux jalousies avec cette décoction argentine. Il protège son porteur des miasmes empoisonnés.",
+    "de" : "In schimmerndem Silber konserviertes Organ mit kunstvollen Verzierungen. Kardinal Dolphos schmolz seine Silberlöffel in einem Topf, um mit dem silbernen Gebräu Neidern zu entgehen. Schützt den Träger vor giftigen Miasmen.",
+    "it" : "Un organo conservato in argento lucido, con tanta filigrana. Il cardinale Dolphos fuse i suoi cucchiai in un calderone, cercando di sfuggire alle invidie con tale argentea miscela. Protegge il portatore dal Miasma tossico.",
+    "zh" : "这一器官被条条银丝包裹，可谓闪亮夺目。枢机主教多佛斯将他的银匙放入炉中熔炼，意图避免人们对银器的觊觎。携带者可以免遭毒气的影响",
+    "ru" : "Орган был сохранен в сверкающем серебре, что потребовало много филигранной работы. Кардинал Дольфос переплавил свои ложки в котле, когда с помощью серебристого эликсира пытался избавиться от зависти. Защищает обладателя от ядовитых миазмов.",
+    "ja" : "光り輝く銀で保存加工された\n肺。無数の線細工が施されてい\nる。枢機卿ドルフォスは鍋にス\nプーンを入れて溶かし、銀の調\n合薬を作ることで俗世の嫉妬か\nらの逃避を試みた。毒の瘴気か\nら持ち主を守ってくれる。",
+    "pt-BR" : "Órgão preservado em prata brilhante, bastante filigranado. O Cardeal Dolfos derreteu suas colheres em um pote, tentando escapar dos invejosos com a mistura argêntea. Protege o usuário de uma atmosfera venenosa.",
+    "ko" : "번쩍거리는 은으로 뒤덮여 보존된 장기. 은줄 세공이 무수히 새겨져 있다. 돌포스 추기경은 이 은빛 화합물을 향한 한 주변의 시샘에서 도망치기 위해 자신의 은수저를 냄비에 직접 녹였다. 착용자를 독기 어린 공기로부터 보호한다."
+  },
+  "lore" : {
+    "es" : "Confesiones de Dolfos. Parte 3\n\n\nDe qué sirven las togas. De qué sirve el oro de anillos. Solo la pureza de la plata que fue una vez ornamentada posee las gracias del Milagro. La plata no debe ser vista, no debe lucir por fuera del cuerpo, sino por dentro, que embellezca la carne, que acicale la piel. ",
+    "en" : "Confessions from Dolphos. Part 3\n\n\nWhat's the use of gowns. What good is the gold from rings. Only the purity of silver that once was embellished possesses the graces of Miracle. Silver should not be seen, it should not be worn on the outside of the body, but on the inside: let it embellish the flesh, let it adorn the skin.",
+    "fr" : "Confessions de Dolphos. 3re partie\n\n\nÀ quoi bon les robes et l'or des anneaux ? Seule la pureté de l'argent autrefois embelli possède les grâces du Miracle. L'argent ne devrait pas se voir, il ne devrait pas se porter au-dehors du corps, mais seulement en dedans : qu'il rehausse la chair, qu'il orne la peau.",
+    "de" : "Geständnisse des Dolphos. Teil 3\n\n\nWas hat die Kleidung für einen Nutzen? Was nützt uns das Gold eines Rings? Nur die Reinheit des Silbers hat die Gnade des Mirakels. Silber sollte nicht gesehen werden, man sollte es nicht am Körper tragen, sondern in seinem Inneren: Lasst es das Fleisch schmücken und die Haut zieren.",
+    "it" : "Confessioni di Dolphos - Parte 3\n\n\nA cosa servono le toghe? A cosa serve l'oro degli anelli? Solo la purezza dell'argento, un tempo usato come ornamento, vanta la grazia del Miracolo. L'argento non dovrebbe essere visto né indossato fuori, ma dentro: lasciamo che abbellisca la carne, lasciamo che adorni la pelle.",
+    "zh" : "多佛斯忏悔录·第三方\n\n\n法衣有何用，指环中的黄金又有何益？只有精雕的纯洁白银才能获得奇迹的恩赐。白银不可外现于人，不应饰于身外，应存于人身，与皮肉合一",
+    "ru" : "Признания Дольфоса. Часть 3\n\n\nЧто толку от одеяний? Что толку от золота перстней? Лишь некогда доведенная до совершенства чистота серебра обладает благодатью Чуда. Серебро не должно видеть, его должно носить не на теле, но внутри тела: пусть украсит плоть, пусть украсит кожу.",
+    "ja" : "ドルフォスの告白――その 3\n\n\n法服に何の意味があるのか。指輪の金に何の価\n値があるのか。装飾に使われる銀の純粋さこそ\nが、奇蹟の恩寵をその身に宿しているのだ。銀\nは鑑賞するものではない。体の外部に身に付け\nるものでもない。銀は、内部に身に付けるべき\nなのだ。銀よ、我が肉体を、我が皮膚を飾りま\nえ。",
+    "pt-BR" : "Confissões de Dolfos. Parte 3\n\n\nQual é a utilidade das becas. De que adianta o ouro dos anéis. Apenas a pureza da prata que já foi adornada possui a graça do Milagre. A prata não deve ser vista, ela não deve ser usada do lado de fora do corpo, mas do lado de dentro: deixe-a adornar a carne, deixe-a adornar a pele.",
+    "ko" : "돌포스의 고해성사 3부\n\n\n사제복이 무슨 소용인가. 금으로 만든 반지가 다 무슨 소용이란 말인가. 오직 기적의 손길이 닿은 은의 순수함만이 유일한 것이다. 은은 드러내서는 안 되며, 몸 바깥에 입혀서도 안 된다, 은으로 내부를 장식하라. 은으로 육체를 윤택하게 하라. 은으로 피부를 장식하게 하라."
+  }
+}, {
+  "id" : "62e7fd13ef4a6a5cfb6666b3",
+  "name" : {
+    "es" : "Tres Lenguas Nudosas",
+    "en" : "Three Gnarled Tongues",
+    "fr" : "Trois langues nouées",
+    "de" : "Drei Verknotete Zungen",
+    "it" : "Tre Lingue nodose",
+    "zh" : "三结秘舌",
+    "ru" : "Три заскорузлых языка",
+    "ja" : "結合の三舌",
+    "pt-BR" : "Três Línguas Nodosas",
+    "ko" : "셋으로 갈라진 혀"
+  },
+  "description" : {
+    "es" : "Atadas entre sí por un juramento roto, estas lenguas hablan en palabras que sólo los cimientos de Cvstodia pueden escuchar. Sus ruegos despiertan a las raíces durmientes de su letargo, creando pasarelas y superficies escalables para aquellos que las porten.",
+    "en" : "Tied together by a broken oath, these tongues speak words that only the foundations of Cvstodia can hear. Their pleas awaken the sleeping roots from their lethargy, creating footbridges and climbable ledges for their wearers.",
+    "fr" : "Liées par un serment brisé, ces langues prononcent des paroles que seules entendent les fondations de Cvstodia. Leurs suppliques éveillent les racines assoupies de leur léthargie et créent des ponts et des corniches pour qui les porte.",
+    "de" : "Gefesselt aneinander durch einen gebrochenen Eid sprechen diese Zungen Worte, die nur im Untergrund von Cvstodia zu hören sind. Ihr Flehen weckt die schlafenden Wurzeln aus ihrer Lethargie und schafft für ihren Träger Stege und erkletterbare Vorsprünge.",
+    "it" : "Legate insieme da un giuramento infranto, queste lingue proferiscono parole che solo le fondamenta di Cvstodia possono sentire. Le loro suppliche risvegliano dal letargo le radici assopite, creando passerelle e sporgenze scalabili per il portatore.",
+    "zh" : "这些秘舌被破碎之誓联结在一起，只有古斯托迪亚的创立者才能听到它们的言语。它们的言语可以唤醒沉睡的根须，为携带者设路搭桥",
+    "ru" : "Эти языки, связанные некогда нарушенной клятвой, произносят слова, которые слышит лишь само основание Кастодии. Их мольбы пробуждают дремлющие корни ото сна, и прорастают они мостами и лестницами для их владельца.",
+    "ja" : "誓いを破ったことにより一つと\n化した三枚の舌。そこから紡が\nれる言葉は、クヴストディアを\n形作るものにのみ聞き取れる。\nその言葉は昏睡状態にある根を\n起こし、持ち主が先に進めるよ\nう道を生み出すだろう。",
+    "pt-BR" : "Unidas por um juramento quebrado, essas línguas falam palavras que só os alicerces de Cvstodia conseguem ouvir. Seus apelos despertam as raízes adormecidas da letargia, criando passarelas e plataformas escaláveis para seus usuários.",
+    "ko" : "깨진 맹세로 묶인 이들의 혀는 쿠스토디아의 밑바닥에서 들을 수 있는 말을 전한다. 그 혀에서 나오는 탄원은 무기력 아래 잠자는 근원을 깨워 착용자에게 오를 수 있는 사다리와 발판을 제공한다."
+  },
+  "lore" : {
+    "es" : "Estas son las tres lenguas nacidas de la monstruosidad. Tres lenguas que son tres voces. Tres clamores en sintonía. Las lenguas se anudan formando una sola. Las raíces en su presencia crecen y se retuercen como los cabellos de lo que una vez fueron tres hermanas.",
+    "en" : "These are the three tongues born from the monstrosity. Three tongues that are three voices. Three cries in harmony. The tongues are knotted into one. Roots grow and twist in their presence, just like the hair of what were once three sisters.",
+    "fr" : "Voici les trois langues nées de la monstruosité. Trois langues qui sont trois voix. Trois cris en harmonie. Les langues sont nouées. Des racines poussent et croissent en leur présence, comme les cheveux de ces trois qui furent sœurs.",
+    "de" : "Dies sind die drei aus der Monstrosität geborenen Zungen. Drei Zungen, die drei Stimmen sind. Drei Schreie in Harmonie. Die Zungen wurden zu einer einzigen verknotet. In ihrer Gegenwart wuchert Wurzelwerk, gleich dem Haar, das einst drei Schwestern gehörte.",
+    "it" : "Queste sono le tre lingue originatesi dalla mostruosità. Tre lingue che sono tre voci. Tre clamori in armonia. Le lingue annodate, divenute una sola. Le radici crescono e si attorcigliano in loro presenza, proprio come i capelli di quelle che un tempo furono tre sorelle.",
+    "zh" : "这是畸形怪物的三条舌头，能发出不同的声音，三种声音能和谐一致。三条舌头团成一结，所到之处，根须就会生长拧成，好似曾经三姐妹的秀发一般",
+    "ru" : "Это три языка чудовища. Три языка трех голосов. Три крика в унисон. Три языка, связанных в один. Корни растут и извиваются при их приближении, как волосы тех, кто были когда-то тремя сестрами.",
+    "ja" : "これらは怪物より産まれ出でた、三枚の舌であ\nる。三つの声を響かせる三枚の舌。三つは調和\nし、一つとなって声をあげる。三枚の舌は一つ\nに結びつけられた。この舌の存在を感じ取った\n根は、三姉妹の髪の毛のように、成長し捻じれ\nゆく。",
+    "pt-BR" : "Estas são as três línguas oriundas da monstruosidade. Três línguas que representam três vozes. Três lamentos em harmonia. As línguas estão amarradas como uma. As raízes crescem e se retorcem na presença delas, assim como os cabelos do que antes foram três irmãs.",
+    "ko" : "세 개의 혀는 흉물스러운 생명에서 태어난다. 세 혀는 세 가지 목소리를 지닌다. 세 명의 울음은 화음을 이룬다. 그 혀는 하나처럼 얽혀있다. 한때 세 자매였던 이들의 머리카락처럼 그 존재는 자라는 뿌리와 함께 뒤틀린 것으로 변한다."
+  }
+} ]

@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Blasphemous API',
-  tagline: 'The ultimate fan-made Blasphemous API',
-  url: 'https://bphm-api.vercel.app/doc/',
+  tagline: 'Documentation for Blasphemous API',
+  url: 'https://bphm-api-docs.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/blasphemous-icon.png',

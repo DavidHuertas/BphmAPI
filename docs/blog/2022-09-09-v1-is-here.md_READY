@@ -1,0 +1,46 @@
+---
+slug: v1-release-coming
+title: A new version of Blasphemous API is coming soon
+author: David Huertas
+author_title: Blasphemous API Author
+author_url: https://github.com/davidhuertas
+author_image_url: https://avatars.githubusercontent.com/u/12070024?v=4
+tags: [release, documentation, api]
+---
+
+## A new release of Blasphemous API is coming soon
+
+Hello everyone! It's been a while that I don't give the attention 
+this project deserves. So I worked on several improvements to make 
+this API faster, more reliable and with more features.
+
+## GraphQL is here
+
+GraphQL is an open-source data query and manipulation language created 
+by Facebook in 2015. It provides a more efficient and scalable way to 
+access and update data compared to traditional REST API endpoints.
+
+GraphQL allows clients to specify the exact data they need from servers, 
+reducing the number of requests and bandwidth needed. Servers can also 
+batch multiple queries into a single request, improving performance. 
+You can get started by visiting https://bphm-api.vercel.app/api/graphql 
+and play around with the data.
+
+## CORS is now open
+
+There's no reason having our API calls blocked by CORS, so now every 
+site should be able to directly make calls to this API.
+
+## What's New?
+
+- GraphQL endpoints
+- CORS will no longer be an issue
+- GraphQL Testing Sandbox
+- Improved performance
+- Documentation rewrite
+- Blasphemous API data made public.
+- Anyone can deploy it and get it working just like this repository does.
+- Code improvements
+- Upgrade to NodeJS 14x
+- Upgrade to NextJS 12
+

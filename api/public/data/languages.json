@@ -1,0 +1,42 @@
+[
+  {
+    "language": "Español",
+    "code": "es"
+  },
+  {
+    "language": "English",
+    "code": "en"
+  },
+  {
+    "language": "Français",
+    "code": "fr"
+  },
+  {
+    "language": "Deutsch",
+    "code": "de"
+  },
+  {
+    "language": "Italiano",
+    "code": "it"
+  },
+  {
+    "language": "中国人",
+    "code": "zh"
+  },
+  {
+    "language": "Русский",
+    "code": "ru"
+  },
+  {
+    "language": "日本",
+    "code": "ja"
+  },
+  {
+    "language": "Português (Brasil)",
+    "code": "pt-BR"
+  },
+  {
+    "language": "한국어",
+    "code": "ko"
+  }
+]

@@ -1,13 +1,10 @@
 {
-  "name": "fanapis-mongodb",
-  "version": 2,
+  "name": "BphmAPI",
+  "version": 0,
   "env": {
-    "MONGODB_URI": "@my-mongodb-uri"
   },
   "build": {
     "env": {
-      "MONGODB_URI": "@my-mongodb-uri"
     }
   }
 }
-

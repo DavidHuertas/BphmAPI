@@ -7,7 +7,7 @@ function Index() {
     <div className="container">
       <Head>
       <link rel="icon" href="/blasphemous-icon.png" />
-        <title>FanAPIs Template</title>
+        <title>Blasphemous API</title>
         <meta
           name="description"
           content="Blasphemous API Description"
@@ -59,7 +59,7 @@ function Index() {
         }
         
         .apiLogo {
-          margin-top: 15%;
+          margin-top: 10%;
           min-width: 350px;
           max-width: 25%;
           height: auto;
@@ -70,11 +70,11 @@ function Index() {
         }
 
        a {
-         color: white;
+         color: #EDD075;
          text-decoration: none;
          letter-spacing: 2px;
-         font-size: 18px;
-         border: 2px solid #ffffff55;
+         font-size: 22px;
+         border: 2px solid #CC990055;
          text-align: center;
          padding: 24px 50px;
          transition: all .35s;
@@ -82,9 +82,10 @@ function Index() {
        }
 
        a:hover {
-        color: black;
-        border: 3px solid #fff;
-        background: #fff
+        color: #4A2E00;
+        font-size: 25px;
+        border: 3px solid #755800;
+        background: #CC990055
       }
         
       `}</style>

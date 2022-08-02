@@ -25,7 +25,7 @@ function Index() {
           <img className='apiLogo' src='/bphm-os-api.png'/>
           <div className='buttons'>
             <a className='myButton'
-              href='https://docs.<project>.fanapis.com/docs'>
+              href='https://bphm-api-docs.vercel.app/'>
               Go to Documentation
             </a>
           </div>

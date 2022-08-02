@@ -46,7 +46,7 @@ function Index() {
         }
         .heroBanner {
           height: 100vh;
-          background: url(blasphemous_bg.jpg) no-repeat top right;
+          background: url(blasphemous-bg.jpg) no-repeat top right;
           ///background: linear-gradient(to right, rgb(236, 0, 140), rgb(252, 103, 103));
           -webkit-background-size: cover;
           -moz-background-size: cover;

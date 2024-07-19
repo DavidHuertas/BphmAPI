@@ -4,7 +4,7 @@ import { parseLimit } from "utils/responsePipes";
 export const simpleJSONGetAllHandler = async (req, res, model) => {
   const { method } = req;
   const pageOptions = {
-    language: req.query.language || undefined,
+    language: req.query.language.toLowerCase() || undefined,
     page: parseInt(req.query.page, 10) || 0,
     limit: parseLimit(req.query.limit),
     name: req.query.name || undefined,
@@ -55,7 +55,7 @@ export const simpleJSONGetByIdHandler = async (req, res, model) => {
     method,
   } = req;
   const pageOptions = {
-    language: req.query.language || undefined
+    language: req.query.language.toLowerCase() || undefined
   }
 
     const Model = new JSONDriver(model);

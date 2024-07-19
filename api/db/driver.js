@@ -34,8 +34,8 @@ export class JSONDriver {
     if (language) {
       this.data = this.data.map((entry) => {
         for (const property in entry) {
-          if (entry[property][language] !== undefined) {
-            entry[property] = entry[property][language];
+          if (entry[property][language.toLowerCase()] !== undefined) {
+            entry[property] = entry[property][language.toLowerCase()];
           }
         }
         return entry;
@@ -68,8 +68,8 @@ export class JSONDriver {
     if (language){
       this.data = this.data.map((entry) => {
         for (const property in entry) {
-          if (entry[property][language] !== undefined) {
-            entry[property] = entry[property][language];
+          if (entry[property][language.toLowerCase()] !== undefined) {
+            entry[property] = entry[property][language.toLowerCase()];
           }
         }
         return entry;
@@ -104,8 +104,8 @@ export class JSONDriver {
     if (language) {
       this.data = this.data.map((entry) => {
         for (const property in entry) {
-          if (entry[property][language] !== undefined) {
-            entry[property] = entry[property][language];
+          if (entry[property][language.toLowerCase()] !== undefined) {
+            entry[property] = entry[property][language.toLowerCase()];
           }
         }
         return entry;
